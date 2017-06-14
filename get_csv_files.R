@@ -83,8 +83,21 @@ csv_urls <- csv_urls %>%
 
 # 3. Get csv files --------------------------------------------------------
 
+get_csv_files <- function(url, file_name){
+  
+  # read the csv from url
+  csv_temp <- read_csv(url)
+  
+  # wait to prevent hitting server too regularly
+  Sys.sleep(2.5 + runif(1))
+  
+  # write csv
+  write_csv(csv_temp, file_name)
+  
+  rm(csv_temp)
+}
 
-
+pmap(list(csv_urls$url, csv_urls$file_name), get_csv_files)
 
 
 
