@@ -13,7 +13,7 @@ library('rvest')
 
 # dir & create /data/ subdir if doesn't exist
 project_wd <- getwd()
-data_dir <- paste0(project_wd, "/data")
+data_dir <- paste0(project_wd, "/raw_data")
 if(dir.exists(data_dir)==FALSE){dir.create(data_dir)}
 
 
@@ -86,7 +86,10 @@ csv_urls <- csv_urls %>%
 get_csv_files <- function(url, file_name){
   
   # read the csv from url
-  csv_temp <- read_csv(url)
+  csv_temp <- read.csv(url)
+  
+  # convert to tibble
+  csv_temp <- as.tibble(csv_temp)
   
   # wait to prevent hitting server too regularly
   Sys.sleep(2.5 + runif(1))
@@ -97,7 +100,15 @@ get_csv_files <- function(url, file_name){
   rm(csv_temp)
 }
 
-pmap(list(csv_urls$url, csv_urls$file_name), get_csv_files)
+# download csv files via loop
+for (i in seq(1, nrow(csv_urls))){
+  
+  # get csv file
+  get_csv_files(csv_urls$url[i], csv_urls$file_name[i])
+  print(i)
+}
+rm(i)
+
 
 
 
