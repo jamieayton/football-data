@@ -74,7 +74,8 @@ csv_urls <- csv_urls %>%
 # create a filename for the csv file
 csv_urls <- csv_urls %>% 
   mutate(
-    file_name = paste0(data_dir, "/", league_code, "_", season_code, ".csv")
+    file_code = paste0(league_code, "_", season_code), 
+    file_name = paste0(data_dir, "/", file_code, ".csv")
   )
 
 
@@ -109,6 +110,62 @@ for (i in seq(1, nrow(csv_urls))){
 }
 rm(i)
 
+
+# write csv_urls
+write_csv(csv_urls, file.path(paste0("csv_urls", ".csv")))
+
+
+
+# 4. Create parsed df with universal format -------------------------------
+
+# read data
+football_data <- map(csv_urls$file_name, read_csv) %>% 
+  setNames(., csv_urls$file_code)
+
+
+# desired columns to keep
+desired_columns <- c(
+  "Div", "Date", "HomeTeam", "AwayTeam", "FTHG", "FTAG", "FTR", "HS", "AS", "HST", "AST", 
+  "B365H", "B365D", "B365A", "PSH", "PSD", "PSA", "PSCH", "PSCD", "PSCA", 
+  "BbMxH", "BbMxD", "BbMxA", "BbAvH", "BbAvD", "BbAvA", "BbMx.2.5", "BbMx.2.5.1", "BbAv.2.5", "BbAv.2.5.1", 
+  "BbAHh", "BbMxAHH", "BbMxAHA", "BbAvAHH" , "BbAvAHA"
+)
+
+# drop NAs
+# select desired columns
+# create id link back to original csv
+# force formatting before binding
+# drop NAs for critical cols
+football_data <- map(
+    seq_along(football_data), 
+    function(x) football_data[[x]] %>% 
+      drop_na() %>% 
+      select(one_of(desired_columns[desired_columns %in% colnames(.)])) %>% 
+      mutate(
+        id = names(football_data)[x]
+      ) %>% 
+      mutate(
+        BbAHh = as.character(if(exists('BbAHh', where=.)){BbAHh} else {NA}), 
+        PSCH = as.numeric(if(exists('PSCH', where=.)){PSCH} else {NA})
+      )
+  ) %>% 
+  bind_rows(.) %>% 
+  drop_na(one_of("Div", "Date", "HomeTeam", "AwayTeam", "FTHG", "FTAG", "FTR"))
+
+rm(desired_columns)
+
+
+# write
+write_csv(football_data, paste0("football_data", ".csv"))
+
+
+
+
+# 5. Cleanup --------------------------------------------------------------
+
+rm(football_data, csv_urls, page_urls)
+rm(project_wd, data_dir)
+rm(get_csv_files)
 
 
 
