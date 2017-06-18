@@ -139,7 +139,6 @@ desired_columns <- c(
 football_data <- map(
     seq_along(football_data), 
     function(x) football_data[[x]] %>% 
-      drop_na() %>% 
       select(one_of(desired_columns[desired_columns %in% colnames(.)])) %>% 
       mutate(
         id = names(football_data)[x]
@@ -150,6 +149,8 @@ football_data <- map(
       )
   ) %>% 
   bind_rows(.) %>% 
+  bind_cols(., str_split(.$id, "_", simplify=TRUE) %>% as.tibble()) %>% 
+  rename(league_code = V1, season_code = V2) %>% 
   drop_na(one_of("Div", "Date", "HomeTeam", "AwayTeam", "FTHG", "FTAG", "FTR"))
 
 rm(desired_columns)
