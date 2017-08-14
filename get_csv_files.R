@@ -34,7 +34,7 @@ csv_urls <- tibble(
 )
 
 # loop through page_urls and populate csv_urls
-for (i in seq(1, nrow(page_urls))){
+for (i in seq(1L, nrow(page_urls))){
   
   # read page and wait to make sure not hitting server too regularly
   webpage <- read_html(page_urls$url[i])
@@ -102,7 +102,7 @@ get_csv_files <- function(url, file_name){
 }
 
 # download csv files via loop
-for (i in seq(1, nrow(csv_urls))){
+for (i in seq(1L, nrow(csv_urls))){
   
   # get csv file
   get_csv_files(csv_urls$url[i], csv_urls$file_name[i])
