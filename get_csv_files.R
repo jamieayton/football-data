@@ -177,7 +177,8 @@ football_data <- football_data %>%
     starts_with("B365"), 
     starts_with("BbAv"), 
     starts_with("BbMx"), 
-    starts_with("BbAH")
+    starts_with("BbAH"), 
+    starts_with("PS")
   ) %>% 
   select(
     -starts_with("B365."), 
@@ -194,7 +195,7 @@ football_data <- football_data %>%
     .funs = function(x) x %>% as.integer()
   ) %>% 
   mutate_at(
-    .vars = vars(starts_with("B365")), 
+    .vars = vars(starts_with("B365|PS")), 
     .funs = function(x) x %>% as.numeric()
   ) %>% 
   mutate_at(
@@ -205,11 +206,11 @@ football_data <- football_data %>%
 # fix incorrect data
 football_data <- football_data %>% 
   mutate_at(
-    .vars = vars(starts_with("B365|BbAv|BbMx")), 
+    .vars = vars(starts_with("B365|BbAv|BbMx|PS")), 
     .funs = function(x) if_else(near(x, 0), NA, x)
   ) %>% 
   mutate_at(
-    .vars = vars(starts_with("B365|BbAv|BbMx")), 
+    .vars = vars(starts_with("B365|BbAv|BbMx|PS")), 
     .funs = function(x) if_else(x < 1.0, NA, x)
   )
 
