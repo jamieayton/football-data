@@ -1,0 +1,2713 @@
+league_code,season_code,Div,Date,HomeTeam,AwayTeam,FTR
+E0,1819,E0,2018-08-10,Man United,Leicester,H
+E0,1819,E0,2018-08-11,Bournemouth,Cardiff,H
+E0,1819,E0,2018-08-11,Fulham,Crystal Palace,A
+E0,1819,E0,2018-08-11,Huddersfield,Chelsea,A
+E0,1819,E0,2018-08-11,Newcastle,Tottenham,A
+E0,1819,E0,2018-08-11,Watford,Brighton,H
+E0,1819,E0,2018-08-11,Wolves,Everton,D
+E0,1819,E0,2018-08-12,Arsenal,Man City,A
+E0,1819,E0,2018-08-12,Liverpool,West Ham,H
+E0,1819,E0,2018-08-12,Southampton,Burnley,D
+E0,1819,E0,2018-08-18,Cardiff,Newcastle,D
+E0,1819,E0,2018-08-18,Chelsea,Arsenal,H
+E0,1819,E0,2018-08-18,Everton,Southampton,H
+E0,1819,E0,2018-08-18,Leicester,Wolves,H
+E0,1819,E0,2018-08-18,Tottenham,Fulham,H
+E0,1819,E0,2018-08-18,West Ham,Bournemouth,A
+E0,1819,E0,2018-08-19,Brighton,Man United,H
+E0,1819,E0,2018-08-19,Burnley,Watford,A
+E0,1819,E0,2018-08-19,Man City,Huddersfield,H
+E0,1819,E0,2018-08-20,Crystal Palace,Liverpool,A
+E0,1819,E0,2018-08-25,Arsenal,West Ham,H
+E0,1819,E0,2018-08-25,Bournemouth,Everton,D
+E0,1819,E0,2018-08-25,Huddersfield,Cardiff,D
+E0,1819,E0,2018-08-25,Liverpool,Brighton,H
+E0,1819,E0,2018-08-25,Southampton,Leicester,A
+E0,1819,E0,2018-08-25,Wolves,Man City,D
+E0,1819,E0,2018-08-26,Fulham,Burnley,H
+E0,1819,E0,2018-08-26,Newcastle,Chelsea,A
+E0,1819,E0,2018-08-26,Watford,Crystal Palace,H
+E0,1819,E0,2018-08-27,Man United,Tottenham,A
+E0,1819,E0,2018-09-01,Brighton,Fulham,D
+E0,1819,E0,2018-09-01,Chelsea,Bournemouth,H
+E0,1819,E0,2018-09-01,Crystal Palace,Southampton,A
+E0,1819,E0,2018-09-01,Everton,Huddersfield,D
+E0,1819,E0,2018-09-01,Leicester,Liverpool,A
+E0,1819,E0,2018-09-01,Man City,Newcastle,H
+E0,1819,E0,2018-09-01,West Ham,Wolves,A
+E0,1819,E0,2018-09-02,Burnley,Man United,A
+E0,1819,E0,2018-09-02,Cardiff,Arsenal,A
+E0,1819,E0,2018-09-02,Watford,Tottenham,H
+E0,1819,E0,2018-09-15,Bournemouth,Leicester,H
+E0,1819,E0,2018-09-15,Chelsea,Cardiff,H
+E0,1819,E0,2018-09-15,Huddersfield,Crystal Palace,A
+E0,1819,E0,2018-09-15,Man City,Fulham,H
+E0,1819,E0,2018-09-15,Newcastle,Arsenal,A
+E0,1819,E0,2018-09-15,Tottenham,Liverpool,A
+E0,1819,E0,2018-09-15,Watford,Man United,A
+E0,1819,E0,2018-09-16,Everton,West Ham,A
+E0,1819,E0,2018-09-16,Wolves,Burnley,H
+E0,1819,E0,2018-09-17,Southampton,Brighton,D
+E0,1819,E0,2018-09-22,Brighton,Tottenham,A
+E0,1819,E0,2018-09-22,Burnley,Bournemouth,H
+E0,1819,E0,2018-09-22,Cardiff,Man City,A
+E0,1819,E0,2018-09-22,Crystal Palace,Newcastle,D
+E0,1819,E0,2018-09-22,Fulham,Watford,D
+E0,1819,E0,2018-09-22,Leicester,Huddersfield,H
+E0,1819,E0,2018-09-22,Liverpool,Southampton,H
+E0,1819,E0,2018-09-22,Man United,Wolves,D
+E0,1819,E0,2018-09-23,Arsenal,Everton,H
+E0,1819,E0,2018-09-23,West Ham,Chelsea,D
+E0,1819,E0,2018-09-29,Arsenal,Watford,H
+E0,1819,E0,2018-09-29,Chelsea,Liverpool,D
+E0,1819,E0,2018-09-29,Everton,Fulham,H
+E0,1819,E0,2018-09-29,Huddersfield,Tottenham,A
+E0,1819,E0,2018-09-29,Man City,Brighton,H
+E0,1819,E0,2018-09-29,Newcastle,Leicester,A
+E0,1819,E0,2018-09-29,West Ham,Man United,H
+E0,1819,E0,2018-09-29,Wolves,Southampton,H
+E0,1819,E0,2018-09-30,Cardiff,Burnley,A
+E0,1819,E0,2018-10-01,Bournemouth,Crystal Palace,H
+E0,1819,E0,2018-10-05,Brighton,West Ham,H
+E0,1819,E0,2018-10-06,Burnley,Huddersfield,D
+E0,1819,E0,2018-10-06,Crystal Palace,Wolves,A
+E0,1819,E0,2018-10-06,Leicester,Everton,A
+E0,1819,E0,2018-10-06,Man United,Newcastle,H
+E0,1819,E0,2018-10-06,Tottenham,Cardiff,H
+E0,1819,E0,2018-10-06,Watford,Bournemouth,A
+E0,1819,E0,2018-10-07,Fulham,Arsenal,A
+E0,1819,E0,2018-10-07,Liverpool,Man City,D
+E0,1819,E0,2018-10-07,Southampton,Chelsea,A
+E0,1819,E0,2018-10-20,Bournemouth,Southampton,D
+E0,1819,E0,2018-10-20,Cardiff,Fulham,H
+E0,1819,E0,2018-10-20,Chelsea,Man United,D
+E0,1819,E0,2018-10-20,Huddersfield,Liverpool,A
+E0,1819,E0,2018-10-20,Man City,Burnley,H
+E0,1819,E0,2018-10-20,Newcastle,Brighton,A
+E0,1819,E0,2018-10-20,West Ham,Tottenham,A
+E0,1819,E0,2018-10-20,Wolves,Watford,A
+E0,1819,E0,2018-10-21,Everton,Crystal Palace,H
+E0,1819,E0,2018-10-22,Arsenal,Leicester,H
+E0,1819,E0,2018-10-27,Brighton,Wolves,H
+E0,1819,E0,2018-10-27,Fulham,Bournemouth,A
+E0,1819,E0,2018-10-27,Leicester,West Ham,D
+E0,1819,E0,2018-10-27,Liverpool,Cardiff,H
+E0,1819,E0,2018-10-27,Southampton,Newcastle,D
+E0,1819,E0,2018-10-27,Watford,Huddersfield,H
+E0,1819,E0,2018-10-28,Burnley,Chelsea,A
+E0,1819,E0,2018-10-28,Crystal Palace,Arsenal,D
+E0,1819,E0,2018-10-28,Man United,Everton,H
+E0,1819,E0,2018-10-29,Tottenham,Man City,A
+E0,1819,E0,2018-11-03,Arsenal,Liverpool,D
+E0,1819,E0,2018-11-03,Bournemouth,Man United,A
+E0,1819,E0,2018-11-03,Cardiff,Leicester,A
+E0,1819,E0,2018-11-03,Everton,Brighton,H
+E0,1819,E0,2018-11-03,Newcastle,Watford,H
+E0,1819,E0,2018-11-03,West Ham,Burnley,H
+E0,1819,E0,2018-11-03,Wolves,Tottenham,A
+E0,1819,E0,2018-11-04,Chelsea,Crystal Palace,H
+E0,1819,E0,2018-11-04,Man City,Southampton,H
+E0,1819,E0,2018-11-05,Huddersfield,Fulham,H
+E0,1819,E0,2018-11-10,Cardiff,Brighton,H
+E0,1819,E0,2018-11-10,Crystal Palace,Tottenham,A
+E0,1819,E0,2018-11-10,Huddersfield,West Ham,D
+E0,1819,E0,2018-11-10,Leicester,Burnley,D
+E0,1819,E0,2018-11-10,Newcastle,Bournemouth,H
+E0,1819,E0,2018-11-10,Southampton,Watford,D
+E0,1819,E0,2018-11-11,Arsenal,Wolves,D
+E0,1819,E0,2018-11-11,Chelsea,Everton,D
+E0,1819,E0,2018-11-11,Liverpool,Fulham,H
+E0,1819,E0,2018-11-11,Man City,Man United,H
+E0,1819,E0,2018-11-24,Brighton,Leicester,D
+E0,1819,E0,2018-11-24,Everton,Cardiff,H
+E0,1819,E0,2018-11-24,Fulham,Southampton,H
+E0,1819,E0,2018-11-24,Man United,Crystal Palace,D
+E0,1819,E0,2018-11-24,Tottenham,Chelsea,H
+E0,1819,E0,2018-11-24,Watford,Liverpool,A
+E0,1819,E0,2018-11-24,West Ham,Man City,A
+E0,1819,E0,2018-11-25,Bournemouth,Arsenal,A
+E0,1819,E0,2018-11-25,Wolves,Huddersfield,A
+E0,1819,E0,2018-11-26,Burnley,Newcastle,A
+E0,1819,E0,2018-11-30,Cardiff,Wolves,H
+E0,1819,E0,2018-12-01,Crystal Palace,Burnley,H
+E0,1819,E0,2018-12-01,Huddersfield,Brighton,A
+E0,1819,E0,2018-12-01,Leicester,Watford,H
+E0,1819,E0,2018-12-01,Man City,Bournemouth,H
+E0,1819,E0,2018-12-01,Newcastle,West Ham,A
+E0,1819,E0,2018-12-01,Southampton,Man United,D
+E0,1819,E0,2018-12-02,Arsenal,Tottenham,H
+E0,1819,E0,2018-12-02,Chelsea,Fulham,H
+E0,1819,E0,2018-12-02,Liverpool,Everton,H
+E0,1819,E0,2018-12-04,Bournemouth,Huddersfield,H
+E0,1819,E0,2018-12-04,Brighton,Crystal Palace,H
+E0,1819,E0,2018-12-04,Watford,Man City,A
+E0,1819,E0,2018-12-04,West Ham,Cardiff,H
+E0,1819,E0,2018-12-05,Burnley,Liverpool,A
+E0,1819,E0,2018-12-05,Everton,Newcastle,D
+E0,1819,E0,2018-12-05,Fulham,Leicester,D
+E0,1819,E0,2018-12-05,Man United,Arsenal,D
+E0,1819,E0,2018-12-05,Tottenham,Southampton,H
+E0,1819,E0,2018-12-05,Wolves,Chelsea,H
+E0,1819,E0,2018-12-08,Arsenal,Huddersfield,H
+E0,1819,E0,2018-12-08,Bournemouth,Liverpool,A
+E0,1819,E0,2018-12-08,Burnley,Brighton,H
+E0,1819,E0,2018-12-08,Cardiff,Southampton,H
+E0,1819,E0,2018-12-08,Chelsea,Man City,H
+E0,1819,E0,2018-12-08,Leicester,Tottenham,A
+E0,1819,E0,2018-12-08,Man United,Fulham,H
+E0,1819,E0,2018-12-08,West Ham,Crystal Palace,H
+E0,1819,E0,2018-12-09,Newcastle,Wolves,A
+E0,1819,E0,2018-12-10,Everton,Watford,D
+E0,1819,E0,2018-12-15,Crystal Palace,Leicester,H
+E0,1819,E0,2018-12-15,Fulham,West Ham,A
+E0,1819,E0,2018-12-15,Huddersfield,Newcastle,A
+E0,1819,E0,2018-12-15,Man City,Everton,H
+E0,1819,E0,2018-12-15,Tottenham,Burnley,H
+E0,1819,E0,2018-12-15,Watford,Cardiff,H
+E0,1819,E0,2018-12-15,Wolves,Bournemouth,H
+E0,1819,E0,2018-12-16,Brighton,Chelsea,A
+E0,1819,E0,2018-12-16,Liverpool,Man United,H
+E0,1819,E0,2018-12-16,Southampton,Arsenal,H
+E0,1819,E0,2018-12-21,Wolves,Liverpool,A
+E0,1819,E0,2018-12-22,Arsenal,Burnley,H
+E0,1819,E0,2018-12-22,Bournemouth,Brighton,H
+E0,1819,E0,2018-12-22,Cardiff,Man United,A
+E0,1819,E0,2018-12-22,Chelsea,Leicester,A
+E0,1819,E0,2018-12-22,Huddersfield,Southampton,A
+E0,1819,E0,2018-12-22,Man City,Crystal Palace,A
+E0,1819,E0,2018-12-22,Newcastle,Fulham,D
+E0,1819,E0,2018-12-22,West Ham,Watford,A
+E0,1819,E0,2018-12-23,Everton,Tottenham,A
+E0,1819,E0,2018-12-26,Brighton,Arsenal,D
+E0,1819,E0,2018-12-26,Burnley,Everton,A
+E0,1819,E0,2018-12-26,Crystal Palace,Cardiff,D
+E0,1819,E0,2018-12-26,Fulham,Wolves,D
+E0,1819,E0,2018-12-26,Leicester,Man City,H
+E0,1819,E0,2018-12-26,Liverpool,Newcastle,H
+E0,1819,E0,2018-12-26,Man United,Huddersfield,H
+E0,1819,E0,2018-12-26,Tottenham,Bournemouth,H
+E0,1819,E0,2018-12-26,Watford,Chelsea,A
+E0,1819,E0,2018-12-27,Southampton,West Ham,A
+E0,1819,E0,2018-12-29,Brighton,Everton,H
+E0,1819,E0,2018-12-29,Fulham,Huddersfield,H
+E0,1819,E0,2018-12-29,Leicester,Cardiff,A
+E0,1819,E0,2018-12-29,Liverpool,Arsenal,H
+E0,1819,E0,2018-12-29,Tottenham,Wolves,A
+E0,1819,E0,2018-12-29,Watford,Newcastle,D
+E0,1819,E0,2018-12-30,Burnley,West Ham,H
+E0,1819,E0,2018-12-30,Crystal Palace,Chelsea,A
+E0,1819,E0,2018-12-30,Man United,Bournemouth,H
+E0,1819,E0,2018-12-30,Southampton,Man City,A
+E0,1819,E0,2019-01-01,Arsenal,Fulham,H
+E0,1819,E0,2019-01-01,Cardiff,Tottenham,A
+E0,1819,E0,2019-01-01,Everton,Leicester,A
+E0,1819,E0,2019-01-02,Bournemouth,Watford,D
+E0,1819,E0,2019-01-02,Chelsea,Southampton,D
+E0,1819,E0,2019-01-02,Huddersfield,Burnley,A
+E0,1819,E0,2019-01-02,Newcastle,Man United,A
+E0,1819,E0,2019-01-02,West Ham,Brighton,D
+E0,1819,E0,2019-01-02,Wolves,Crystal Palace,A
+E0,1819,E0,2019-01-03,Man City,Liverpool,H
+E0,1819,E0,2019-01-12,Brighton,Liverpool,A
+E0,1819,E0,2019-01-12,Burnley,Fulham,H
+E0,1819,E0,2019-01-12,Cardiff,Huddersfield,D
+E0,1819,E0,2019-01-12,Chelsea,Newcastle,H
+E0,1819,E0,2019-01-12,Crystal Palace,Watford,A
+E0,1819,E0,2019-01-12,Leicester,Southampton,A
+E0,1819,E0,2019-01-12,West Ham,Arsenal,H
+E0,1819,E0,2019-01-13,Everton,Bournemouth,H
+E0,1819,E0,2019-01-13,Tottenham,Man United,A
+E0,1819,E0,2019-01-14,Man City,Wolves,H
+E0,1819,E0,2019-01-19,Arsenal,Chelsea,H
+E0,1819,E0,2019-01-19,Bournemouth,West Ham,H
+E0,1819,E0,2019-01-19,Liverpool,Crystal Palace,H
+E0,1819,E0,2019-01-19,Man United,Brighton,H
+E0,1819,E0,2019-01-19,Newcastle,Cardiff,H
+E0,1819,E0,2019-01-19,Southampton,Everton,H
+E0,1819,E0,2019-01-19,Watford,Burnley,D
+E0,1819,E0,2019-01-19,Wolves,Leicester,H
+E0,1819,E0,2019-01-20,Fulham,Tottenham,A
+E0,1819,E0,2019-01-20,Huddersfield,Man City,A
+E0,1819,E0,2019-01-29,Arsenal,Cardiff,H
+E0,1819,E0,2019-01-29,Fulham,Brighton,H
+E0,1819,E0,2019-01-29,Huddersfield,Everton,A
+E0,1819,E0,2019-01-29,Man United,Burnley,D
+E0,1819,E0,2019-01-29,Newcastle,Man City,H
+E0,1819,E0,2019-01-29,Wolves,West Ham,H
+E0,1819,E0,2019-01-30,Bournemouth,Chelsea,H
+E0,1819,E0,2019-01-30,Liverpool,Leicester,D
+E0,1819,E0,2019-01-30,Southampton,Crystal Palace,D
+E0,1819,E0,2019-01-30,Tottenham,Watford,H
+E0,1819,E0,2019-02-02,Brighton,Watford,D
+E0,1819,E0,2019-02-02,Burnley,Southampton,D
+E0,1819,E0,2019-02-02,Cardiff,Bournemouth,H
+E0,1819,E0,2019-02-02,Chelsea,Huddersfield,H
+E0,1819,E0,2019-02-02,Crystal Palace,Fulham,H
+E0,1819,E0,2019-02-02,Everton,Wolves,A
+E0,1819,E0,2019-02-02,Tottenham,Newcastle,H
+E0,1819,E0,2019-02-03,Leicester,Man United,A
+E0,1819,E0,2019-02-03,Man City,Arsenal,H
+E0,1819,E0,2019-02-04,West Ham,Liverpool,D
+E0,1819,E0,2019-02-06,Everton,Man City,A
+E0,1819,E0,2019-02-09,Brighton,Burnley,A
+E0,1819,E0,2019-02-09,Crystal Palace,West Ham,D
+E0,1819,E0,2019-02-09,Fulham,Man United,A
+E0,1819,E0,2019-02-09,Huddersfield,Arsenal,A
+E0,1819,E0,2019-02-09,Liverpool,Bournemouth,H
+E0,1819,E0,2019-02-09,Southampton,Cardiff,A
+E0,1819,E0,2019-02-09,Watford,Everton,H
+E0,1819,E0,2019-02-10,Man City,Chelsea,H
+E0,1819,E0,2019-02-10,Tottenham,Leicester,H
+E0,1819,E0,2019-02-11,Wolves,Newcastle,D
+E0,1819,E0,2019-02-22,Cardiff,Watford,A
+E0,1819,E0,2019-02-22,West Ham,Fulham,H
+E0,1819,E0,2019-02-23,Bournemouth,Wolves,D
+E0,1819,E0,2019-02-23,Burnley,Tottenham,H
+E0,1819,E0,2019-02-23,Leicester,Crystal Palace,A
+E0,1819,E0,2019-02-23,Newcastle,Huddersfield,H
+E0,1819,E0,2019-02-24,Arsenal,Southampton,H
+E0,1819,E0,2019-02-24,Man United,Liverpool,D
+E0,1819,E0,2019-02-26,Cardiff,Everton,A
+E0,1819,E0,2019-02-26,Huddersfield,Wolves,H
+E0,1819,E0,2019-02-26,Leicester,Brighton,H
+E0,1819,E0,2019-02-26,Newcastle,Burnley,H
+E0,1819,E0,2019-02-27,Arsenal,Bournemouth,H
+E0,1819,E0,2019-02-27,Chelsea,Tottenham,H
+E0,1819,E0,2019-02-27,Crystal Palace,Man United,A
+E0,1819,E0,2019-02-27,Liverpool,Watford,H
+E0,1819,E0,2019-02-27,Man City,West Ham,H
+E0,1819,E0,2019-02-27,Southampton,Fulham,H
+E0,1819,E0,2019-03-02,Bournemouth,Man City,A
+E0,1819,E0,2019-03-02,Brighton,Huddersfield,H
+E0,1819,E0,2019-03-02,Burnley,Crystal Palace,A
+E0,1819,E0,2019-03-02,Man United,Southampton,H
+E0,1819,E0,2019-03-02,Tottenham,Arsenal,D
+E0,1819,E0,2019-03-02,West Ham,Newcastle,H
+E0,1819,E0,2019-03-02,Wolves,Cardiff,H
+E0,1819,E0,2019-03-03,Everton,Liverpool,D
+E0,1819,E0,2019-03-03,Fulham,Chelsea,A
+E0,1819,E0,2019-03-03,Watford,Leicester,H
+E1,1819,E1,2018-08-03,Reading,Derby,A
+E1,1819,E1,2018-08-04,Birmingham,Norwich,D
+E1,1819,E1,2018-08-04,Brentford,Rotherham,H
+E1,1819,E1,2018-08-04,Bristol City,Nott'm Forest,D
+E1,1819,E1,2018-08-04,Ipswich,Blackburn,D
+E1,1819,E1,2018-08-04,Millwall,Middlesbrough,D
+E1,1819,E1,2018-08-04,Preston,QPR,H
+E1,1819,E1,2018-08-04,Sheffield United,Swansea,A
+E1,1819,E1,2018-08-04,West Brom,Bolton,A
+E1,1819,E1,2018-08-04,Wigan,Sheffield Weds,H
+E1,1819,E1,2018-08-05,Leeds,Stoke,H
+E1,1819,E1,2018-08-06,Hull,Aston Villa,A
+E1,1819,E1,2018-08-07,Middlesbrough,Sheffield United,H
+E1,1819,E1,2018-08-07,Nott'm Forest,West Brom,D
+E1,1819,E1,2018-08-11,Aston Villa,Wigan,H
+E1,1819,E1,2018-08-11,Blackburn,Millwall,D
+E1,1819,E1,2018-08-11,Bolton,Bristol City,D
+E1,1819,E1,2018-08-11,Derby,Leeds,A
+E1,1819,E1,2018-08-11,Middlesbrough,Birmingham,H
+E1,1819,E1,2018-08-11,Norwich,West Brom,A
+E1,1819,E1,2018-08-11,Nott'm Forest,Reading,H
+E1,1819,E1,2018-08-11,QPR,Sheffield United,A
+E1,1819,E1,2018-08-11,Rotherham,Ipswich,H
+E1,1819,E1,2018-08-11,Sheffield Weds,Hull,D
+E1,1819,E1,2018-08-11,Stoke,Brentford,D
+E1,1819,E1,2018-08-11,Swansea,Preston,H
+E1,1819,E1,2018-08-17,Birmingham,Swansea,D
+E1,1819,E1,2018-08-18,Bristol City,Middlesbrough,A
+E1,1819,E1,2018-08-18,Hull,Blackburn,A
+E1,1819,E1,2018-08-18,Ipswich,Aston Villa,D
+E1,1819,E1,2018-08-18,Leeds,Rotherham,H
+E1,1819,E1,2018-08-18,Millwall,Derby,H
+E1,1819,E1,2018-08-18,Preston,Stoke,D
+E1,1819,E1,2018-08-18,Reading,Bolton,A
+E1,1819,E1,2018-08-18,Sheffield United,Norwich,H
+E1,1819,E1,2018-08-18,West Brom,QPR,H
+E1,1819,E1,2018-08-18,Wigan,Nott'm Forest,D
+E1,1819,E1,2018-08-19,Brentford,Sheffield Weds,H
+E1,1819,E1,2018-08-21,Derby,Ipswich,H
+E1,1819,E1,2018-08-21,QPR,Bristol City,A
+E1,1819,E1,2018-08-21,Rotherham,Hull,A
+E1,1819,E1,2018-08-21,Swansea,Leeds,D
+E1,1819,E1,2018-08-22,Aston Villa,Brentford,D
+E1,1819,E1,2018-08-22,Blackburn,Reading,D
+E1,1819,E1,2018-08-22,Bolton,Birmingham,H
+E1,1819,E1,2018-08-22,Norwich,Preston,H
+E1,1819,E1,2018-08-22,Sheffield Weds,Millwall,H
+E1,1819,E1,2018-08-22,Stoke,Wigan,A
+E1,1819,E1,2018-08-24,Middlesbrough,West Brom,H
+E1,1819,E1,2018-08-25,Aston Villa,Reading,D
+E1,1819,E1,2018-08-25,Blackburn,Brentford,H
+E1,1819,E1,2018-08-25,Bolton,Sheffield United,A
+E1,1819,E1,2018-08-25,Derby,Preston,H
+E1,1819,E1,2018-08-25,Norwich,Leeds,A
+E1,1819,E1,2018-08-25,Nott'm Forest,Birmingham,D
+E1,1819,E1,2018-08-25,QPR,Wigan,H
+E1,1819,E1,2018-08-25,Sheffield Weds,Ipswich,H
+E1,1819,E1,2018-08-25,Stoke,Hull,H
+E1,1819,E1,2018-08-25,Swansea,Bristol City,A
+E1,1819,E1,2018-08-26,Rotherham,Millwall,H
+E1,1819,E1,2018-08-31,Leeds,Middlesbrough,D
+E1,1819,E1,2018-09-01,Birmingham,QPR,D
+E1,1819,E1,2018-09-01,Brentford,Nott'm Forest,H
+E1,1819,E1,2018-09-01,Hull,Derby,A
+E1,1819,E1,2018-09-01,Millwall,Swansea,A
+E1,1819,E1,2018-09-01,Preston,Bolton,D
+E1,1819,E1,2018-09-01,Reading,Sheffield Weds,A
+E1,1819,E1,2018-09-01,Sheffield United,Aston Villa,H
+E1,1819,E1,2018-09-01,West Brom,Stoke,H
+E1,1819,E1,2018-09-01,Wigan,Rotherham,H
+E1,1819,E1,2018-09-02,Bristol City,Blackburn,H
+E1,1819,E1,2018-09-02,Ipswich,Norwich,D
+E1,1819,E1,2018-09-14,Birmingham,West Brom,D
+E1,1819,E1,2018-09-15,Blackburn,Aston Villa,D
+E1,1819,E1,2018-09-15,Bolton,QPR,A
+E1,1819,E1,2018-09-15,Brentford,Wigan,H
+E1,1819,E1,2018-09-15,Bristol City,Sheffield United,H
+E1,1819,E1,2018-09-15,Hull,Ipswich,H
+E1,1819,E1,2018-09-15,Millwall,Leeds,D
+E1,1819,E1,2018-09-15,Norwich,Middlesbrough,H
+E1,1819,E1,2018-09-15,Preston,Reading,A
+E1,1819,E1,2018-09-15,Rotherham,Derby,H
+E1,1819,E1,2018-09-15,Sheffield Weds,Stoke,D
+E1,1819,E1,2018-09-15,Swansea,Nott'm Forest,D
+E1,1819,E1,2018-09-18,Aston Villa,Rotherham,H
+E1,1819,E1,2018-09-18,Derby,Blackburn,D
+E1,1819,E1,2018-09-18,Ipswich,Brentford,D
+E1,1819,E1,2018-09-18,Leeds,Preston,H
+E1,1819,E1,2018-09-18,Stoke,Swansea,H
+E1,1819,E1,2018-09-18,West Brom,Bristol City,H
+E1,1819,E1,2018-09-18,Wigan,Hull,H
+E1,1819,E1,2018-09-19,Middlesbrough,Bolton,H
+E1,1819,E1,2018-09-19,Nott'm Forest,Sheffield Weds,H
+E1,1819,E1,2018-09-19,QPR,Millwall,H
+E1,1819,E1,2018-09-19,Reading,Norwich,A
+E1,1819,E1,2018-09-19,Sheffield United,Birmingham,D
+E1,1819,E1,2018-09-21,Wigan,Bristol City,H
+E1,1819,E1,2018-09-22,Aston Villa,Sheffield Weds,A
+E1,1819,E1,2018-09-22,Derby,Brentford,H
+E1,1819,E1,2018-09-22,Ipswich,Bolton,D
+E1,1819,E1,2018-09-22,Leeds,Birmingham,A
+E1,1819,E1,2018-09-22,Middlesbrough,Swansea,D
+E1,1819,E1,2018-09-22,Nott'm Forest,Rotherham,H
+E1,1819,E1,2018-09-22,QPR,Norwich,A
+E1,1819,E1,2018-09-22,Reading,Hull,H
+E1,1819,E1,2018-09-22,Sheffield United,Preston,H
+E1,1819,E1,2018-09-22,Stoke,Blackburn,A
+E1,1819,E1,2018-09-22,West Brom,Millwall,H
+E1,1819,E1,2018-09-28,Bristol City,Aston Villa,D
+E1,1819,E1,2018-09-28,Sheffield Weds,Leeds,D
+E1,1819,E1,2018-09-29,Birmingham,Ipswich,D
+E1,1819,E1,2018-09-29,Blackburn,Nott'm Forest,D
+E1,1819,E1,2018-09-29,Bolton,Derby,H
+E1,1819,E1,2018-09-29,Brentford,Reading,D
+E1,1819,E1,2018-09-29,Hull,Middlesbrough,D
+E1,1819,E1,2018-09-29,Millwall,Sheffield United,A
+E1,1819,E1,2018-09-29,Norwich,Wigan,H
+E1,1819,E1,2018-09-29,Preston,West Brom,A
+E1,1819,E1,2018-09-29,Rotherham,Stoke,D
+E1,1819,E1,2018-09-29,Swansea,QPR,H
+E1,1819,E1,2018-10-02,Aston Villa,Preston,D
+E1,1819,E1,2018-10-02,Brentford,Birmingham,D
+E1,1819,E1,2018-10-02,Hull,Leeds,A
+E1,1819,E1,2018-10-02,Ipswich,Middlesbrough,A
+E1,1819,E1,2018-10-02,Reading,QPR,A
+E1,1819,E1,2018-10-02,Stoke,Bolton,H
+E1,1819,E1,2018-10-02,Wigan,Swansea,D
+E1,1819,E1,2018-10-03,Blackburn,Sheffield United,A
+E1,1819,E1,2018-10-03,Derby,Norwich,D
+E1,1819,E1,2018-10-03,Nott'm Forest,Millwall,D
+E1,1819,E1,2018-10-03,Rotherham,Bristol City,D
+E1,1819,E1,2018-10-03,Sheffield Weds,West Brom,D
+E1,1819,E1,2018-10-06,Birmingham,Rotherham,H
+E1,1819,E1,2018-10-06,Bolton,Blackburn,A
+E1,1819,E1,2018-10-06,Leeds,Brentford,D
+E1,1819,E1,2018-10-06,Middlesbrough,Nott'm Forest,A
+E1,1819,E1,2018-10-06,Millwall,Aston Villa,H
+E1,1819,E1,2018-10-06,Norwich,Stoke,A
+E1,1819,E1,2018-10-06,Preston,Wigan,H
+E1,1819,E1,2018-10-06,QPR,Derby,D
+E1,1819,E1,2018-10-06,Sheffield United,Hull,H
+E1,1819,E1,2018-10-06,Swansea,Ipswich,A
+E1,1819,E1,2018-10-06,West Brom,Reading,H
+E1,1819,E1,2018-10-07,Bristol City,Sheffield Weds,A
+E1,1819,E1,2018-10-19,Sheffield Weds,Middlesbrough,A
+E1,1819,E1,2018-10-20,Aston Villa,Swansea,H
+E1,1819,E1,2018-10-20,Blackburn,Leeds,H
+E1,1819,E1,2018-10-20,Brentford,Bristol City,A
+E1,1819,E1,2018-10-20,Derby,Sheffield United,H
+E1,1819,E1,2018-10-20,Hull,Preston,D
+E1,1819,E1,2018-10-20,Ipswich,QPR,A
+E1,1819,E1,2018-10-20,Nott'm Forest,Norwich,A
+E1,1819,E1,2018-10-20,Reading,Millwall,H
+E1,1819,E1,2018-10-20,Rotherham,Bolton,D
+E1,1819,E1,2018-10-20,Stoke,Birmingham,A
+E1,1819,E1,2018-10-20,Wigan,West Brom,H
+E1,1819,E1,2018-10-23,Birmingham,Reading,H
+E1,1819,E1,2018-10-23,Middlesbrough,Rotherham,D
+E1,1819,E1,2018-10-23,Millwall,Wigan,H
+E1,1819,E1,2018-10-23,Norwich,Aston Villa,H
+E1,1819,E1,2018-10-23,QPR,Sheffield Weds,H
+E1,1819,E1,2018-10-23,Sheffield United,Stoke,D
+E1,1819,E1,2018-10-23,Swansea,Blackburn,H
+E1,1819,E1,2018-10-24,Bolton,Nott'm Forest,A
+E1,1819,E1,2018-10-24,Bristol City,Hull,H
+E1,1819,E1,2018-10-24,Leeds,Ipswich,H
+E1,1819,E1,2018-10-24,Preston,Brentford,H
+E1,1819,E1,2018-10-24,West Brom,Derby,A
+E1,1819,E1,2018-10-26,QPR,Aston Villa,H
+E1,1819,E1,2018-10-27,Birmingham,Sheffield Weds,H
+E1,1819,E1,2018-10-27,Bolton,Hull,A
+E1,1819,E1,2018-10-27,Bristol City,Stoke,A
+E1,1819,E1,2018-10-27,Leeds,Nott'm Forest,D
+E1,1819,E1,2018-10-27,Middlesbrough,Derby,D
+E1,1819,E1,2018-10-27,Millwall,Ipswich,H
+E1,1819,E1,2018-10-27,Norwich,Brentford,H
+E1,1819,E1,2018-10-27,Preston,Rotherham,D
+E1,1819,E1,2018-10-27,Sheffield United,Wigan,H
+E1,1819,E1,2018-10-27,Swansea,Reading,H
+E1,1819,E1,2018-10-27,West Brom,Blackburn,D
+E1,1819,E1,2018-11-02,Aston Villa,Bolton,H
+E1,1819,E1,2018-11-03,Blackburn,QPR,H
+E1,1819,E1,2018-11-03,Brentford,Millwall,H
+E1,1819,E1,2018-11-03,Derby,Birmingham,H
+E1,1819,E1,2018-11-03,Hull,West Brom,H
+E1,1819,E1,2018-11-03,Ipswich,Preston,D
+E1,1819,E1,2018-11-03,Nott'm Forest,Sheffield United,H
+E1,1819,E1,2018-11-03,Reading,Bristol City,H
+E1,1819,E1,2018-11-03,Rotherham,Swansea,H
+E1,1819,E1,2018-11-03,Sheffield Weds,Norwich,A
+E1,1819,E1,2018-11-03,Stoke,Middlesbrough,D
+E1,1819,E1,2018-11-04,Wigan,Leeds,A
+E1,1819,E1,2018-11-09,Sheffield United,Sheffield Weds,D
+E1,1819,E1,2018-11-10,Birmingham,Hull,D
+E1,1819,E1,2018-11-10,Blackburn,Rotherham,D
+E1,1819,E1,2018-11-10,Bolton,Swansea,A
+E1,1819,E1,2018-11-10,Bristol City,Preston,A
+E1,1819,E1,2018-11-10,Derby,Aston Villa,A
+E1,1819,E1,2018-11-10,Middlesbrough,Wigan,H
+E1,1819,E1,2018-11-10,Norwich,Millwall,H
+E1,1819,E1,2018-11-10,Nott'm Forest,Stoke,D
+E1,1819,E1,2018-11-10,QPR,Brentford,H
+E1,1819,E1,2018-11-10,Reading,Ipswich,D
+E1,1819,E1,2018-11-10,West Brom,Leeds,H
+E1,1819,E1,2018-11-23,Ipswich,West Brom,A
+E1,1819,E1,2018-11-24,Brentford,Middlesbrough,A
+E1,1819,E1,2018-11-24,Hull,Nott'm Forest,A
+E1,1819,E1,2018-11-24,Leeds,Bristol City,H
+E1,1819,E1,2018-11-24,Millwall,Bolton,D
+E1,1819,E1,2018-11-24,Preston,Blackburn,H
+E1,1819,E1,2018-11-24,Rotherham,Sheffield United,D
+E1,1819,E1,2018-11-24,Sheffield Weds,Derby,A
+E1,1819,E1,2018-11-24,Stoke,QPR,D
+E1,1819,E1,2018-11-24,Swansea,Norwich,A
+E1,1819,E1,2018-11-24,Wigan,Reading,D
+E1,1819,E1,2018-11-25,Aston Villa,Birmingham,H
+E1,1819,E1,2018-11-27,Brentford,Sheffield United,A
+E1,1819,E1,2018-11-27,Hull,Norwich,D
+E1,1819,E1,2018-11-27,Leeds,Reading,H
+E1,1819,E1,2018-11-27,Preston,Middlesbrough,D
+E1,1819,E1,2018-11-27,Rotherham,QPR,D
+E1,1819,E1,2018-11-27,Sheffield Weds,Bolton,H
+E1,1819,E1,2018-11-28,Aston Villa,Nott'm Forest,D
+E1,1819,E1,2018-11-28,Ipswich,Bristol City,A
+E1,1819,E1,2018-11-28,Millwall,Birmingham,A
+E1,1819,E1,2018-11-28,Stoke,Derby,H
+E1,1819,E1,2018-11-28,Swansea,West Brom,A
+E1,1819,E1,2018-11-28,Wigan,Blackburn,H
+E1,1819,E1,2018-12-01,Birmingham,Preston,H
+E1,1819,E1,2018-12-01,Blackburn,Sheffield Weds,H
+E1,1819,E1,2018-12-01,Bolton,Wigan,D
+E1,1819,E1,2018-12-01,Derby,Swansea,H
+E1,1819,E1,2018-12-01,Middlesbrough,Aston Villa,A
+E1,1819,E1,2018-12-01,Norwich,Rotherham,H
+E1,1819,E1,2018-12-01,Nott'm Forest,Ipswich,H
+E1,1819,E1,2018-12-01,QPR,Hull,A
+E1,1819,E1,2018-12-01,Reading,Stoke,D
+E1,1819,E1,2018-12-01,Sheffield United,Leeds,A
+E1,1819,E1,2018-12-02,Bristol City,Millwall,D
+E1,1819,E1,2018-12-03,West Brom,Brentford,D
+E1,1819,E1,2018-12-07,West Brom,Aston Villa,D
+E1,1819,E1,2018-12-08,Birmingham,Bristol City,A
+E1,1819,E1,2018-12-08,Brentford,Swansea,A
+E1,1819,E1,2018-12-08,Leeds,QPR,H
+E1,1819,E1,2018-12-08,Middlesbrough,Blackburn,D
+E1,1819,E1,2018-12-08,Millwall,Hull,D
+E1,1819,E1,2018-12-08,Norwich,Bolton,H
+E1,1819,E1,2018-12-08,Nott'm Forest,Preston,A
+E1,1819,E1,2018-12-08,Reading,Sheffield United,A
+E1,1819,E1,2018-12-08,Sheffield Weds,Rotherham,D
+E1,1819,E1,2018-12-08,Stoke,Ipswich,H
+E1,1819,E1,2018-12-08,Wigan,Derby,A
+E1,1819,E1,2018-12-14,Sheffield United,West Brom,A
+E1,1819,E1,2018-12-15,Aston Villa,Stoke,D
+E1,1819,E1,2018-12-15,Blackburn,Birmingham,D
+E1,1819,E1,2018-12-15,Bolton,Leeds,A
+E1,1819,E1,2018-12-15,Bristol City,Norwich,D
+E1,1819,E1,2018-12-15,Hull,Brentford,H
+E1,1819,E1,2018-12-15,Ipswich,Wigan,H
+E1,1819,E1,2018-12-15,Preston,Millwall,H
+E1,1819,E1,2018-12-15,QPR,Middlesbrough,H
+E1,1819,E1,2018-12-15,Rotherham,Reading,D
+E1,1819,E1,2018-12-15,Swansea,Sheffield Weds,H
+E1,1819,E1,2018-12-17,Derby,Nott'm Forest,D
+E1,1819,E1,2018-12-22,Blackburn,Norwich,A
+E1,1819,E1,2018-12-22,Brentford,Bolton,H
+E1,1819,E1,2018-12-22,Derby,Bristol City,D
+E1,1819,E1,2018-12-22,Hull,Swansea,H
+E1,1819,E1,2018-12-22,Ipswich,Sheffield United,D
+E1,1819,E1,2018-12-22,Nott'm Forest,QPR,A
+E1,1819,E1,2018-12-22,Reading,Middlesbrough,A
+E1,1819,E1,2018-12-22,Rotherham,West Brom,A
+E1,1819,E1,2018-12-22,Sheffield Weds,Preston,H
+E1,1819,E1,2018-12-22,Stoke,Millwall,H
+E1,1819,E1,2018-12-22,Wigan,Birmingham,A
+E1,1819,E1,2018-12-23,Aston Villa,Leeds,A
+E1,1819,E1,2018-12-26,Birmingham,Stoke,H
+E1,1819,E1,2018-12-26,Bolton,Rotherham,H
+E1,1819,E1,2018-12-26,Bristol City,Brentford,D
+E1,1819,E1,2018-12-26,Leeds,Blackburn,H
+E1,1819,E1,2018-12-26,Middlesbrough,Sheffield Weds,A
+E1,1819,E1,2018-12-26,Millwall,Reading,H
+E1,1819,E1,2018-12-26,Norwich,Nott'm Forest,D
+E1,1819,E1,2018-12-26,Preston,Hull,A
+E1,1819,E1,2018-12-26,QPR,Ipswich,H
+E1,1819,E1,2018-12-26,Sheffield United,Derby,H
+E1,1819,E1,2018-12-26,Swansea,Aston Villa,A
+E1,1819,E1,2018-12-26,West Brom,Wigan,H
+E1,1819,E1,2018-12-29,Birmingham,Brentford,D
+E1,1819,E1,2018-12-29,Bolton,Stoke,D
+E1,1819,E1,2018-12-29,Bristol City,Rotherham,H
+E1,1819,E1,2018-12-29,Leeds,Hull,A
+E1,1819,E1,2018-12-29,Middlesbrough,Ipswich,H
+E1,1819,E1,2018-12-29,Millwall,Nott'm Forest,H
+E1,1819,E1,2018-12-29,Norwich,Derby,A
+E1,1819,E1,2018-12-29,Preston,Aston Villa,D
+E1,1819,E1,2018-12-29,QPR,Reading,D
+E1,1819,E1,2018-12-29,Sheffield United,Blackburn,H
+E1,1819,E1,2018-12-29,Swansea,Wigan,D
+E1,1819,E1,2018-12-29,West Brom,Sheffield Weds,D
+E1,1819,E1,2019-01-01,Aston Villa,QPR,D
+E1,1819,E1,2019-01-01,Blackburn,West Brom,H
+E1,1819,E1,2019-01-01,Brentford,Norwich,D
+E1,1819,E1,2019-01-01,Derby,Middlesbrough,D
+E1,1819,E1,2019-01-01,Hull,Bolton,H
+E1,1819,E1,2019-01-01,Ipswich,Millwall,A
+E1,1819,E1,2019-01-01,Nott'm Forest,Leeds,H
+E1,1819,E1,2019-01-01,Reading,Swansea,A
+E1,1819,E1,2019-01-01,Rotherham,Preston,H
+E1,1819,E1,2019-01-01,Sheffield Weds,Birmingham,D
+E1,1819,E1,2019-01-01,Stoke,Bristol City,A
+E1,1819,E1,2019-01-01,Wigan,Sheffield United,A
+E1,1819,E1,2019-01-11,Leeds,Derby,H
+E1,1819,E1,2019-01-12,Birmingham,Middlesbrough,A
+E1,1819,E1,2019-01-12,Brentford,Stoke,H
+E1,1819,E1,2019-01-12,Bristol City,Bolton,H
+E1,1819,E1,2019-01-12,Hull,Sheffield Weds,H
+E1,1819,E1,2019-01-12,Ipswich,Rotherham,H
+E1,1819,E1,2019-01-12,Millwall,Blackburn,A
+E1,1819,E1,2019-01-12,Preston,Swansea,D
+E1,1819,E1,2019-01-12,Reading,Nott'm Forest,H
+E1,1819,E1,2019-01-12,Sheffield United,QPR,H
+E1,1819,E1,2019-01-12,West Brom,Norwich,D
+E1,1819,E1,2019-01-12,Wigan,Aston Villa,H
+E1,1819,E1,2019-01-18,Norwich,Birmingham,H
+E1,1819,E1,2019-01-19,Aston Villa,Hull,D
+E1,1819,E1,2019-01-19,Blackburn,Ipswich,H
+E1,1819,E1,2019-01-19,Derby,Reading,H
+E1,1819,E1,2019-01-19,Middlesbrough,Millwall,D
+E1,1819,E1,2019-01-19,Nott'm Forest,Bristol City,A
+E1,1819,E1,2019-01-19,QPR,Preston,A
+E1,1819,E1,2019-01-19,Rotherham,Brentford,A
+E1,1819,E1,2019-01-19,Sheffield Weds,Wigan,H
+E1,1819,E1,2019-01-19,Stoke,Leeds,H
+E1,1819,E1,2019-01-19,Swansea,Sheffield United,H
+E1,1819,E1,2019-01-21,Bolton,West Brom,A
+E1,1819,E1,2019-01-26,Aston Villa,Ipswich,H
+E1,1819,E1,2019-01-26,Blackburn,Hull,H
+E1,1819,E1,2019-01-26,Norwich,Sheffield United,D
+E1,1819,E1,2019-01-26,Nott'm Forest,Wigan,H
+E1,1819,E1,2019-01-26,Rotherham,Leeds,A
+E1,1819,E1,2019-01-26,Stoke,Preston,A
+E1,1819,E1,2019-01-29,Bolton,Reading,D
+E1,1819,E1,2019-01-29,Swansea,Birmingham,D
+E1,1819,E1,2019-02-01,Preston,Derby,D
+E1,1819,E1,2019-02-02,Birmingham,Nott'm Forest,H
+E1,1819,E1,2019-02-02,Brentford,Blackburn,H
+E1,1819,E1,2019-02-02,Bristol City,Swansea,H
+E1,1819,E1,2019-02-02,Hull,Stoke,H
+E1,1819,E1,2019-02-02,Ipswich,Sheffield Weds,A
+E1,1819,E1,2019-02-02,Leeds,Norwich,A
+E1,1819,E1,2019-02-02,Millwall,Rotherham,D
+E1,1819,E1,2019-02-02,Reading,Aston Villa,D
+E1,1819,E1,2019-02-02,Sheffield United,Bolton,H
+E1,1819,E1,2019-02-02,West Brom,Middlesbrough,A
+E1,1819,E1,2019-02-02,Wigan,QPR,H
+E1,1819,E1,2019-02-08,Aston Villa,Sheffield United,D
+E1,1819,E1,2019-02-09,Blackburn,Bristol City,A
+E1,1819,E1,2019-02-09,Bolton,Preston,A
+E1,1819,E1,2019-02-09,Derby,Hull,H
+E1,1819,E1,2019-02-09,Middlesbrough,Leeds,D
+E1,1819,E1,2019-02-09,Nott'm Forest,Brentford,H
+E1,1819,E1,2019-02-09,QPR,Birmingham,A
+E1,1819,E1,2019-02-09,Rotherham,Wigan,D
+E1,1819,E1,2019-02-09,Sheffield Weds,Reading,D
+E1,1819,E1,2019-02-09,Stoke,West Brom,A
+E1,1819,E1,2019-02-09,Swansea,Millwall,H
+E1,1819,E1,2019-02-10,Norwich,Ipswich,H
+E1,1819,E1,2019-02-12,Birmingham,Bolton,A
+E1,1819,E1,2019-02-12,Bristol City,QPR,H
+E1,1819,E1,2019-02-12,Hull,Rotherham,D
+E1,1819,E1,2019-02-12,Millwall,Sheffield Weds,D
+E1,1819,E1,2019-02-12,West Brom,Nott'm Forest,D
+E1,1819,E1,2019-02-13,Brentford,Aston Villa,H
+E1,1819,E1,2019-02-13,Ipswich,Derby,D
+E1,1819,E1,2019-02-13,Leeds,Swansea,H
+E1,1819,E1,2019-02-13,Preston,Norwich,H
+E1,1819,E1,2019-02-13,Reading,Blackburn,H
+E1,1819,E1,2019-02-13,Sheffield United,Middlesbrough,H
+E1,1819,E1,2019-02-13,Wigan,Stoke,D
+E1,1819,E1,2019-02-16,Aston Villa,West Brom,A
+E1,1819,E1,2019-02-16,Bolton,Norwich,A
+E1,1819,E1,2019-02-16,Ipswich,Stoke,D
+E1,1819,E1,2019-02-16,Preston,Nott'm Forest,D
+E1,1819,E1,2019-02-16,Rotherham,Sheffield Weds,D
+E1,1819,E1,2019-02-16,Sheffield United,Reading,H
+E1,1819,E1,2019-02-17,Blackburn,Middlesbrough,A
+E1,1819,E1,2019-02-19,QPR,West Brom,A
+E1,1819,E1,2019-02-20,Derby,Millwall,A
+E1,1819,E1,2019-02-23,Birmingham,Blackburn,D
+E1,1819,E1,2019-02-23,Brentford,Hull,H
+E1,1819,E1,2019-02-23,Leeds,Bolton,H
+E1,1819,E1,2019-02-23,Middlesbrough,QPR,H
+E1,1819,E1,2019-02-23,Millwall,Preston,A
+E1,1819,E1,2019-02-23,Norwich,Bristol City,H
+E1,1819,E1,2019-02-23,Reading,Rotherham,D
+E1,1819,E1,2019-02-23,Sheffield Weds,Swansea,H
+E1,1819,E1,2019-02-23,Stoke,Aston Villa,D
+E1,1819,E1,2019-02-23,West Brom,Sheffield United,A
+E1,1819,E1,2019-02-23,Wigan,Ipswich,D
+E1,1819,E1,2019-02-25,Nott'm Forest,Derby,H
+E1,1819,E1,2019-02-26,Bristol City,Birmingham,A
+E1,1819,E1,2019-02-26,Hull,Millwall,H
+E1,1819,E1,2019-02-26,QPR,Leeds,H
+E1,1819,E1,2019-02-26,Sheffield Weds,Brentford,H
+E1,1819,E1,2019-03-01,Leeds,West Brom,H
+E1,1819,E1,2019-03-02,Aston Villa,Derby,H
+E1,1819,E1,2019-03-02,Brentford,QPR,H
+E1,1819,E1,2019-03-02,Hull,Birmingham,H
+E1,1819,E1,2019-03-02,Ipswich,Reading,A
+E1,1819,E1,2019-03-02,Millwall,Norwich,A
+E1,1819,E1,2019-03-02,Preston,Bristol City,D
+E1,1819,E1,2019-03-02,Rotherham,Blackburn,H
+E1,1819,E1,2019-03-02,Stoke,Nott'm Forest,H
+E1,1819,E1,2019-03-02,Swansea,Bolton,H
+E1,1819,E1,2019-03-02,Wigan,Middlesbrough,D
+E1,1819,E1,2019-03-04,Sheffield Weds,Sheffield United,D
+E2,1819,E2,2018-08-04,Accrington,Gillingham,A
+E2,1819,E2,2018-08-04,Barnsley,Oxford,H
+E2,1819,E2,2018-08-04,Burton,Rochdale,A
+E2,1819,E2,2018-08-04,Coventry,Scunthorpe,A
+E2,1819,E2,2018-08-04,Fleetwood Town,AFC Wimbledon,A
+E2,1819,E2,2018-08-04,Peterboro,Bristol Rvs,H
+E2,1819,E2,2018-08-04,Portsmouth,Luton,H
+E2,1819,E2,2018-08-04,Shrewsbury,Bradford,A
+E2,1819,E2,2018-08-04,Southend,Doncaster,A
+E2,1819,E2,2018-08-04,Sunderland,Charlton,H
+E2,1819,E2,2018-08-04,Walsall,Plymouth,H
+E2,1819,E2,2018-08-04,Wycombe,Blackpool,D
+E2,1819,E2,2018-08-11,AFC Wimbledon,Coventry,D
+E2,1819,E2,2018-08-11,Blackpool,Portsmouth,A
+E2,1819,E2,2018-08-11,Bradford,Barnsley,A
+E2,1819,E2,2018-08-11,Bristol Rvs,Accrington,A
+E2,1819,E2,2018-08-11,Charlton,Shrewsbury,H
+E2,1819,E2,2018-08-11,Doncaster,Wycombe,H
+E2,1819,E2,2018-08-11,Gillingham,Burton,H
+E2,1819,E2,2018-08-11,Luton,Sunderland,D
+E2,1819,E2,2018-08-11,Oxford,Fleetwood Town,A
+E2,1819,E2,2018-08-11,Plymouth,Southend,D
+E2,1819,E2,2018-08-11,Rochdale,Peterboro,A
+E2,1819,E2,2018-08-11,Scunthorpe,Walsall,D
+E2,1819,E2,2018-08-18,Accrington,Charlton,D
+E2,1819,E2,2018-08-18,Barnsley,AFC Wimbledon,D
+E2,1819,E2,2018-08-18,Burton,Doncaster,H
+E2,1819,E2,2018-08-18,Coventry,Plymouth,H
+E2,1819,E2,2018-08-18,Fleetwood Town,Rochdale,D
+E2,1819,E2,2018-08-18,Peterboro,Luton,H
+E2,1819,E2,2018-08-18,Portsmouth,Oxford,H
+E2,1819,E2,2018-08-18,Shrewsbury,Blackpool,D
+E2,1819,E2,2018-08-18,Southend,Bradford,H
+E2,1819,E2,2018-08-18,Walsall,Gillingham,H
+E2,1819,E2,2018-08-18,Wycombe,Bristol Rvs,A
+E2,1819,E2,2018-08-19,Sunderland,Scunthorpe,H
+E2,1819,E2,2018-08-21,AFC Wimbledon,Walsall,A
+E2,1819,E2,2018-08-21,Blackpool,Coventry,H
+E2,1819,E2,2018-08-21,Bradford,Burton,H
+E2,1819,E2,2018-08-21,Bristol Rvs,Portsmouth,A
+E2,1819,E2,2018-08-21,Charlton,Peterboro,A
+E2,1819,E2,2018-08-21,Doncaster,Shrewsbury,D
+E2,1819,E2,2018-08-21,Luton,Southend,H
+E2,1819,E2,2018-08-21,Oxford,Accrington,A
+E2,1819,E2,2018-08-21,Plymouth,Wycombe,D
+E2,1819,E2,2018-08-21,Rochdale,Barnsley,A
+E2,1819,E2,2018-08-22,Gillingham,Sunderland,A
+E2,1819,E2,2018-08-22,Scunthorpe,Fleetwood Town,A
+E2,1819,E2,2018-08-25,AFC Wimbledon,Sunderland,A
+E2,1819,E2,2018-08-25,Blackpool,Accrington,D
+E2,1819,E2,2018-08-25,Bradford,Wycombe,A
+E2,1819,E2,2018-08-25,Bristol Rvs,Southend,A
+E2,1819,E2,2018-08-25,Charlton,Fleetwood Town,D
+E2,1819,E2,2018-08-25,Doncaster,Portsmouth,D
+E2,1819,E2,2018-08-25,Gillingham,Coventry,D
+E2,1819,E2,2018-08-25,Luton,Shrewsbury,H
+E2,1819,E2,2018-08-25,Oxford,Burton,H
+E2,1819,E2,2018-08-25,Plymouth,Peterboro,A
+E2,1819,E2,2018-08-25,Rochdale,Walsall,A
+E2,1819,E2,2018-08-25,Scunthorpe,Barnsley,D
+E2,1819,E2,2018-09-01,Accrington,Scunthorpe,D
+E2,1819,E2,2018-09-01,Barnsley,Gillingham,H
+E2,1819,E2,2018-09-01,Burton,AFC Wimbledon,H
+E2,1819,E2,2018-09-01,Coventry,Rochdale,A
+E2,1819,E2,2018-09-01,Fleetwood Town,Bradford,H
+E2,1819,E2,2018-09-01,Peterboro,Doncaster,D
+E2,1819,E2,2018-09-01,Portsmouth,Plymouth,H
+E2,1819,E2,2018-09-01,Shrewsbury,Bristol Rvs,D
+E2,1819,E2,2018-09-01,Southend,Charlton,A
+E2,1819,E2,2018-09-01,Sunderland,Oxford,D
+E2,1819,E2,2018-09-01,Walsall,Blackpool,D
+E2,1819,E2,2018-09-01,Wycombe,Luton,D
+E2,1819,E2,2018-09-08,Accrington,Burton,D
+E2,1819,E2,2018-09-08,Barnsley,Walsall,D
+E2,1819,E2,2018-09-08,Blackpool,Bradford,H
+E2,1819,E2,2018-09-08,Bristol Rvs,Plymouth,D
+E2,1819,E2,2018-09-08,Charlton,Wycombe,H
+E2,1819,E2,2018-09-08,Doncaster,Luton,H
+E2,1819,E2,2018-09-08,Gillingham,AFC Wimbledon,A
+E2,1819,E2,2018-09-08,Portsmouth,Shrewsbury,D
+E2,1819,E2,2018-09-08,Scunthorpe,Rochdale,D
+E2,1819,E2,2018-09-08,Southend,Peterboro,A
+E2,1819,E2,2018-09-08,Sunderland,Fleetwood Town,D
+E2,1819,E2,2018-09-09,Oxford,Coventry,A
+E2,1819,E2,2018-09-15,AFC Wimbledon,Scunthorpe,A
+E2,1819,E2,2018-09-15,Bradford,Charlton,A
+E2,1819,E2,2018-09-15,Burton,Sunderland,H
+E2,1819,E2,2018-09-15,Coventry,Barnsley,H
+E2,1819,E2,2018-09-15,Fleetwood Town,Accrington,D
+E2,1819,E2,2018-09-15,Luton,Bristol Rvs,H
+E2,1819,E2,2018-09-15,Peterboro,Portsmouth,A
+E2,1819,E2,2018-09-15,Plymouth,Blackpool,A
+E2,1819,E2,2018-09-15,Rochdale,Gillingham,H
+E2,1819,E2,2018-09-15,Shrewsbury,Southend,H
+E2,1819,E2,2018-09-15,Walsall,Doncaster,A
+E2,1819,E2,2018-09-15,Wycombe,Oxford,D
+E2,1819,E2,2018-09-22,Accrington,AFC Wimbledon,H
+E2,1819,E2,2018-09-22,Blackpool,Luton,D
+E2,1819,E2,2018-09-22,Bristol Rvs,Coventry,H
+E2,1819,E2,2018-09-22,Charlton,Plymouth,H
+E2,1819,E2,2018-09-22,Doncaster,Bradford,H
+E2,1819,E2,2018-09-22,Gillingham,Peterboro,A
+E2,1819,E2,2018-09-22,Oxford,Walsall,A
+E2,1819,E2,2018-09-22,Portsmouth,Wycombe,D
+E2,1819,E2,2018-09-22,Scunthorpe,Shrewsbury,H
+E2,1819,E2,2018-09-22,Southend,Fleetwood Town,H
+E2,1819,E2,2018-09-22,Sunderland,Rochdale,H
+E2,1819,E2,2018-09-29,AFC Wimbledon,Oxford,H
+E2,1819,E2,2018-09-29,Bradford,Bristol Rvs,D
+E2,1819,E2,2018-09-29,Burton,Scunthorpe,D
+E2,1819,E2,2018-09-29,Coventry,Sunderland,D
+E2,1819,E2,2018-09-29,Fleetwood Town,Barnsley,A
+E2,1819,E2,2018-09-29,Luton,Charlton,D
+E2,1819,E2,2018-09-29,Peterboro,Blackpool,D
+E2,1819,E2,2018-09-29,Plymouth,Doncaster,A
+E2,1819,E2,2018-09-29,Rochdale,Portsmouth,A
+E2,1819,E2,2018-09-29,Shrewsbury,Gillingham,D
+E2,1819,E2,2018-09-29,Walsall,Accrington,A
+E2,1819,E2,2018-09-29,Wycombe,Southend,A
+E2,1819,E2,2018-10-02,Accrington,Doncaster,H
+E2,1819,E2,2018-10-02,AFC Wimbledon,Bradford,A
+E2,1819,E2,2018-10-02,Barnsley,Plymouth,D
+E2,1819,E2,2018-10-02,Burton,Southend,A
+E2,1819,E2,2018-10-02,Coventry,Portsmouth,A
+E2,1819,E2,2018-10-02,Fleetwood Town,Wycombe,D
+E2,1819,E2,2018-10-02,Oxford,Luton,A
+E2,1819,E2,2018-10-02,Rochdale,Bristol Rvs,D
+E2,1819,E2,2018-10-02,Scunthorpe,Charlton,H
+E2,1819,E2,2018-10-02,Sunderland,Peterboro,D
+E2,1819,E2,2018-10-02,Walsall,Shrewsbury,D
+E2,1819,E2,2018-10-06,Blackpool,Rochdale,D
+E2,1819,E2,2018-10-06,Bradford,Sunderland,A
+E2,1819,E2,2018-10-06,Bristol Rvs,Walsall,A
+E2,1819,E2,2018-10-06,Charlton,Coventry,A
+E2,1819,E2,2018-10-06,Doncaster,Fleetwood Town,A
+E2,1819,E2,2018-10-06,Luton,Scunthorpe,H
+E2,1819,E2,2018-10-06,Peterboro,Barnsley,A
+E2,1819,E2,2018-10-06,Plymouth,AFC Wimbledon,H
+E2,1819,E2,2018-10-06,Portsmouth,Gillingham,A
+E2,1819,E2,2018-10-06,Shrewsbury,Accrington,H
+E2,1819,E2,2018-10-06,Southend,Oxford,D
+E2,1819,E2,2018-10-06,Wycombe,Burton,H
+E2,1819,E2,2018-10-13,Accrington,Bradford,H
+E2,1819,E2,2018-10-13,AFC Wimbledon,Portsmouth,A
+E2,1819,E2,2018-10-13,Barnsley,Luton,H
+E2,1819,E2,2018-10-13,Burton,Bristol Rvs,H
+E2,1819,E2,2018-10-13,Coventry,Wycombe,H
+E2,1819,E2,2018-10-13,Fleetwood Town,Shrewsbury,H
+E2,1819,E2,2018-10-13,Gillingham,Southend,A
+E2,1819,E2,2018-10-13,Oxford,Plymouth,H
+E2,1819,E2,2018-10-13,Rochdale,Doncaster,A
+E2,1819,E2,2018-10-13,Scunthorpe,Peterboro,A
+E2,1819,E2,2018-10-20,Blackpool,AFC Wimbledon,H
+E2,1819,E2,2018-10-20,Bradford,Rochdale,A
+E2,1819,E2,2018-10-20,Bristol Rvs,Oxford,D
+E2,1819,E2,2018-10-20,Charlton,Barnsley,H
+E2,1819,E2,2018-10-20,Doncaster,Gillingham,D
+E2,1819,E2,2018-10-20,Luton,Walsall,H
+E2,1819,E2,2018-10-20,Peterboro,Accrington,A
+E2,1819,E2,2018-10-20,Plymouth,Burton,A
+E2,1819,E2,2018-10-20,Portsmouth,Fleetwood Town,H
+E2,1819,E2,2018-10-20,Shrewsbury,Sunderland,A
+E2,1819,E2,2018-10-20,Southend,Coventry,A
+E2,1819,E2,2018-10-20,Wycombe,Scunthorpe,H
+E2,1819,E2,2018-10-23,Blackpool,Scunthorpe,H
+E2,1819,E2,2018-10-23,Bradford,Coventry,A
+E2,1819,E2,2018-10-23,Bristol Rvs,AFC Wimbledon,H
+E2,1819,E2,2018-10-23,Charlton,Oxford,D
+E2,1819,E2,2018-10-23,Doncaster,Sunderland,A
+E2,1819,E2,2018-10-23,Luton,Accrington,H
+E2,1819,E2,2018-10-23,Peterboro,Fleetwood Town,H
+E2,1819,E2,2018-10-23,Plymouth,Gillingham,H
+E2,1819,E2,2018-10-23,Portsmouth,Burton,D
+E2,1819,E2,2018-10-23,Shrewsbury,Barnsley,H
+E2,1819,E2,2018-10-23,Southend,Walsall,H
+E2,1819,E2,2018-10-23,Wycombe,Rochdale,H
+E2,1819,E2,2018-10-27,Accrington,Portsmouth,D
+E2,1819,E2,2018-10-27,AFC Wimbledon,Luton,A
+E2,1819,E2,2018-10-27,Barnsley,Bristol Rvs,H
+E2,1819,E2,2018-10-27,Burton,Peterboro,A
+E2,1819,E2,2018-10-27,Coventry,Doncaster,H
+E2,1819,E2,2018-10-27,Fleetwood Town,Blackpool,H
+E2,1819,E2,2018-10-27,Gillingham,Bradford,H
+E2,1819,E2,2018-10-27,Oxford,Shrewsbury,H
+E2,1819,E2,2018-10-27,Rochdale,Charlton,H
+E2,1819,E2,2018-10-27,Scunthorpe,Plymouth,A
+E2,1819,E2,2018-10-27,Sunderland,Southend,H
+E2,1819,E2,2018-10-27,Walsall,Wycombe,H
+E2,1819,E2,2018-11-03,AFC Wimbledon,Shrewsbury,A
+E2,1819,E2,2018-11-03,Barnsley,Southend,H
+E2,1819,E2,2018-11-03,Blackpool,Bristol Rvs,A
+E2,1819,E2,2018-11-03,Bradford,Portsmouth,A
+E2,1819,E2,2018-11-03,Charlton,Doncaster,H
+E2,1819,E2,2018-11-03,Coventry,Accrington,D
+E2,1819,E2,2018-11-03,Gillingham,Fleetwood Town,H
+E2,1819,E2,2018-11-03,Plymouth,Sunderland,A
+E2,1819,E2,2018-11-03,Rochdale,Luton,D
+E2,1819,E2,2018-11-03,Scunthorpe,Oxford,D
+E2,1819,E2,2018-11-03,Walsall,Burton,A
+E2,1819,E2,2018-11-03,Wycombe,Peterboro,H
+E2,1819,E2,2018-11-06,Gillingham,Blackpool,A
+E2,1819,E2,2018-11-06,Walsall,Charlton,A
+E2,1819,E2,2018-11-17,Accrington,Barnsley,A
+E2,1819,E2,2018-11-17,Bristol Rvs,Scunthorpe,A
+E2,1819,E2,2018-11-17,Burton,Coventry,H
+E2,1819,E2,2018-11-17,Doncaster,AFC Wimbledon,H
+E2,1819,E2,2018-11-17,Fleetwood Town,Walsall,D
+E2,1819,E2,2018-11-17,Luton,Plymouth,H
+E2,1819,E2,2018-11-17,Oxford,Gillingham,H
+E2,1819,E2,2018-11-17,Peterboro,Bradford,D
+E2,1819,E2,2018-11-17,Shrewsbury,Rochdale,H
+E2,1819,E2,2018-11-17,Southend,Blackpool,A
+E2,1819,E2,2018-11-17,Sunderland,Wycombe,D
+E2,1819,E2,2018-11-23,Coventry,Peterboro,D
+E2,1819,E2,2018-11-24,AFC Wimbledon,Southend,H
+E2,1819,E2,2018-11-24,Barnsley,Doncaster,D
+E2,1819,E2,2018-11-24,Blackpool,Burton,H
+E2,1819,E2,2018-11-24,Bradford,Oxford,H
+E2,1819,E2,2018-11-24,Charlton,Bristol Rvs,H
+E2,1819,E2,2018-11-24,Gillingham,Luton,A
+E2,1819,E2,2018-11-24,Plymouth,Fleetwood Town,H
+E2,1819,E2,2018-11-24,Rochdale,Accrington,H
+E2,1819,E2,2018-11-24,Scunthorpe,Portsmouth,A
+E2,1819,E2,2018-11-24,Walsall,Sunderland,D
+E2,1819,E2,2018-11-24,Wycombe,Shrewsbury,H
+E2,1819,E2,2018-11-27,Accrington,Wycombe,A
+E2,1819,E2,2018-11-27,Bristol Rvs,Gillingham,A
+E2,1819,E2,2018-11-27,Burton,Charlton,A
+E2,1819,E2,2018-11-27,Doncaster,Blackpool,H
+E2,1819,E2,2018-11-27,Fleetwood Town,Coventry,H
+E2,1819,E2,2018-11-27,Luton,Bradford,H
+E2,1819,E2,2018-11-27,Oxford,Rochdale,H
+E2,1819,E2,2018-11-27,Peterboro,AFC Wimbledon,H
+E2,1819,E2,2018-11-27,Portsmouth,Walsall,H
+E2,1819,E2,2018-11-27,Shrewsbury,Plymouth,H
+E2,1819,E2,2018-11-27,Southend,Scunthorpe,H
+E2,1819,E2,2018-11-27,Sunderland,Barnsley,H
+E2,1819,E2,2018-12-08,AFC Wimbledon,Rochdale,D
+E2,1819,E2,2018-12-08,Blackpool,Charlton,H
+E2,1819,E2,2018-12-08,Bristol Rvs,Doncaster,A
+E2,1819,E2,2018-12-08,Burton,Shrewsbury,H
+E2,1819,E2,2018-12-08,Luton,Fleetwood Town,H
+E2,1819,E2,2018-12-08,Peterboro,Oxford,D
+E2,1819,E2,2018-12-08,Plymouth,Bradford,D
+E2,1819,E2,2018-12-08,Portsmouth,Southend,H
+E2,1819,E2,2018-12-08,Scunthorpe,Gillingham,A
+E2,1819,E2,2018-12-08,Walsall,Coventry,H
+E2,1819,E2,2018-12-08,Wycombe,Barnsley,H
+E2,1819,E2,2018-12-11,Portsmouth,Charlton,A
+E2,1819,E2,2018-12-15,Barnsley,Portsmouth,D
+E2,1819,E2,2018-12-15,Bradford,Walsall,H
+E2,1819,E2,2018-12-15,Charlton,AFC Wimbledon,H
+E2,1819,E2,2018-12-15,Coventry,Luton,A
+E2,1819,E2,2018-12-15,Doncaster,Scunthorpe,H
+E2,1819,E2,2018-12-15,Fleetwood Town,Burton,H
+E2,1819,E2,2018-12-15,Gillingham,Wycombe,D
+E2,1819,E2,2018-12-15,Oxford,Blackpool,H
+E2,1819,E2,2018-12-15,Rochdale,Plymouth,A
+E2,1819,E2,2018-12-15,Shrewsbury,Peterboro,D
+E2,1819,E2,2018-12-15,Southend,Accrington,H
+E2,1819,E2,2018-12-15,Sunderland,Bristol Rvs,H
+E2,1819,E2,2018-12-22,Blackpool,Barnsley,A
+E2,1819,E2,2018-12-22,Bradford,Scunthorpe,H
+E2,1819,E2,2018-12-22,Bristol Rvs,Fleetwood Town,H
+E2,1819,E2,2018-12-22,Charlton,Gillingham,H
+E2,1819,E2,2018-12-22,Doncaster,Oxford,D
+E2,1819,E2,2018-12-22,Luton,Burton,H
+E2,1819,E2,2018-12-22,Peterboro,Walsall,D
+E2,1819,E2,2018-12-22,Plymouth,Accrington,A
+E2,1819,E2,2018-12-22,Portsmouth,Sunderland,H
+E2,1819,E2,2018-12-22,Shrewsbury,Coventry,H
+E2,1819,E2,2018-12-22,Southend,Rochdale,A
+E2,1819,E2,2018-12-22,Wycombe,AFC Wimbledon,A
+E2,1819,E2,2018-12-26,Accrington,Shrewsbury,H
+E2,1819,E2,2018-12-26,AFC Wimbledon,Plymouth,H
+E2,1819,E2,2018-12-26,Barnsley,Peterboro,H
+E2,1819,E2,2018-12-26,Burton,Wycombe,H
+E2,1819,E2,2018-12-26,Coventry,Charlton,H
+E2,1819,E2,2018-12-26,Fleetwood Town,Doncaster,H
+E2,1819,E2,2018-12-26,Gillingham,Portsmouth,H
+E2,1819,E2,2018-12-26,Oxford,Southend,A
+E2,1819,E2,2018-12-26,Rochdale,Blackpool,H
+E2,1819,E2,2018-12-26,Scunthorpe,Luton,A
+E2,1819,E2,2018-12-26,Sunderland,Bradford,H
+E2,1819,E2,2018-12-26,Walsall,Bristol Rvs,A
+E2,1819,E2,2018-12-29,Accrington,Peterboro,A
+E2,1819,E2,2018-12-29,AFC Wimbledon,Blackpool,D
+E2,1819,E2,2018-12-29,Barnsley,Charlton,H
+E2,1819,E2,2018-12-29,Burton,Plymouth,D
+E2,1819,E2,2018-12-29,Coventry,Southend,H
+E2,1819,E2,2018-12-29,Fleetwood Town,Portsmouth,A
+E2,1819,E2,2018-12-29,Gillingham,Doncaster,A
+E2,1819,E2,2018-12-29,Oxford,Bristol Rvs,A
+E2,1819,E2,2018-12-29,Rochdale,Bradford,A
+E2,1819,E2,2018-12-29,Scunthorpe,Wycombe,H
+E2,1819,E2,2018-12-29,Sunderland,Shrewsbury,D
+E2,1819,E2,2018-12-29,Walsall,Luton,D
+E2,1819,E2,2019-01-01,Blackpool,Sunderland,A
+E2,1819,E2,2019-01-01,Bradford,Accrington,H
+E2,1819,E2,2019-01-01,Bristol Rvs,Burton,D
+E2,1819,E2,2019-01-01,Charlton,Walsall,H
+E2,1819,E2,2019-01-01,Doncaster,Rochdale,H
+E2,1819,E2,2019-01-01,Luton,Barnsley,D
+E2,1819,E2,2019-01-01,Peterboro,Scunthorpe,A
+E2,1819,E2,2019-01-01,Plymouth,Oxford,H
+E2,1819,E2,2019-01-01,Portsmouth,AFC Wimbledon,H
+E2,1819,E2,2019-01-01,Shrewsbury,Fleetwood Town,D
+E2,1819,E2,2019-01-01,Southend,Gillingham,H
+E2,1819,E2,2019-01-01,Wycombe,Coventry,A
+E2,1819,E2,2019-01-05,Charlton,Sunderland,D
+E2,1819,E2,2019-01-05,Rochdale,Burton,A
+E2,1819,E2,2019-01-05,Scunthorpe,Coventry,H
+E2,1819,E2,2019-01-12,Accrington,Bristol Rvs,D
+E2,1819,E2,2019-01-12,Barnsley,Bradford,H
+E2,1819,E2,2019-01-12,Burton,Gillingham,A
+E2,1819,E2,2019-01-12,Coventry,AFC Wimbledon,D
+E2,1819,E2,2019-01-12,Fleetwood Town,Oxford,D
+E2,1819,E2,2019-01-12,Peterboro,Rochdale,H
+E2,1819,E2,2019-01-12,Portsmouth,Blackpool,A
+E2,1819,E2,2019-01-12,Shrewsbury,Charlton,A
+E2,1819,E2,2019-01-12,Southend,Plymouth,A
+E2,1819,E2,2019-01-12,Sunderland,Luton,D
+E2,1819,E2,2019-01-12,Walsall,Scunthorpe,A
+E2,1819,E2,2019-01-12,Wycombe,Doncaster,H
+E2,1819,E2,2019-01-19,AFC Wimbledon,Barnsley,A
+E2,1819,E2,2019-01-19,Blackpool,Shrewsbury,D
+E2,1819,E2,2019-01-19,Bradford,Southend,A
+E2,1819,E2,2019-01-19,Bristol Rvs,Wycombe,A
+E2,1819,E2,2019-01-19,Charlton,Accrington,H
+E2,1819,E2,2019-01-19,Doncaster,Burton,D
+E2,1819,E2,2019-01-19,Gillingham,Walsall,A
+E2,1819,E2,2019-01-19,Luton,Peterboro,H
+E2,1819,E2,2019-01-19,Oxford,Portsmouth,H
+E2,1819,E2,2019-01-19,Plymouth,Coventry,H
+E2,1819,E2,2019-01-19,Rochdale,Fleetwood Town,D
+E2,1819,E2,2019-01-19,Scunthorpe,Sunderland,D
+E2,1819,E2,2019-01-22,AFC Wimbledon,Fleetwood Town,A
+E2,1819,E2,2019-01-22,Plymouth,Walsall,H
+E2,1819,E2,2019-01-26,Barnsley,Rochdale,H
+E2,1819,E2,2019-01-26,Burton,Bradford,D
+E2,1819,E2,2019-01-26,Coventry,Blackpool,A
+E2,1819,E2,2019-01-26,Fleetwood Town,Scunthorpe,A
+E2,1819,E2,2019-01-26,Peterboro,Charlton,D
+E2,1819,E2,2019-01-26,Southend,Luton,A
+E2,1819,E2,2019-01-26,Wycombe,Plymouth,H
+E2,1819,E2,2019-01-29,Blackpool,Wycombe,D
+E2,1819,E2,2019-01-29,Bradford,Shrewsbury,H
+E2,1819,E2,2019-01-29,Bristol Rvs,Peterboro,D
+E2,1819,E2,2019-01-29,Gillingham,Accrington,D
+E2,1819,E2,2019-01-29,Luton,Portsmouth,H
+E2,1819,E2,2019-01-29,Oxford,Barnsley,D
+E2,1819,E2,2019-02-02,Barnsley,Scunthorpe,H
+E2,1819,E2,2019-02-02,Burton,Oxford,D
+E2,1819,E2,2019-02-02,Coventry,Gillingham,D
+E2,1819,E2,2019-02-02,Fleetwood Town,Charlton,H
+E2,1819,E2,2019-02-02,Peterboro,Plymouth,A
+E2,1819,E2,2019-02-02,Portsmouth,Doncaster,D
+E2,1819,E2,2019-02-02,Shrewsbury,Luton,A
+E2,1819,E2,2019-02-02,Southend,Bristol Rvs,A
+E2,1819,E2,2019-02-02,Sunderland,AFC Wimbledon,H
+E2,1819,E2,2019-02-02,Walsall,Rochdale,A
+E2,1819,E2,2019-02-02,Wycombe,Bradford,D
+E2,1819,E2,2019-02-09,AFC Wimbledon,Burton,A
+E2,1819,E2,2019-02-09,Blackpool,Walsall,H
+E2,1819,E2,2019-02-09,Bradford,Fleetwood Town,A
+E2,1819,E2,2019-02-09,Bristol Rvs,Shrewsbury,D
+E2,1819,E2,2019-02-09,Charlton,Southend,D
+E2,1819,E2,2019-02-09,Doncaster,Peterboro,H
+E2,1819,E2,2019-02-09,Gillingham,Barnsley,A
+E2,1819,E2,2019-02-09,Luton,Wycombe,H
+E2,1819,E2,2019-02-09,Oxford,Sunderland,D
+E2,1819,E2,2019-02-09,Plymouth,Portsmouth,D
+E2,1819,E2,2019-02-09,Rochdale,Coventry,A
+E2,1819,E2,2019-02-09,Scunthorpe,Accrington,H
+E2,1819,E2,2019-02-12,Doncaster,Southend,H
+E2,1819,E2,2019-02-12,Sunderland,Blackpool,D
+E2,1819,E2,2019-02-12,Walsall,AFC Wimbledon,A
+E2,1819,E2,2019-02-15,Sunderland,Accrington,D
+E2,1819,E2,2019-02-16,Barnsley,Wycombe,H
+E2,1819,E2,2019-02-16,Bradford,Plymouth,D
+E2,1819,E2,2019-02-16,Charlton,Blackpool,D
+E2,1819,E2,2019-02-16,Coventry,Walsall,H
+E2,1819,E2,2019-02-16,Fleetwood Town,Luton,A
+E2,1819,E2,2019-02-16,Gillingham,Scunthorpe,H
+E2,1819,E2,2019-02-16,Oxford,Peterboro,A
+E2,1819,E2,2019-02-16,Shrewsbury,Burton,D
+E2,1819,E2,2019-02-16,Southend,Portsmouth,D
+E2,1819,E2,2019-02-19,Accrington,Oxford,H
+E2,1819,E2,2019-02-19,Barnsley,Burton,D
+E2,1819,E2,2019-02-19,Portsmouth,Bristol Rvs,D
+E2,1819,E2,2019-02-19,Rochdale,AFC Wimbledon,A
+E2,1819,E2,2019-02-19,Sunderland,Gillingham,H
+E2,1819,E2,2019-02-23,Accrington,Southend,D
+E2,1819,E2,2019-02-23,AFC Wimbledon,Charlton,A
+E2,1819,E2,2019-02-23,Blackpool,Oxford,A
+E2,1819,E2,2019-02-23,Bristol Rvs,Sunderland,A
+E2,1819,E2,2019-02-23,Burton,Fleetwood Town,A
+E2,1819,E2,2019-02-23,Peterboro,Shrewsbury,A
+E2,1819,E2,2019-02-23,Plymouth,Rochdale,H
+E2,1819,E2,2019-02-23,Portsmouth,Barnsley,D
+E2,1819,E2,2019-02-23,Scunthorpe,Doncaster,D
+E2,1819,E2,2019-02-23,Walsall,Bradford,H
+E2,1819,E2,2019-02-23,Wycombe,Gillingham,A
+E2,1819,E2,2019-02-24,Luton,Coventry,D
+E2,1819,E2,2019-02-26,Shrewsbury,Doncaster,H
+E2,1819,E2,2019-03-02,Accrington,Coventry,A
+E2,1819,E2,2019-03-02,Bristol Rvs,Blackpool,H
+E2,1819,E2,2019-03-02,Burton,Walsall,D
+E2,1819,E2,2019-03-02,Doncaster,Charlton,D
+E2,1819,E2,2019-03-02,Fleetwood Town,Gillingham,D
+E2,1819,E2,2019-03-02,Luton,Rochdale,H
+E2,1819,E2,2019-03-02,Oxford,Scunthorpe,H
+E2,1819,E2,2019-03-02,Peterboro,Wycombe,H
+E2,1819,E2,2019-03-02,Portsmouth,Bradford,H
+E2,1819,E2,2019-03-02,Shrewsbury,AFC Wimbledon,D
+E2,1819,E2,2019-03-02,Southend,Barnsley,A
+E2,1819,E2,2019-03-02,Sunderland,Plymouth,H
+E3,1819,E3,2018-08-04,Bury,Yeovil,H
+E3,1819,E3,2018-08-04,Cheltenham,Crawley Town,A
+E3,1819,E3,2018-08-04,Crewe,Morecambe,H
+E3,1819,E3,2018-08-04,Exeter,Carlisle,H
+E3,1819,E3,2018-08-04,Grimsby,Forest Green,A
+E3,1819,E3,2018-08-04,Mansfield,Newport County,H
+E3,1819,E3,2018-08-04,Northampton,Lincoln,A
+E3,1819,E3,2018-08-04,Notts County,Colchester,D
+E3,1819,E3,2018-08-04,Oldham,Milton Keynes Dons,A
+E3,1819,E3,2018-08-04,Port Vale,Cambridge,H
+E3,1819,E3,2018-08-04,Stevenage,Tranmere,D
+E3,1819,E3,2018-08-04,Swindon,Macclesfield,H
+E3,1819,E3,2018-08-11,Cambridge,Notts County,H
+E3,1819,E3,2018-08-11,Carlisle,Northampton,D
+E3,1819,E3,2018-08-11,Colchester,Port Vale,H
+E3,1819,E3,2018-08-11,Crawley Town,Stevenage,A
+E3,1819,E3,2018-08-11,Forest Green,Oldham,D
+E3,1819,E3,2018-08-11,Lincoln,Swindon,H
+E3,1819,E3,2018-08-11,Macclesfield,Grimsby,A
+E3,1819,E3,2018-08-11,Milton Keynes Dons,Bury,H
+E3,1819,E3,2018-08-11,Morecambe,Exeter,A
+E3,1819,E3,2018-08-11,Newport County,Crewe,H
+E3,1819,E3,2018-08-11,Tranmere,Cheltenham,H
+E3,1819,E3,2018-08-11,Yeovil,Mansfield,D
+E3,1819,E3,2018-08-17,Notts County,Yeovil,A
+E3,1819,E3,2018-08-18,Bury,Forest Green,D
+E3,1819,E3,2018-08-18,Cheltenham,Carlisle,A
+E3,1819,E3,2018-08-18,Crewe,Milton Keynes Dons,D
+E3,1819,E3,2018-08-18,Exeter,Newport County,D
+E3,1819,E3,2018-08-18,Grimsby,Lincoln,D
+E3,1819,E3,2018-08-18,Mansfield,Colchester,D
+E3,1819,E3,2018-08-18,Northampton,Cambridge,D
+E3,1819,E3,2018-08-18,Oldham,Macclesfield,H
+E3,1819,E3,2018-08-18,Port Vale,Crawley Town,H
+E3,1819,E3,2018-08-18,Stevenage,Morecambe,H
+E3,1819,E3,2018-08-18,Swindon,Tranmere,H
+E3,1819,E3,2018-08-21,Cambridge,Exeter,A
+E3,1819,E3,2018-08-21,Carlisle,Port Vale,H
+E3,1819,E3,2018-08-21,Colchester,Crewe,H
+E3,1819,E3,2018-08-21,Crawley Town,Swindon,D
+E3,1819,E3,2018-08-21,Forest Green,Stevenage,D
+E3,1819,E3,2018-08-21,Lincoln,Bury,H
+E3,1819,E3,2018-08-21,Macclesfield,Cheltenham,D
+E3,1819,E3,2018-08-21,Milton Keynes Dons,Grimsby,D
+E3,1819,E3,2018-08-21,Morecambe,Northampton,H
+E3,1819,E3,2018-08-21,Newport County,Notts County,H
+E3,1819,E3,2018-08-21,Tranmere,Mansfield,D
+E3,1819,E3,2018-08-21,Yeovil,Oldham,D
+E3,1819,E3,2018-08-25,Cambridge,Cheltenham,A
+E3,1819,E3,2018-08-25,Carlisle,Crewe,H
+E3,1819,E3,2018-08-25,Colchester,Northampton,A
+E3,1819,E3,2018-08-25,Crawley Town,Bury,H
+E3,1819,E3,2018-08-25,Forest Green,Swindon,D
+E3,1819,E3,2018-08-25,Lincoln,Notts County,H
+E3,1819,E3,2018-08-25,Macclesfield,Mansfield,D
+E3,1819,E3,2018-08-25,Milton Keynes Dons,Exeter,H
+E3,1819,E3,2018-08-25,Morecambe,Oldham,A
+E3,1819,E3,2018-08-25,Newport County,Grimsby,H
+E3,1819,E3,2018-08-25,Tranmere,Port Vale,H
+E3,1819,E3,2018-08-25,Yeovil,Stevenage,H
+E3,1819,E3,2018-09-01,Bury,Morecambe,H
+E3,1819,E3,2018-09-01,Cheltenham,Colchester,A
+E3,1819,E3,2018-09-01,Crewe,Macclesfield,H
+E3,1819,E3,2018-09-01,Exeter,Lincoln,A
+E3,1819,E3,2018-09-01,Grimsby,Yeovil,A
+E3,1819,E3,2018-09-01,Mansfield,Carlisle,H
+E3,1819,E3,2018-09-01,Northampton,Tranmere,D
+E3,1819,E3,2018-09-01,Notts County,Forest Green,A
+E3,1819,E3,2018-09-01,Oldham,Crawley Town,H
+E3,1819,E3,2018-09-01,Port Vale,Newport County,A
+E3,1819,E3,2018-09-01,Stevenage,Cambridge,A
+E3,1819,E3,2018-09-01,Swindon,Milton Keynes Dons,D
+E3,1819,E3,2018-09-08,Bury,Grimsby,H
+E3,1819,E3,2018-09-08,Cambridge,Carlisle,A
+E3,1819,E3,2018-09-08,Exeter,Notts County,H
+E3,1819,E3,2018-09-08,Forest Green,Port Vale,D
+E3,1819,E3,2018-09-08,Lincoln,Crawley Town,A
+E3,1819,E3,2018-09-08,Morecambe,Swindon,A
+E3,1819,E3,2018-09-08,Northampton,Cheltenham,A
+E3,1819,E3,2018-09-08,Oldham,Newport County,A
+E3,1819,E3,2018-09-08,Stevenage,Macclesfield,H
+E3,1819,E3,2018-09-08,Tranmere,Colchester,D
+E3,1819,E3,2018-09-15,Carlisle,Tranmere,A
+E3,1819,E3,2018-09-15,Cheltenham,Crewe,D
+E3,1819,E3,2018-09-15,Colchester,Cambridge,H
+E3,1819,E3,2018-09-15,Crawley Town,Morecambe,H
+E3,1819,E3,2018-09-15,Grimsby,Oldham,A
+E3,1819,E3,2018-09-15,Macclesfield,Lincoln,A
+E3,1819,E3,2018-09-15,Mansfield,Exeter,A
+E3,1819,E3,2018-09-15,Milton Keynes Dons,Forest Green,D
+E3,1819,E3,2018-09-15,Newport County,Yeovil,A
+E3,1819,E3,2018-09-15,Notts County,Stevenage,D
+E3,1819,E3,2018-09-15,Port Vale,Northampton,H
+E3,1819,E3,2018-09-15,Swindon,Bury,A
+E3,1819,E3,2018-09-22,Bury,Carlisle,A
+E3,1819,E3,2018-09-22,Cambridge,Mansfield,D
+E3,1819,E3,2018-09-22,Crewe,Port Vale,A
+E3,1819,E3,2018-09-22,Exeter,Cheltenham,H
+E3,1819,E3,2018-09-22,Forest Green,Crawley Town,H
+E3,1819,E3,2018-09-22,Lincoln,Milton Keynes Dons,H
+E3,1819,E3,2018-09-22,Morecambe,Macclesfield,H
+E3,1819,E3,2018-09-22,Northampton,Notts County,D
+E3,1819,E3,2018-09-22,Oldham,Colchester,D
+E3,1819,E3,2018-09-22,Stevenage,Grimsby,H
+E3,1819,E3,2018-09-22,Tranmere,Newport County,A
+E3,1819,E3,2018-09-22,Yeovil,Swindon,A
+E3,1819,E3,2018-09-25,Yeovil,Milton Keynes Dons,D
+E3,1819,E3,2018-09-29,Carlisle,Stevenage,A
+E3,1819,E3,2018-09-29,Cheltenham,Lincoln,A
+E3,1819,E3,2018-09-29,Colchester,Bury,A
+E3,1819,E3,2018-09-29,Crawley Town,Yeovil,H
+E3,1819,E3,2018-09-29,Grimsby,Morecambe,A
+E3,1819,E3,2018-09-29,Macclesfield,Forest Green,D
+E3,1819,E3,2018-09-29,Mansfield,Northampton,H
+E3,1819,E3,2018-09-29,Milton Keynes Dons,Tranmere,D
+E3,1819,E3,2018-09-29,Newport County,Cambridge,H
+E3,1819,E3,2018-09-29,Notts County,Crewe,H
+E3,1819,E3,2018-09-29,Port Vale,Exeter,D
+E3,1819,E3,2018-09-29,Swindon,Oldham,D
+E3,1819,E3,2018-10-02,Cambridge,Forest Green,A
+E3,1819,E3,2018-10-02,Carlisle,Grimsby,A
+E3,1819,E3,2018-10-02,Cheltenham,Morecambe,D
+E3,1819,E3,2018-10-02,Colchester,Yeovil,H
+E3,1819,E3,2018-10-02,Crewe,Swindon,H
+E3,1819,E3,2018-10-02,Exeter,Stevenage,H
+E3,1819,E3,2018-10-02,Mansfield,Oldham,D
+E3,1819,E3,2018-10-02,Newport County,Macclesfield,D
+E3,1819,E3,2018-10-02,Northampton,Bury,D
+E3,1819,E3,2018-10-02,Notts County,Crawley Town,H
+E3,1819,E3,2018-10-02,Port Vale,Milton Keynes Dons,A
+E3,1819,E3,2018-10-02,Tranmere,Lincoln,H
+E3,1819,E3,2018-10-06,Bury,Mansfield,D
+E3,1819,E3,2018-10-06,Crawley Town,Cambridge,H
+E3,1819,E3,2018-10-06,Forest Green,Newport County,D
+E3,1819,E3,2018-10-06,Grimsby,Port Vale,H
+E3,1819,E3,2018-10-06,Lincoln,Crewe,H
+E3,1819,E3,2018-10-06,Macclesfield,Notts County,A
+E3,1819,E3,2018-10-06,Milton Keynes Dons,Cheltenham,H
+E3,1819,E3,2018-10-06,Morecambe,Tranmere,A
+E3,1819,E3,2018-10-06,Oldham,Carlisle,A
+E3,1819,E3,2018-10-06,Stevenage,Colchester,H
+E3,1819,E3,2018-10-06,Swindon,Northampton,D
+E3,1819,E3,2018-10-06,Yeovil,Exeter,D
+E3,1819,E3,2018-10-12,Tranmere,Macclesfield,H
+E3,1819,E3,2018-10-13,Cambridge,Milton Keynes Dons,A
+E3,1819,E3,2018-10-13,Carlisle,Morecambe,A
+E3,1819,E3,2018-10-13,Colchester,Crawley Town,H
+E3,1819,E3,2018-10-13,Crewe,Bury,D
+E3,1819,E3,2018-10-13,Exeter,Swindon,H
+E3,1819,E3,2018-10-13,Newport County,Stevenage,H
+E3,1819,E3,2018-10-13,Northampton,Forest Green,H
+E3,1819,E3,2018-10-13,Port Vale,Lincoln,A
+E3,1819,E3,2018-10-20,Bury,Notts County,H
+E3,1819,E3,2018-10-20,Crawley Town,Newport County,H
+E3,1819,E3,2018-10-20,Forest Green,Cheltenham,D
+E3,1819,E3,2018-10-20,Grimsby,Exeter,D
+E3,1819,E3,2018-10-20,Lincoln,Cambridge,D
+E3,1819,E3,2018-10-20,Macclesfield,Carlisle,H
+E3,1819,E3,2018-10-20,Milton Keynes Dons,Northampton,H
+E3,1819,E3,2018-10-20,Morecambe,Colchester,A
+E3,1819,E3,2018-10-20,Oldham,Port Vale,A
+E3,1819,E3,2018-10-20,Stevenage,Crewe,A
+E3,1819,E3,2018-10-20,Swindon,Mansfield,D
+E3,1819,E3,2018-10-20,Yeovil,Tranmere,D
+E3,1819,E3,2018-10-23,Bury,Newport County,D
+E3,1819,E3,2018-10-23,Crawley Town,Exeter,D
+E3,1819,E3,2018-10-23,Forest Green,Tranmere,H
+E3,1819,E3,2018-10-23,Grimsby,Colchester,H
+E3,1819,E3,2018-10-23,Lincoln,Carlisle,D
+E3,1819,E3,2018-10-23,Macclesfield,Northampton,A
+E3,1819,E3,2018-10-23,Milton Keynes Dons,Notts County,H
+E3,1819,E3,2018-10-23,Morecambe,Mansfield,A
+E3,1819,E3,2018-10-23,Oldham,Cheltenham,H
+E3,1819,E3,2018-10-23,Stevenage,Port Vale,D
+E3,1819,E3,2018-10-23,Swindon,Cambridge,A
+E3,1819,E3,2018-10-23,Yeovil,Crewe,D
+E3,1819,E3,2018-10-27,Cambridge,Macclesfield,H
+E3,1819,E3,2018-10-27,Carlisle,Yeovil,A
+E3,1819,E3,2018-10-27,Cheltenham,Stevenage,A
+E3,1819,E3,2018-10-27,Colchester,Lincoln,H
+E3,1819,E3,2018-10-27,Crewe,Grimsby,H
+E3,1819,E3,2018-10-27,Exeter,Forest Green,A
+E3,1819,E3,2018-10-27,Mansfield,Milton Keynes Dons,D
+E3,1819,E3,2018-10-27,Newport County,Morecambe,D
+E3,1819,E3,2018-10-27,Northampton,Oldham,H
+E3,1819,E3,2018-10-27,Notts County,Swindon,A
+E3,1819,E3,2018-10-27,Port Vale,Bury,H
+E3,1819,E3,2018-10-27,Tranmere,Crawley Town,H
+E3,1819,E3,2018-10-30,Crewe,Mansfield,A
+E3,1819,E3,2018-11-03,Cambridge,Grimsby,H
+E3,1819,E3,2018-11-03,Carlisle,Newport County,H
+E3,1819,E3,2018-11-03,Cheltenham,Mansfield,D
+E3,1819,E3,2018-11-03,Colchester,Swindon,H
+E3,1819,E3,2018-11-03,Crawley Town,Milton Keynes Dons,A
+E3,1819,E3,2018-11-03,Lincoln,Forest Green,H
+E3,1819,E3,2018-11-03,Macclesfield,Bury,A
+E3,1819,E3,2018-11-03,Morecambe,Yeovil,H
+E3,1819,E3,2018-11-03,Northampton,Crewe,H
+E3,1819,E3,2018-11-03,Port Vale,Notts County,D
+E3,1819,E3,2018-11-03,Stevenage,Oldham,H
+E3,1819,E3,2018-11-03,Tranmere,Exeter,H
+E3,1819,E3,2018-11-06,Mansfield,Grimsby,H
+E3,1819,E3,2018-11-06,Notts County,Oldham,D
+E3,1819,E3,2018-11-17,Bury,Stevenage,H
+E3,1819,E3,2018-11-17,Crewe,Tranmere,H
+E3,1819,E3,2018-11-17,Exeter,Northampton,D
+E3,1819,E3,2018-11-17,Forest Green,Morecambe,A
+E3,1819,E3,2018-11-17,Grimsby,Crawley Town,H
+E3,1819,E3,2018-11-17,Mansfield,Port Vale,H
+E3,1819,E3,2018-11-17,Milton Keynes Dons,Macclesfield,H
+E3,1819,E3,2018-11-17,Newport County,Colchester,H
+E3,1819,E3,2018-11-17,Notts County,Cheltenham,A
+E3,1819,E3,2018-11-17,Oldham,Cambridge,H
+E3,1819,E3,2018-11-17,Swindon,Carlisle,A
+E3,1819,E3,2018-11-24,Cambridge,Bury,D
+E3,1819,E3,2018-11-24,Carlisle,Forest Green,A
+E3,1819,E3,2018-11-24,Cheltenham,Newport County,H
+E3,1819,E3,2018-11-24,Colchester,Exeter,D
+E3,1819,E3,2018-11-24,Crawley Town,Crewe,H
+E3,1819,E3,2018-11-24,Lincoln,Mansfield,D
+E3,1819,E3,2018-11-24,Macclesfield,Yeovil,H
+E3,1819,E3,2018-11-24,Morecambe,Notts County,D
+E3,1819,E3,2018-11-24,Northampton,Grimsby,D
+E3,1819,E3,2018-11-24,Port Vale,Swindon,A
+E3,1819,E3,2018-11-24,Stevenage,Milton Keynes Dons,H
+E3,1819,E3,2018-11-24,Tranmere,Oldham,D
+E3,1819,E3,2018-11-27,Bury,Cheltenham,H
+E3,1819,E3,2018-11-27,Crewe,Cambridge,H
+E3,1819,E3,2018-11-27,Exeter,Macclesfield,A
+E3,1819,E3,2018-11-27,Forest Green,Colchester,A
+E3,1819,E3,2018-11-27,Grimsby,Tranmere,H
+E3,1819,E3,2018-11-27,Milton Keynes Dons,Morecambe,H
+E3,1819,E3,2018-11-27,Newport County,Northampton,H
+E3,1819,E3,2018-11-27,Notts County,Carlisle,D
+E3,1819,E3,2018-11-27,Oldham,Lincoln,D
+E3,1819,E3,2018-11-27,Swindon,Stevenage,H
+E3,1819,E3,2018-11-27,Yeovil,Port Vale,A
+E3,1819,E3,2018-12-08,Bury,Exeter,H
+E3,1819,E3,2018-12-08,Cheltenham,Grimsby,H
+E3,1819,E3,2018-12-08,Colchester,Macclesfield,H
+E3,1819,E3,2018-12-08,Crawley Town,Northampton,A
+E3,1819,E3,2018-12-08,Crewe,Oldham,A
+E3,1819,E3,2018-12-08,Mansfield,Notts County,H
+E3,1819,E3,2018-12-08,Milton Keynes Dons,Carlisle,H
+E3,1819,E3,2018-12-08,Morecambe,Port Vale,D
+E3,1819,E3,2018-12-08,Stevenage,Lincoln,A
+E3,1819,E3,2018-12-08,Swindon,Newport County,H
+E3,1819,E3,2018-12-08,Tranmere,Cambridge,H
+E3,1819,E3,2018-12-08,Yeovil,Forest Green,A
+E3,1819,E3,2018-12-15,Cambridge,Yeovil,D
+E3,1819,E3,2018-12-15,Carlisle,Colchester,H
+E3,1819,E3,2018-12-15,Exeter,Crewe,H
+E3,1819,E3,2018-12-15,Grimsby,Swindon,H
+E3,1819,E3,2018-12-15,Lincoln,Morecambe,H
+E3,1819,E3,2018-12-15,Macclesfield,Crawley Town,H
+E3,1819,E3,2018-12-15,Northampton,Stevenage,D
+E3,1819,E3,2018-12-15,Notts County,Tranmere,H
+E3,1819,E3,2018-12-15,Oldham,Bury,H
+E3,1819,E3,2018-12-15,Port Vale,Cheltenham,D
+E3,1819,E3,2018-12-22,Bury,Tranmere,H
+E3,1819,E3,2018-12-22,Crawley Town,Carlisle,A
+E3,1819,E3,2018-12-22,Forest Green,Crewe,H
+E3,1819,E3,2018-12-22,Grimsby,Notts County,H
+E3,1819,E3,2018-12-22,Lincoln,Newport County,H
+E3,1819,E3,2018-12-22,Macclesfield,Port Vale,D
+E3,1819,E3,2018-12-22,Milton Keynes Dons,Colchester,A
+E3,1819,E3,2018-12-22,Morecambe,Cambridge,H
+E3,1819,E3,2018-12-22,Oldham,Exeter,A
+E3,1819,E3,2018-12-22,Stevenage,Mansfield,A
+E3,1819,E3,2018-12-22,Swindon,Cheltenham,D
+E3,1819,E3,2018-12-22,Yeovil,Northampton,D
+E3,1819,E3,2018-12-26,Cambridge,Crawley Town,H
+E3,1819,E3,2018-12-26,Carlisle,Oldham,H
+E3,1819,E3,2018-12-26,Cheltenham,Milton Keynes Dons,H
+E3,1819,E3,2018-12-26,Colchester,Stevenage,A
+E3,1819,E3,2018-12-26,Crewe,Lincoln,H
+E3,1819,E3,2018-12-26,Exeter,Yeovil,H
+E3,1819,E3,2018-12-26,Mansfield,Bury,H
+E3,1819,E3,2018-12-26,Newport County,Forest Green,A
+E3,1819,E3,2018-12-26,Northampton,Swindon,D
+E3,1819,E3,2018-12-26,Notts County,Macclesfield,A
+E3,1819,E3,2018-12-26,Port Vale,Grimsby,A
+E3,1819,E3,2018-12-26,Tranmere,Morecambe,H
+E3,1819,E3,2018-12-29,Cambridge,Lincoln,A
+E3,1819,E3,2018-12-29,Carlisle,Macclesfield,H
+E3,1819,E3,2018-12-29,Cheltenham,Forest Green,D
+E3,1819,E3,2018-12-29,Colchester,Morecambe,D
+E3,1819,E3,2018-12-29,Crewe,Stevenage,H
+E3,1819,E3,2018-12-29,Exeter,Grimsby,A
+E3,1819,E3,2018-12-29,Mansfield,Swindon,D
+E3,1819,E3,2018-12-29,Newport County,Crawley Town,D
+E3,1819,E3,2018-12-29,Northampton,Milton Keynes Dons,D
+E3,1819,E3,2018-12-29,Notts County,Bury,D
+E3,1819,E3,2018-12-29,Port Vale,Oldham,A
+E3,1819,E3,2018-12-29,Tranmere,Yeovil,D
+E3,1819,E3,2019-01-01,Bury,Crewe,H
+E3,1819,E3,2019-01-01,Crawley Town,Colchester,H
+E3,1819,E3,2019-01-01,Forest Green,Northampton,H
+E3,1819,E3,2019-01-01,Grimsby,Mansfield,A
+E3,1819,E3,2019-01-01,Lincoln,Port Vale,D
+E3,1819,E3,2019-01-01,Macclesfield,Tranmere,D
+E3,1819,E3,2019-01-01,Milton Keynes Dons,Cambridge,H
+E3,1819,E3,2019-01-01,Morecambe,Carlisle,A
+E3,1819,E3,2019-01-01,Oldham,Notts County,H
+E3,1819,E3,2019-01-01,Stevenage,Newport County,H
+E3,1819,E3,2019-01-01,Swindon,Exeter,A
+E3,1819,E3,2019-01-01,Yeovil,Cheltenham,A
+E3,1819,E3,2019-01-05,Cambridge,Stevenage,H
+E3,1819,E3,2019-01-05,Carlisle,Mansfield,H
+E3,1819,E3,2019-01-05,Colchester,Notts County,D
+E3,1819,E3,2019-01-05,Crawley Town,Cheltenham,H
+E3,1819,E3,2019-01-05,Macclesfield,Swindon,A
+E3,1819,E3,2019-01-05,Morecambe,Crewe,D
+E3,1819,E3,2019-01-05,Yeovil,Bury,A
+E3,1819,E3,2019-01-12,Bury,Milton Keynes Dons,H
+E3,1819,E3,2019-01-12,Cheltenham,Tranmere,A
+E3,1819,E3,2019-01-12,Crewe,Newport County,H
+E3,1819,E3,2019-01-12,Exeter,Morecambe,D
+E3,1819,E3,2019-01-12,Grimsby,Macclesfield,A
+E3,1819,E3,2019-01-12,Mansfield,Yeovil,A
+E3,1819,E3,2019-01-12,Northampton,Carlisle,H
+E3,1819,E3,2019-01-12,Notts County,Cambridge,A
+E3,1819,E3,2019-01-12,Oldham,Forest Green,D
+E3,1819,E3,2019-01-12,Port Vale,Colchester,A
+E3,1819,E3,2019-01-12,Stevenage,Crawley Town,H
+E3,1819,E3,2019-01-12,Swindon,Lincoln,D
+E3,1819,E3,2019-01-15,Mansfield,Crawley Town,H
+E3,1819,E3,2019-01-19,Cambridge,Northampton,H
+E3,1819,E3,2019-01-19,Carlisle,Cheltenham,H
+E3,1819,E3,2019-01-19,Colchester,Mansfield,A
+E3,1819,E3,2019-01-19,Crawley Town,Port Vale,A
+E3,1819,E3,2019-01-19,Forest Green,Bury,A
+E3,1819,E3,2019-01-19,Lincoln,Grimsby,H
+E3,1819,E3,2019-01-19,Macclesfield,Oldham,H
+E3,1819,E3,2019-01-19,Milton Keynes Dons,Crewe,A
+E3,1819,E3,2019-01-19,Morecambe,Stevenage,A
+E3,1819,E3,2019-01-19,Newport County,Exeter,H
+E3,1819,E3,2019-01-19,Tranmere,Swindon,A
+E3,1819,E3,2019-01-19,Yeovil,Notts County,H
+E3,1819,E3,2019-01-22,Forest Green,Grimsby,H
+E3,1819,E3,2019-01-22,Yeovil,Lincoln,A
+E3,1819,E3,2019-01-26,Bury,Lincoln,D
+E3,1819,E3,2019-01-26,Cheltenham,Macclesfield,H
+E3,1819,E3,2019-01-26,Crewe,Colchester,H
+E3,1819,E3,2019-01-26,Exeter,Cambridge,H
+E3,1819,E3,2019-01-26,Grimsby,Milton Keynes Dons,H
+E3,1819,E3,2019-01-26,Mansfield,Tranmere,H
+E3,1819,E3,2019-01-26,Northampton,Morecambe,D
+E3,1819,E3,2019-01-26,Port Vale,Carlisle,A
+E3,1819,E3,2019-01-26,Stevenage,Forest Green,A
+E3,1819,E3,2019-01-26,Swindon,Crawley Town,A
+E3,1819,E3,2019-01-29,Forest Green,Mansfield,D
+E3,1819,E3,2019-01-29,Milton Keynes Dons,Oldham,H
+E3,1819,E3,2019-01-29,Newport County,Port Vale,D
+E3,1819,E3,2019-02-02,Bury,Crawley Town,D
+E3,1819,E3,2019-02-02,Exeter,Milton Keynes Dons,H
+E3,1819,E3,2019-02-02,Grimsby,Newport County,H
+E3,1819,E3,2019-02-02,Mansfield,Macclesfield,H
+E3,1819,E3,2019-02-02,Northampton,Colchester,A
+E3,1819,E3,2019-02-02,Notts County,Lincoln,D
+E3,1819,E3,2019-02-02,Stevenage,Yeovil,H
+E3,1819,E3,2019-02-05,Cheltenham,Yeovil,H
+E3,1819,E3,2019-02-05,Tranmere,Northampton,A
+E3,1819,E3,2019-02-09,Cambridge,Port Vale,H
+E3,1819,E3,2019-02-09,Carlisle,Exeter,D
+E3,1819,E3,2019-02-09,Colchester,Cheltenham,H
+E3,1819,E3,2019-02-09,Crawley Town,Oldham,A
+E3,1819,E3,2019-02-09,Forest Green,Notts County,A
+E3,1819,E3,2019-02-09,Lincoln,Northampton,D
+E3,1819,E3,2019-02-09,Macclesfield,Crewe,D
+E3,1819,E3,2019-02-09,Milton Keynes Dons,Swindon,A
+E3,1819,E3,2019-02-09,Morecambe,Bury,A
+E3,1819,E3,2019-02-09,Newport County,Mansfield,H
+E3,1819,E3,2019-02-09,Tranmere,Stevenage,H
+E3,1819,E3,2019-02-09,Yeovil,Grimsby,A
+E3,1819,E3,2019-02-12,Crewe,Carlisle,H
+E3,1819,E3,2019-02-12,Newport County,Milton Keynes Dons,A
+E3,1819,E3,2019-02-12,Oldham,Yeovil,H
+E3,1819,E3,2019-02-12,Swindon,Forest Green,H
+E3,1819,E3,2019-02-16,Cambridge,Tranmere,D
+E3,1819,E3,2019-02-16,Carlisle,Milton Keynes Dons,A
+E3,1819,E3,2019-02-16,Exeter,Bury,A
+E3,1819,E3,2019-02-16,Forest Green,Yeovil,H
+E3,1819,E3,2019-02-16,Grimsby,Cheltenham,H
+E3,1819,E3,2019-02-16,Lincoln,Stevenage,D
+E3,1819,E3,2019-02-16,Macclesfield,Colchester,D
+E3,1819,E3,2019-02-16,Northampton,Crawley Town,D
+E3,1819,E3,2019-02-16,Notts County,Mansfield,H
+E3,1819,E3,2019-02-16,Oldham,Crewe,D
+E3,1819,E3,2019-02-16,Port Vale,Morecambe,A
+E3,1819,E3,2019-02-19,Cheltenham,Cambridge,H
+E3,1819,E3,2019-02-19,Notts County,Newport County,A
+E3,1819,E3,2019-02-19,Oldham,Morecambe,A
+E3,1819,E3,2019-02-19,Port Vale,Tranmere,A
+E3,1819,E3,2019-02-23,Bury,Oldham,H
+E3,1819,E3,2019-02-23,Cheltenham,Port Vale,H
+E3,1819,E3,2019-02-23,Colchester,Carlisle,D
+E3,1819,E3,2019-02-23,Crawley Town,Macclesfield,D
+E3,1819,E3,2019-02-23,Crewe,Exeter,A
+E3,1819,E3,2019-02-23,Mansfield,Forest Green,H
+E3,1819,E3,2019-02-23,Milton Keynes Dons,Newport County,H
+E3,1819,E3,2019-02-23,Morecambe,Lincoln,A
+E3,1819,E3,2019-02-23,Stevenage,Northampton,A
+E3,1819,E3,2019-02-23,Swindon,Grimsby,D
+E3,1819,E3,2019-02-23,Tranmere,Notts County,H
+E3,1819,E3,2019-02-23,Yeovil,Cambridge,H
+E3,1819,E3,2019-02-26,Lincoln,Exeter,D
+E3,1819,E3,2019-03-02,Bury,Macclesfield,H
+E3,1819,E3,2019-03-02,Crewe,Northampton,A
+E3,1819,E3,2019-03-02,Exeter,Tranmere,A
+E3,1819,E3,2019-03-02,Forest Green,Lincoln,A
+E3,1819,E3,2019-03-02,Grimsby,Cambridge,A
+E3,1819,E3,2019-03-02,Mansfield,Cheltenham,H
+E3,1819,E3,2019-03-02,Milton Keynes Dons,Crawley Town,H
+E3,1819,E3,2019-03-02,Newport County,Carlisle,H
+E3,1819,E3,2019-03-02,Notts County,Port Vale,D
+E3,1819,E3,2019-03-02,Oldham,Stevenage,D
+E3,1819,E3,2019-03-02,Swindon,Colchester,H
+E3,1819,E3,2019-03-02,Yeovil,Morecambe,H
+SC0,1819,SC0,2018-08-04,Celtic,Livingston,H
+SC0,1819,SC0,2018-08-04,Hamilton,Hearts,A
+SC0,1819,SC0,2018-08-04,Kilmarnock,St Johnstone,H
+SC0,1819,SC0,2018-08-04,St Mirren,Dundee,H
+SC0,1819,SC0,2018-08-05,Aberdeen,Rangers,D
+SC0,1819,SC0,2018-08-05,Hibernian,Motherwell,H
+SC0,1819,SC0,2018-08-11,Dundee,Aberdeen,A
+SC0,1819,SC0,2018-08-11,Hearts,Celtic,H
+SC0,1819,SC0,2018-08-11,Livingston,Kilmarnock,D
+SC0,1819,SC0,2018-08-11,Motherwell,Hamilton,A
+SC0,1819,SC0,2018-08-12,Rangers,St Mirren,H
+SC0,1819,SC0,2018-08-12,St Johnstone,Hibernian,D
+SC0,1819,SC0,2018-08-25,Hibernian,Aberdeen,D
+SC0,1819,SC0,2018-08-25,Kilmarnock,Hearts,A
+SC0,1819,SC0,2018-08-25,St Johnstone,Dundee,H
+SC0,1819,SC0,2018-08-25,St Mirren,Livingston,A
+SC0,1819,SC0,2018-08-26,Celtic,Hamilton,H
+SC0,1819,SC0,2018-08-26,Motherwell,Rangers,D
+SC0,1819,SC0,2018-09-01,Aberdeen,Kilmarnock,A
+SC0,1819,SC0,2018-09-01,Dundee,Motherwell,A
+SC0,1819,SC0,2018-09-01,Hamilton,St Johnstone,A
+SC0,1819,SC0,2018-09-01,Hearts,St Mirren,H
+SC0,1819,SC0,2018-09-01,Livingston,Hibernian,H
+SC0,1819,SC0,2018-09-02,Celtic,Rangers,H
+SC0,1819,SC0,2018-09-14,St Mirren,Celtic,D
+SC0,1819,SC0,2018-09-15,Hibernian,Kilmarnock,H
+SC0,1819,SC0,2018-09-15,Livingston,Hamilton,H
+SC0,1819,SC0,2018-09-15,Motherwell,Hearts,A
+SC0,1819,SC0,2018-09-15,Rangers,Dundee,H
+SC0,1819,SC0,2018-09-15,St Johnstone,Aberdeen,D
+SC0,1819,SC0,2018-09-22,Aberdeen,Motherwell,H
+SC0,1819,SC0,2018-09-22,Dundee,Hibernian,A
+SC0,1819,SC0,2018-09-22,Hamilton,St Mirren,H
+SC0,1819,SC0,2018-09-22,Hearts,Livingston,D
+SC0,1819,SC0,2018-09-23,Kilmarnock,Celtic,H
+SC0,1819,SC0,2018-09-23,Rangers,St Johnstone,H
+SC0,1819,SC0,2018-09-29,Celtic,Aberdeen,H
+SC0,1819,SC0,2018-09-29,Hamilton,Dundee,A
+SC0,1819,SC0,2018-09-29,Hearts,St Johnstone,H
+SC0,1819,SC0,2018-09-29,Kilmarnock,Motherwell,H
+SC0,1819,SC0,2018-09-29,St Mirren,Hibernian,A
+SC0,1819,SC0,2018-09-30,Livingston,Rangers,H
+SC0,1819,SC0,2018-10-06,Aberdeen,St Mirren,H
+SC0,1819,SC0,2018-10-06,Dundee,Kilmarnock,A
+SC0,1819,SC0,2018-10-06,Hibernian,Hamilton,H
+SC0,1819,SC0,2018-10-06,Motherwell,Livingston,D
+SC0,1819,SC0,2018-10-07,Rangers,Hearts,H
+SC0,1819,SC0,2018-10-07,St Johnstone,Celtic,A
+SC0,1819,SC0,2018-10-20,Celtic,Hibernian,H
+SC0,1819,SC0,2018-10-20,Hearts,Aberdeen,H
+SC0,1819,SC0,2018-10-20,Livingston,Dundee,H
+SC0,1819,SC0,2018-10-20,Motherwell,St Johnstone,A
+SC0,1819,SC0,2018-10-20,St Mirren,Kilmarnock,A
+SC0,1819,SC0,2018-10-21,Hamilton,Rangers,A
+SC0,1819,SC0,2018-10-23,Dundee,Hearts,A
+SC0,1819,SC0,2018-10-27,Kilmarnock,Hamilton,D
+SC0,1819,SC0,2018-10-27,St Johnstone,St Mirren,H
+SC0,1819,SC0,2018-10-31,Aberdeen,Hamilton,H
+SC0,1819,SC0,2018-10-31,Dundee,Celtic,A
+SC0,1819,SC0,2018-10-31,Hearts,Hibernian,D
+SC0,1819,SC0,2018-10-31,Livingston,St Johnstone,A
+SC0,1819,SC0,2018-10-31,Rangers,Kilmarnock,D
+SC0,1819,SC0,2018-10-31,St Mirren,Motherwell,A
+SC0,1819,SC0,2018-11-03,Celtic,Hearts,H
+SC0,1819,SC0,2018-11-03,Hamilton,Livingston,H
+SC0,1819,SC0,2018-11-03,Hibernian,St Johnstone,A
+SC0,1819,SC0,2018-11-03,Motherwell,Dundee,H
+SC0,1819,SC0,2018-11-03,St Mirren,Rangers,A
+SC0,1819,SC0,2018-11-04,Kilmarnock,Aberdeen,A
+SC0,1819,SC0,2018-11-09,Aberdeen,Hibernian,H
+SC0,1819,SC0,2018-11-10,Dundee,St Mirren,D
+SC0,1819,SC0,2018-11-10,Hearts,Kilmarnock,A
+SC0,1819,SC0,2018-11-10,St Johnstone,Hamilton,H
+SC0,1819,SC0,2018-11-11,Livingston,Celtic,D
+SC0,1819,SC0,2018-11-11,Rangers,Motherwell,H
+SC0,1819,SC0,2018-11-24,Hamilton,Celtic,A
+SC0,1819,SC0,2018-11-24,Hibernian,Dundee,D
+SC0,1819,SC0,2018-11-24,Motherwell,Aberdeen,H
+SC0,1819,SC0,2018-11-24,Rangers,Livingston,H
+SC0,1819,SC0,2018-11-24,St Johnstone,Kilmarnock,D
+SC0,1819,SC0,2018-11-24,St Mirren,Hearts,H
+SC0,1819,SC0,2018-12-01,Kilmarnock,Hibernian,H
+SC0,1819,SC0,2018-12-01,Livingston,Motherwell,H
+SC0,1819,SC0,2018-12-01,St Mirren,Hamilton,A
+SC0,1819,SC0,2018-12-02,Hearts,Rangers,A
+SC0,1819,SC0,2018-12-05,Dundee,Hamilton,H
+SC0,1819,SC0,2018-12-05,Hibernian,St Mirren,D
+SC0,1819,SC0,2018-12-05,Kilmarnock,Livingston,H
+SC0,1819,SC0,2018-12-05,Motherwell,Celtic,D
+SC0,1819,SC0,2018-12-05,Rangers,Aberdeen,A
+SC0,1819,SC0,2018-12-05,St Johnstone,Hearts,D
+SC0,1819,SC0,2018-12-08,Aberdeen,St Johnstone,A
+SC0,1819,SC0,2018-12-08,Celtic,Kilmarnock,H
+SC0,1819,SC0,2018-12-08,Hamilton,Hibernian,A
+SC0,1819,SC0,2018-12-08,Hearts,Motherwell,H
+SC0,1819,SC0,2018-12-08,Livingston,St Mirren,H
+SC0,1819,SC0,2018-12-09,Dundee,Rangers,D
+SC0,1819,SC0,2018-12-11,Aberdeen,Livingston,H
+SC0,1819,SC0,2018-12-14,Livingston,Hearts,H
+SC0,1819,SC0,2018-12-15,Kilmarnock,Dundee,H
+SC0,1819,SC0,2018-12-15,St Johnstone,Motherwell,A
+SC0,1819,SC0,2018-12-15,St Mirren,Aberdeen,A
+SC0,1819,SC0,2018-12-16,Hibernian,Celtic,H
+SC0,1819,SC0,2018-12-16,Rangers,Hamilton,H
+SC0,1819,SC0,2018-12-18,Aberdeen,Dundee,H
+SC0,1819,SC0,2018-12-19,Celtic,Motherwell,H
+SC0,1819,SC0,2018-12-19,Hibernian,Rangers,D
+SC0,1819,SC0,2018-12-22,Aberdeen,Hearts,H
+SC0,1819,SC0,2018-12-22,Celtic,Dundee,H
+SC0,1819,SC0,2018-12-22,Hamilton,Kilmarnock,D
+SC0,1819,SC0,2018-12-22,Hibernian,Livingston,D
+SC0,1819,SC0,2018-12-22,Motherwell,St Mirren,A
+SC0,1819,SC0,2018-12-23,St Johnstone,Rangers,A
+SC0,1819,SC0,2018-12-26,Aberdeen,Celtic,A
+SC0,1819,SC0,2018-12-26,Dundee,Livingston,D
+SC0,1819,SC0,2018-12-26,Hearts,Hamilton,H
+SC0,1819,SC0,2018-12-26,Motherwell,Kilmarnock,A
+SC0,1819,SC0,2018-12-26,Rangers,Hibernian,D
+SC0,1819,SC0,2018-12-26,St Mirren,St Johnstone,A
+SC0,1819,SC0,2018-12-29,Dundee,St Johnstone,A
+SC0,1819,SC0,2018-12-29,Hamilton,Motherwell,A
+SC0,1819,SC0,2018-12-29,Hibernian,Hearts,A
+SC0,1819,SC0,2018-12-29,Kilmarnock,St Mirren,H
+SC0,1819,SC0,2018-12-29,Livingston,Aberdeen,A
+SC0,1819,SC0,2018-12-29,Rangers,Celtic,H
+SC0,1819,SC0,2019-01-23,Celtic,St Mirren,H
+SC0,1819,SC0,2019-01-23,Hamilton,Aberdeen,A
+SC0,1819,SC0,2019-01-23,Hearts,Dundee,A
+SC0,1819,SC0,2019-01-23,Kilmarnock,Rangers,H
+SC0,1819,SC0,2019-01-23,Motherwell,Hibernian,H
+SC0,1819,SC0,2019-01-23,St Johnstone,Livingston,H
+SC0,1819,SC0,2019-01-26,Aberdeen,Kilmarnock,D
+SC0,1819,SC0,2019-01-26,Celtic,Hamilton,H
+SC0,1819,SC0,2019-01-26,Dundee,Motherwell,A
+SC0,1819,SC0,2019-01-26,Hearts,St Johnstone,H
+SC0,1819,SC0,2019-01-27,Livingston,Rangers,A
+SC0,1819,SC0,2019-01-27,St Mirren,Hibernian,A
+SC0,1819,SC0,2019-01-30,Celtic,St Johnstone,H
+SC0,1819,SC0,2019-02-01,Kilmarnock,Hearts,A
+SC0,1819,SC0,2019-02-02,Hamilton,Dundee,D
+SC0,1819,SC0,2019-02-02,Hibernian,Aberdeen,A
+SC0,1819,SC0,2019-02-02,Motherwell,Livingston,H
+SC0,1819,SC0,2019-02-02,Rangers,St Mirren,H
+SC0,1819,SC0,2019-02-03,St Johnstone,Celtic,A
+SC0,1819,SC0,2019-02-06,Aberdeen,Rangers,A
+SC0,1819,SC0,2019-02-06,Celtic,Hibernian,H
+SC0,1819,SC0,2019-02-06,Dundee,Kilmarnock,D
+SC0,1819,SC0,2019-02-06,Hamilton,St Johnstone,H
+SC0,1819,SC0,2019-02-06,Hearts,Livingston,D
+SC0,1819,SC0,2019-02-06,St Mirren,Motherwell,A
+SC0,1819,SC0,2019-02-16,Aberdeen,St Mirren,D
+SC0,1819,SC0,2019-02-16,Hibernian,Hamilton,H
+SC0,1819,SC0,2019-02-16,Livingston,Dundee,A
+SC0,1819,SC0,2019-02-16,Rangers,St Johnstone,D
+SC0,1819,SC0,2019-02-17,Kilmarnock,Celtic,A
+SC0,1819,SC0,2019-02-17,Motherwell,Hearts,H
+SC0,1819,SC0,2019-02-22,Dundee,Hibernian,A
+SC0,1819,SC0,2019-02-23,Hearts,St Mirren,D
+SC0,1819,SC0,2019-02-23,Livingston,Kilmarnock,H
+SC0,1819,SC0,2019-02-23,St Johnstone,Aberdeen,A
+SC0,1819,SC0,2019-02-24,Celtic,Motherwell,H
+SC0,1819,SC0,2019-02-24,Hamilton,Rangers,A
+SC0,1819,SC0,2019-02-27,Aberdeen,Hamilton,A
+SC0,1819,SC0,2019-02-27,Hearts,Celtic,A
+SC0,1819,SC0,2019-02-27,Rangers,Dundee,H
+SC0,1819,SC0,2019-02-27,St Johnstone,Hibernian,A
+SC0,1819,SC0,2019-03-02,Kilmarnock,Motherwell,D
+SC0,1819,SC0,2019-03-02,St Mirren,Livingston,H
+D1,1819,D1,2018-08-24,Bayern Munich,Hoffenheim,H
+D1,1819,D1,2018-08-25,Fortuna Dusseldorf,Augsburg,A
+D1,1819,D1,2018-08-25,Freiburg,Ein Frankfurt,A
+D1,1819,D1,2018-08-25,Hertha,Nurnberg,H
+D1,1819,D1,2018-08-25,M'gladbach,Leverkusen,H
+D1,1819,D1,2018-08-25,Werder Bremen,Hannover,D
+D1,1819,D1,2018-08-25,Wolfsburg,Schalke 04,H
+D1,1819,D1,2018-08-26,Dortmund,RB Leipzig,H
+D1,1819,D1,2018-08-26,Mainz,Stuttgart,H
+D1,1819,D1,2018-08-31,Hannover,Dortmund,D
+D1,1819,D1,2018-09-01,Augsburg,M'gladbach,D
+D1,1819,D1,2018-09-01,Ein Frankfurt,Werder Bremen,A
+D1,1819,D1,2018-09-01,Hoffenheim,Freiburg,H
+D1,1819,D1,2018-09-01,Leverkusen,Wolfsburg,A
+D1,1819,D1,2018-09-01,Nurnberg,Mainz,D
+D1,1819,D1,2018-09-01,Stuttgart,Bayern Munich,A
+D1,1819,D1,2018-09-02,RB Leipzig,Fortuna Dusseldorf,D
+D1,1819,D1,2018-09-02,Schalke 04,Hertha,A
+D1,1819,D1,2018-09-14,Dortmund,Ein Frankfurt,H
+D1,1819,D1,2018-09-15,Bayern Munich,Leverkusen,H
+D1,1819,D1,2018-09-15,Fortuna Dusseldorf,Hoffenheim,H
+D1,1819,D1,2018-09-15,Mainz,Augsburg,H
+D1,1819,D1,2018-09-15,M'gladbach,Schalke 04,H
+D1,1819,D1,2018-09-15,RB Leipzig,Hannover,H
+D1,1819,D1,2018-09-15,Wolfsburg,Hertha,D
+D1,1819,D1,2018-09-16,Freiburg,Stuttgart,D
+D1,1819,D1,2018-09-16,Werder Bremen,Nurnberg,D
+D1,1819,D1,2018-09-21,Stuttgart,Fortuna Dusseldorf,D
+D1,1819,D1,2018-09-22,Augsburg,Werder Bremen,A
+D1,1819,D1,2018-09-22,Hertha,M'gladbach,H
+D1,1819,D1,2018-09-22,Hoffenheim,Dortmund,D
+D1,1819,D1,2018-09-22,Nurnberg,Hannover,H
+D1,1819,D1,2018-09-22,Schalke 04,Bayern Munich,A
+D1,1819,D1,2018-09-22,Wolfsburg,Freiburg,A
+D1,1819,D1,2018-09-23,Ein Frankfurt,RB Leipzig,D
+D1,1819,D1,2018-09-23,Leverkusen,Mainz,H
+D1,1819,D1,2018-09-25,Bayern Munich,Augsburg,D
+D1,1819,D1,2018-09-25,Freiburg,Schalke 04,H
+D1,1819,D1,2018-09-25,Hannover,Hoffenheim,A
+D1,1819,D1,2018-09-25,Werder Bremen,Hertha,H
+D1,1819,D1,2018-09-26,Dortmund,Nurnberg,H
+D1,1819,D1,2018-09-26,Fortuna Dusseldorf,Leverkusen,A
+D1,1819,D1,2018-09-26,Mainz,Wolfsburg,D
+D1,1819,D1,2018-09-26,M'gladbach,Ein Frankfurt,H
+D1,1819,D1,2018-09-26,RB Leipzig,Stuttgart,H
+D1,1819,D1,2018-09-28,Hertha,Bayern Munich,H
+D1,1819,D1,2018-09-29,Hoffenheim,RB Leipzig,A
+D1,1819,D1,2018-09-29,Leverkusen,Dortmund,A
+D1,1819,D1,2018-09-29,Nurnberg,Fortuna Dusseldorf,H
+D1,1819,D1,2018-09-29,Schalke 04,Mainz,H
+D1,1819,D1,2018-09-29,Stuttgart,Werder Bremen,H
+D1,1819,D1,2018-09-29,Wolfsburg,M'gladbach,D
+D1,1819,D1,2018-09-30,Augsburg,Freiburg,H
+D1,1819,D1,2018-09-30,Ein Frankfurt,Hannover,H
+D1,1819,D1,2018-10-05,Werder Bremen,Wolfsburg,H
+D1,1819,D1,2018-10-06,Bayern Munich,M'gladbach,A
+D1,1819,D1,2018-10-06,Dortmund,Augsburg,H
+D1,1819,D1,2018-10-06,Fortuna Dusseldorf,Schalke 04,A
+D1,1819,D1,2018-10-06,Hannover,Stuttgart,H
+D1,1819,D1,2018-10-06,Mainz,Hertha,D
+D1,1819,D1,2018-10-07,Freiburg,Leverkusen,D
+D1,1819,D1,2018-10-07,Hoffenheim,Ein Frankfurt,A
+D1,1819,D1,2018-10-07,RB Leipzig,Nurnberg,H
+D1,1819,D1,2018-10-19,Ein Frankfurt,Fortuna Dusseldorf,H
+D1,1819,D1,2018-10-20,Augsburg,RB Leipzig,D
+D1,1819,D1,2018-10-20,Leverkusen,Hannover,D
+D1,1819,D1,2018-10-20,Nurnberg,Hoffenheim,A
+D1,1819,D1,2018-10-20,Schalke 04,Werder Bremen,A
+D1,1819,D1,2018-10-20,Stuttgart,Dortmund,A
+D1,1819,D1,2018-10-20,Wolfsburg,Bayern Munich,A
+D1,1819,D1,2018-10-21,Hertha,Freiburg,D
+D1,1819,D1,2018-10-21,M'gladbach,Mainz,H
+D1,1819,D1,2018-10-26,Freiburg,M'gladbach,H
+D1,1819,D1,2018-10-27,Dortmund,Hertha,D
+D1,1819,D1,2018-10-27,Fortuna Dusseldorf,Wolfsburg,A
+D1,1819,D1,2018-10-27,Hannover,Augsburg,A
+D1,1819,D1,2018-10-27,Hoffenheim,Stuttgart,H
+D1,1819,D1,2018-10-27,Mainz,Bayern Munich,A
+D1,1819,D1,2018-10-28,Nurnberg,Ein Frankfurt,D
+D1,1819,D1,2018-10-28,RB Leipzig,Schalke 04,D
+D1,1819,D1,2018-10-28,Werder Bremen,Leverkusen,A
+D1,1819,D1,2018-11-02,Stuttgart,Ein Frankfurt,A
+D1,1819,D1,2018-11-03,Augsburg,Nurnberg,D
+D1,1819,D1,2018-11-03,Bayern Munich,Freiburg,D
+D1,1819,D1,2018-11-03,Hertha,RB Leipzig,A
+D1,1819,D1,2018-11-03,Leverkusen,Hoffenheim,A
+D1,1819,D1,2018-11-03,Schalke 04,Hannover,H
+D1,1819,D1,2018-11-03,Wolfsburg,Dortmund,A
+D1,1819,D1,2018-11-04,Mainz,Werder Bremen,H
+D1,1819,D1,2018-11-04,M'gladbach,Fortuna Dusseldorf,H
+D1,1819,D1,2018-11-09,Hannover,Wolfsburg,H
+D1,1819,D1,2018-11-10,Dortmund,Bayern Munich,H
+D1,1819,D1,2018-11-10,Fortuna Dusseldorf,Hertha,H
+D1,1819,D1,2018-11-10,Freiburg,Mainz,A
+D1,1819,D1,2018-11-10,Hoffenheim,Augsburg,H
+D1,1819,D1,2018-11-10,Nurnberg,Stuttgart,A
+D1,1819,D1,2018-11-10,Werder Bremen,M'gladbach,A
+D1,1819,D1,2018-11-11,Ein Frankfurt,Schalke 04,H
+D1,1819,D1,2018-11-11,RB Leipzig,Leverkusen,H
+D1,1819,D1,2018-11-23,Leverkusen,Stuttgart,H
+D1,1819,D1,2018-11-24,Augsburg,Ein Frankfurt,A
+D1,1819,D1,2018-11-24,Bayern Munich,Fortuna Dusseldorf,D
+D1,1819,D1,2018-11-24,Hertha,Hoffenheim,D
+D1,1819,D1,2018-11-24,Mainz,Dortmund,A
+D1,1819,D1,2018-11-24,Schalke 04,Nurnberg,H
+D1,1819,D1,2018-11-24,Wolfsburg,RB Leipzig,H
+D1,1819,D1,2018-11-25,Freiburg,Werder Bremen,D
+D1,1819,D1,2018-11-25,M'gladbach,Hannover,H
+D1,1819,D1,2018-11-30,Fortuna Dusseldorf,Mainz,A
+D1,1819,D1,2018-12-01,Dortmund,Freiburg,H
+D1,1819,D1,2018-12-01,Hannover,Hertha,A
+D1,1819,D1,2018-12-01,Hoffenheim,Schalke 04,D
+D1,1819,D1,2018-12-01,Stuttgart,Augsburg,H
+D1,1819,D1,2018-12-01,Werder Bremen,Bayern Munich,A
+D1,1819,D1,2018-12-02,Ein Frankfurt,Wolfsburg,A
+D1,1819,D1,2018-12-02,RB Leipzig,M'gladbach,H
+D1,1819,D1,2018-12-03,Nurnberg,Leverkusen,D
+D1,1819,D1,2018-12-07,Werder Bremen,Fortuna Dusseldorf,H
+D1,1819,D1,2018-12-08,Bayern Munich,Nurnberg,H
+D1,1819,D1,2018-12-08,Freiburg,RB Leipzig,H
+D1,1819,D1,2018-12-08,Hertha,Ein Frankfurt,H
+D1,1819,D1,2018-12-08,Leverkusen,Augsburg,H
+D1,1819,D1,2018-12-08,Schalke 04,Dortmund,A
+D1,1819,D1,2018-12-08,Wolfsburg,Hoffenheim,D
+D1,1819,D1,2018-12-09,Mainz,Hannover,D
+D1,1819,D1,2018-12-09,M'gladbach,Stuttgart,H
+D1,1819,D1,2018-12-14,Nurnberg,Wolfsburg,A
+D1,1819,D1,2018-12-15,Augsburg,Schalke 04,D
+D1,1819,D1,2018-12-15,Dortmund,Werder Bremen,H
+D1,1819,D1,2018-12-15,Fortuna Dusseldorf,Freiburg,H
+D1,1819,D1,2018-12-15,Hannover,Bayern Munich,A
+D1,1819,D1,2018-12-15,Hoffenheim,M'gladbach,D
+D1,1819,D1,2018-12-15,Stuttgart,Hertha,H
+D1,1819,D1,2018-12-16,Ein Frankfurt,Leverkusen,H
+D1,1819,D1,2018-12-16,RB Leipzig,Mainz,H
+D1,1819,D1,2018-12-18,Fortuna Dusseldorf,Dortmund,H
+D1,1819,D1,2018-12-18,Hertha,Augsburg,D
+D1,1819,D1,2018-12-18,M'gladbach,Nurnberg,H
+D1,1819,D1,2018-12-18,Wolfsburg,Stuttgart,H
+D1,1819,D1,2018-12-19,Bayern Munich,RB Leipzig,H
+D1,1819,D1,2018-12-19,Freiburg,Hannover,D
+D1,1819,D1,2018-12-19,Mainz,Ein Frankfurt,D
+D1,1819,D1,2018-12-19,Schalke 04,Leverkusen,A
+D1,1819,D1,2018-12-19,Werder Bremen,Hoffenheim,D
+D1,1819,D1,2018-12-21,Dortmund,M'gladbach,H
+D1,1819,D1,2018-12-22,Ein Frankfurt,Bayern Munich,A
+D1,1819,D1,2018-12-22,Hannover,Fortuna Dusseldorf,A
+D1,1819,D1,2018-12-22,Leverkusen,Hertha,H
+D1,1819,D1,2018-12-22,Nurnberg,Freiburg,A
+D1,1819,D1,2018-12-22,RB Leipzig,Werder Bremen,H
+D1,1819,D1,2018-12-22,Stuttgart,Schalke 04,A
+D1,1819,D1,2018-12-23,Augsburg,Wolfsburg,A
+D1,1819,D1,2018-12-23,Hoffenheim,Mainz,D
+D1,1819,D1,2019-01-18,Hoffenheim,Bayern Munich,A
+D1,1819,D1,2019-01-19,Augsburg,Fortuna Dusseldorf,A
+D1,1819,D1,2019-01-19,Ein Frankfurt,Freiburg,H
+D1,1819,D1,2019-01-19,Hannover,Werder Bremen,A
+D1,1819,D1,2019-01-19,Leverkusen,M'gladbach,A
+D1,1819,D1,2019-01-19,RB Leipzig,Dortmund,A
+D1,1819,D1,2019-01-19,Stuttgart,Mainz,A
+D1,1819,D1,2019-01-20,Nurnberg,Hertha,A
+D1,1819,D1,2019-01-20,Schalke 04,Wolfsburg,H
+D1,1819,D1,2019-01-25,Hertha,Schalke 04,D
+D1,1819,D1,2019-01-26,Dortmund,Hannover,H
+D1,1819,D1,2019-01-26,Freiburg,Hoffenheim,A
+D1,1819,D1,2019-01-26,Mainz,Nurnberg,H
+D1,1819,D1,2019-01-26,M'gladbach,Augsburg,H
+D1,1819,D1,2019-01-26,Werder Bremen,Ein Frankfurt,D
+D1,1819,D1,2019-01-26,Wolfsburg,Leverkusen,A
+D1,1819,D1,2019-01-27,Bayern Munich,Stuttgart,H
+D1,1819,D1,2019-01-27,Fortuna Dusseldorf,RB Leipzig,A
+D1,1819,D1,2019-02-01,Hannover,RB Leipzig,A
+D1,1819,D1,2019-02-02,Ein Frankfurt,Dortmund,D
+D1,1819,D1,2019-02-02,Hertha,Wolfsburg,A
+D1,1819,D1,2019-02-02,Hoffenheim,Fortuna Dusseldorf,D
+D1,1819,D1,2019-02-02,Leverkusen,Bayern Munich,H
+D1,1819,D1,2019-02-02,Nurnberg,Werder Bremen,D
+D1,1819,D1,2019-02-02,Schalke 04,M'gladbach,A
+D1,1819,D1,2019-02-03,Augsburg,Mainz,H
+D1,1819,D1,2019-02-03,Stuttgart,Freiburg,D
+D1,1819,D1,2019-02-08,Mainz,Leverkusen,A
+D1,1819,D1,2019-02-09,Bayern Munich,Schalke 04,H
+D1,1819,D1,2019-02-09,Dortmund,Hoffenheim,D
+D1,1819,D1,2019-02-09,Freiburg,Wolfsburg,D
+D1,1819,D1,2019-02-09,Hannover,Nurnberg,H
+D1,1819,D1,2019-02-09,M'gladbach,Hertha,A
+D1,1819,D1,2019-02-09,RB Leipzig,Ein Frankfurt,D
+D1,1819,D1,2019-02-10,Fortuna Dusseldorf,Stuttgart,H
+D1,1819,D1,2019-02-10,Werder Bremen,Augsburg,H
+D1,1819,D1,2019-02-15,Augsburg,Bayern Munich,A
+D1,1819,D1,2019-02-16,Hertha,Werder Bremen,D
+D1,1819,D1,2019-02-16,Hoffenheim,Hannover,H
+D1,1819,D1,2019-02-16,Schalke 04,Freiburg,D
+D1,1819,D1,2019-02-16,Stuttgart,RB Leipzig,A
+D1,1819,D1,2019-02-16,Wolfsburg,Mainz,H
+D1,1819,D1,2019-02-17,Ein Frankfurt,M'gladbach,D
+D1,1819,D1,2019-02-17,Leverkusen,Fortuna Dusseldorf,H
+D1,1819,D1,2019-02-18,Nurnberg,Dortmund,D
+D1,1819,D1,2019-02-22,Werder Bremen,Stuttgart,D
+D1,1819,D1,2019-02-23,Bayern Munich,Hertha,H
+D1,1819,D1,2019-02-23,Fortuna Dusseldorf,Nurnberg,H
+D1,1819,D1,2019-02-23,Freiburg,Augsburg,H
+D1,1819,D1,2019-02-23,Mainz,Schalke 04,H
+D1,1819,D1,2019-02-23,M'gladbach,Wolfsburg,A
+D1,1819,D1,2019-02-24,Dortmund,Leverkusen,H
+D1,1819,D1,2019-02-24,Hannover,Ein Frankfurt,A
+D1,1819,D1,2019-02-25,RB Leipzig,Hoffenheim,D
+D1,1819,D1,2019-03-01,Augsburg,Dortmund,H
+D1,1819,D1,2019-03-02,Ein Frankfurt,Hoffenheim,H
+D1,1819,D1,2019-03-02,Hertha,Mainz,H
+D1,1819,D1,2019-03-02,Leverkusen,Freiburg,H
+D1,1819,D1,2019-03-02,M'gladbach,Bayern Munich,A
+D1,1819,D1,2019-03-02,Nurnberg,RB Leipzig,A
+D1,1819,D1,2019-03-02,Schalke 04,Fortuna Dusseldorf,A
+D1,1819,D1,2019-03-03,Stuttgart,Hannover,H
+D1,1819,D1,2019-03-03,Wolfsburg,Werder Bremen,D
+I1,1819,I1,2018-08-18,Chievo,Juventus,A
+I1,1819,I1,2018-08-18,Lazio,Napoli,A
+I1,1819,I1,2018-08-19,Bologna,Spal,A
+I1,1819,I1,2018-08-19,Empoli,Cagliari,H
+I1,1819,I1,2018-08-19,Parma,Udinese,D
+I1,1819,I1,2018-08-19,Sassuolo,Inter,H
+I1,1819,I1,2018-08-19,Torino,Roma,A
+I1,1819,I1,2018-08-20,Atalanta,Frosinone,H
+I1,1819,I1,2018-08-25,Juventus,Lazio,H
+I1,1819,I1,2018-08-25,Napoli,Milan,H
+I1,1819,I1,2018-08-26,Cagliari,Sassuolo,D
+I1,1819,I1,2018-08-26,Fiorentina,Chievo,H
+I1,1819,I1,2018-08-26,Frosinone,Bologna,D
+I1,1819,I1,2018-08-26,Genoa,Empoli,H
+I1,1819,I1,2018-08-26,Inter,Torino,D
+I1,1819,I1,2018-08-26,Spal,Parma,H
+I1,1819,I1,2018-08-26,Udinese,Sampdoria,H
+I1,1819,I1,2018-08-27,Roma,Atalanta,D
+I1,1819,I1,2018-08-31,Milan,Roma,H
+I1,1819,I1,2018-09-01,Bologna,Inter,A
+I1,1819,I1,2018-09-01,Parma,Juventus,A
+I1,1819,I1,2018-09-02,Atalanta,Cagliari,A
+I1,1819,I1,2018-09-02,Chievo,Empoli,D
+I1,1819,I1,2018-09-02,Fiorentina,Udinese,H
+I1,1819,I1,2018-09-02,Lazio,Frosinone,H
+I1,1819,I1,2018-09-02,Sampdoria,Napoli,H
+I1,1819,I1,2018-09-02,Sassuolo,Genoa,H
+I1,1819,I1,2018-09-02,Torino,Spal,H
+I1,1819,I1,2018-09-15,Frosinone,Sampdoria,A
+I1,1819,I1,2018-09-15,Inter,Parma,A
+I1,1819,I1,2018-09-15,Napoli,Fiorentina,H
+I1,1819,I1,2018-09-16,Cagliari,Milan,D
+I1,1819,I1,2018-09-16,Empoli,Lazio,A
+I1,1819,I1,2018-09-16,Genoa,Bologna,H
+I1,1819,I1,2018-09-16,Juventus,Sassuolo,H
+I1,1819,I1,2018-09-16,Roma,Chievo,D
+I1,1819,I1,2018-09-16,Udinese,Torino,D
+I1,1819,I1,2018-09-17,Spal,Atalanta,H
+I1,1819,I1,2018-09-19,Sampdoria,Fiorentina,D
+I1,1819,I1,2018-09-21,Sassuolo,Empoli,H
+I1,1819,I1,2018-09-22,Fiorentina,Spal,H
+I1,1819,I1,2018-09-22,Parma,Cagliari,H
+I1,1819,I1,2018-09-22,Sampdoria,Inter,A
+I1,1819,I1,2018-09-23,Bologna,Roma,H
+I1,1819,I1,2018-09-23,Chievo,Udinese,A
+I1,1819,I1,2018-09-23,Frosinone,Juventus,A
+I1,1819,I1,2018-09-23,Lazio,Genoa,H
+I1,1819,I1,2018-09-23,Milan,Atalanta,D
+I1,1819,I1,2018-09-23,Torino,Napoli,A
+I1,1819,I1,2018-09-25,Inter,Fiorentina,H
+I1,1819,I1,2018-09-26,Atalanta,Torino,D
+I1,1819,I1,2018-09-26,Cagliari,Sampdoria,D
+I1,1819,I1,2018-09-26,Genoa,Chievo,H
+I1,1819,I1,2018-09-26,Juventus,Bologna,H
+I1,1819,I1,2018-09-26,Napoli,Parma,H
+I1,1819,I1,2018-09-26,Roma,Frosinone,H
+I1,1819,I1,2018-09-26,Udinese,Lazio,A
+I1,1819,I1,2018-09-27,Empoli,Milan,D
+I1,1819,I1,2018-09-27,Spal,Sassuolo,A
+I1,1819,I1,2018-09-29,Inter,Cagliari,H
+I1,1819,I1,2018-09-29,Juventus,Napoli,H
+I1,1819,I1,2018-09-29,Roma,Lazio,H
+I1,1819,I1,2018-09-30,Bologna,Udinese,H
+I1,1819,I1,2018-09-30,Chievo,Torino,A
+I1,1819,I1,2018-09-30,Fiorentina,Atalanta,H
+I1,1819,I1,2018-09-30,Frosinone,Genoa,A
+I1,1819,I1,2018-09-30,Parma,Empoli,H
+I1,1819,I1,2018-09-30,Sassuolo,Milan,A
+I1,1819,I1,2018-10-01,Sampdoria,Spal,H
+I1,1819,I1,2018-10-05,Torino,Frosinone,H
+I1,1819,I1,2018-10-06,Cagliari,Bologna,H
+I1,1819,I1,2018-10-06,Empoli,Roma,A
+I1,1819,I1,2018-10-06,Udinese,Juventus,A
+I1,1819,I1,2018-10-07,Atalanta,Sampdoria,A
+I1,1819,I1,2018-10-07,Genoa,Parma,A
+I1,1819,I1,2018-10-07,Lazio,Fiorentina,H
+I1,1819,I1,2018-10-07,Milan,Chievo,H
+I1,1819,I1,2018-10-07,Napoli,Sassuolo,H
+I1,1819,I1,2018-10-07,Spal,Inter,A
+I1,1819,I1,2018-10-20,Juventus,Genoa,D
+I1,1819,I1,2018-10-20,Roma,Spal,A
+I1,1819,I1,2018-10-20,Udinese,Napoli,A
+I1,1819,I1,2018-10-21,Bologna,Torino,D
+I1,1819,I1,2018-10-21,Chievo,Atalanta,A
+I1,1819,I1,2018-10-21,Fiorentina,Cagliari,D
+I1,1819,I1,2018-10-21,Frosinone,Empoli,D
+I1,1819,I1,2018-10-21,Inter,Milan,H
+I1,1819,I1,2018-10-21,Parma,Lazio,A
+I1,1819,I1,2018-10-22,Sampdoria,Sassuolo,D
+I1,1819,I1,2018-10-27,Atalanta,Parma,H
+I1,1819,I1,2018-10-27,Empoli,Juventus,A
+I1,1819,I1,2018-10-27,Torino,Fiorentina,D
+I1,1819,I1,2018-10-28,Cagliari,Chievo,H
+I1,1819,I1,2018-10-28,Genoa,Udinese,D
+I1,1819,I1,2018-10-28,Milan,Sampdoria,H
+I1,1819,I1,2018-10-28,Napoli,Roma,D
+I1,1819,I1,2018-10-28,Sassuolo,Bologna,D
+I1,1819,I1,2018-10-28,Spal,Frosinone,A
+I1,1819,I1,2018-10-29,Lazio,Inter,A
+I1,1819,I1,2018-10-31,Milan,Genoa,H
+I1,1819,I1,2018-11-02,Napoli,Empoli,H
+I1,1819,I1,2018-11-03,Fiorentina,Roma,D
+I1,1819,I1,2018-11-03,Inter,Genoa,H
+I1,1819,I1,2018-11-03,Juventus,Cagliari,H
+I1,1819,I1,2018-11-04,Bologna,Atalanta,A
+I1,1819,I1,2018-11-04,Chievo,Sassuolo,A
+I1,1819,I1,2018-11-04,Lazio,Spal,H
+I1,1819,I1,2018-11-04,Parma,Frosinone,D
+I1,1819,I1,2018-11-04,Sampdoria,Torino,A
+I1,1819,I1,2018-11-04,Udinese,Milan,A
+I1,1819,I1,2018-11-09,Frosinone,Fiorentina,D
+I1,1819,I1,2018-11-10,Genoa,Napoli,A
+I1,1819,I1,2018-11-10,Spal,Cagliari,D
+I1,1819,I1,2018-11-10,Torino,Parma,A
+I1,1819,I1,2018-11-11,Atalanta,Inter,H
+I1,1819,I1,2018-11-11,Chievo,Bologna,D
+I1,1819,I1,2018-11-11,Empoli,Udinese,H
+I1,1819,I1,2018-11-11,Milan,Juventus,A
+I1,1819,I1,2018-11-11,Roma,Sampdoria,H
+I1,1819,I1,2018-11-11,Sassuolo,Lazio,D
+I1,1819,I1,2018-11-24,Inter,Frosinone,H
+I1,1819,I1,2018-11-24,Juventus,Spal,H
+I1,1819,I1,2018-11-24,Udinese,Roma,H
+I1,1819,I1,2018-11-25,Bologna,Fiorentina,D
+I1,1819,I1,2018-11-25,Empoli,Atalanta,H
+I1,1819,I1,2018-11-25,Genoa,Sampdoria,D
+I1,1819,I1,2018-11-25,Lazio,Milan,D
+I1,1819,I1,2018-11-25,Napoli,Chievo,D
+I1,1819,I1,2018-11-25,Parma,Sassuolo,H
+I1,1819,I1,2018-11-26,Cagliari,Torino,D
+I1,1819,I1,2018-12-01,Fiorentina,Juventus,A
+I1,1819,I1,2018-12-01,Sampdoria,Bologna,H
+I1,1819,I1,2018-12-01,Spal,Empoli,D
+I1,1819,I1,2018-12-02,Chievo,Lazio,D
+I1,1819,I1,2018-12-02,Frosinone,Cagliari,D
+I1,1819,I1,2018-12-02,Milan,Parma,H
+I1,1819,I1,2018-12-02,Roma,Inter,D
+I1,1819,I1,2018-12-02,Sassuolo,Udinese,D
+I1,1819,I1,2018-12-02,Torino,Genoa,H
+I1,1819,I1,2018-12-03,Atalanta,Napoli,A
+I1,1819,I1,2018-12-07,Juventus,Inter,H
+I1,1819,I1,2018-12-08,Cagliari,Roma,D
+I1,1819,I1,2018-12-08,Lazio,Sampdoria,D
+I1,1819,I1,2018-12-08,Napoli,Frosinone,H
+I1,1819,I1,2018-12-09,Empoli,Bologna,H
+I1,1819,I1,2018-12-09,Genoa,Spal,D
+I1,1819,I1,2018-12-09,Milan,Torino,D
+I1,1819,I1,2018-12-09,Parma,Chievo,D
+I1,1819,I1,2018-12-09,Sassuolo,Fiorentina,D
+I1,1819,I1,2018-12-09,Udinese,Atalanta,A
+I1,1819,I1,2018-12-15,Inter,Udinese,H
+I1,1819,I1,2018-12-15,Torino,Juventus,A
+I1,1819,I1,2018-12-16,Cagliari,Napoli,A
+I1,1819,I1,2018-12-16,Fiorentina,Empoli,H
+I1,1819,I1,2018-12-16,Frosinone,Sassuolo,A
+I1,1819,I1,2018-12-16,Roma,Genoa,H
+I1,1819,I1,2018-12-16,Sampdoria,Parma,H
+I1,1819,I1,2018-12-16,Spal,Chievo,D
+I1,1819,I1,2018-12-17,Atalanta,Lazio,H
+I1,1819,I1,2018-12-18,Bologna,Milan,D
+I1,1819,I1,2018-12-22,Chievo,Inter,D
+I1,1819,I1,2018-12-22,Empoli,Sampdoria,A
+I1,1819,I1,2018-12-22,Genoa,Atalanta,H
+I1,1819,I1,2018-12-22,Juventus,Roma,H
+I1,1819,I1,2018-12-22,Lazio,Cagliari,H
+I1,1819,I1,2018-12-22,Milan,Fiorentina,A
+I1,1819,I1,2018-12-22,Napoli,Spal,H
+I1,1819,I1,2018-12-22,Parma,Bologna,D
+I1,1819,I1,2018-12-22,Sassuolo,Torino,D
+I1,1819,I1,2018-12-22,Udinese,Frosinone,D
+I1,1819,I1,2018-12-26,Atalanta,Juventus,D
+I1,1819,I1,2018-12-26,Bologna,Lazio,A
+I1,1819,I1,2018-12-26,Cagliari,Genoa,H
+I1,1819,I1,2018-12-26,Fiorentina,Parma,A
+I1,1819,I1,2018-12-26,Frosinone,Milan,D
+I1,1819,I1,2018-12-26,Inter,Napoli,H
+I1,1819,I1,2018-12-26,Roma,Sassuolo,H
+I1,1819,I1,2018-12-26,Sampdoria,Chievo,H
+I1,1819,I1,2018-12-26,Spal,Udinese,D
+I1,1819,I1,2018-12-26,Torino,Empoli,H
+I1,1819,I1,2018-12-29,Chievo,Frosinone,H
+I1,1819,I1,2018-12-29,Empoli,Inter,A
+I1,1819,I1,2018-12-29,Genoa,Fiorentina,D
+I1,1819,I1,2018-12-29,Juventus,Sampdoria,H
+I1,1819,I1,2018-12-29,Lazio,Torino,D
+I1,1819,I1,2018-12-29,Milan,Spal,H
+I1,1819,I1,2018-12-29,Napoli,Bologna,H
+I1,1819,I1,2018-12-29,Parma,Roma,A
+I1,1819,I1,2018-12-29,Sassuolo,Atalanta,A
+I1,1819,I1,2018-12-29,Udinese,Cagliari,H
+I1,1819,I1,2019-01-19,Inter,Sassuolo,D
+I1,1819,I1,2019-01-19,Roma,Torino,H
+I1,1819,I1,2019-01-19,Udinese,Parma,A
+I1,1819,I1,2019-01-20,Cagliari,Empoli,D
+I1,1819,I1,2019-01-20,Fiorentina,Sampdoria,D
+I1,1819,I1,2019-01-20,Frosinone,Atalanta,A
+I1,1819,I1,2019-01-20,Napoli,Lazio,H
+I1,1819,I1,2019-01-20,Spal,Bologna,D
+I1,1819,I1,2019-01-21,Genoa,Milan,A
+I1,1819,I1,2019-01-21,Juventus,Chievo,H
+I1,1819,I1,2019-01-26,Milan,Napoli,D
+I1,1819,I1,2019-01-26,Sampdoria,Udinese,H
+I1,1819,I1,2019-01-26,Sassuolo,Cagliari,H
+I1,1819,I1,2019-01-27,Atalanta,Roma,D
+I1,1819,I1,2019-01-27,Bologna,Frosinone,A
+I1,1819,I1,2019-01-27,Chievo,Fiorentina,A
+I1,1819,I1,2019-01-27,Lazio,Juventus,A
+I1,1819,I1,2019-01-27,Parma,Spal,A
+I1,1819,I1,2019-01-27,Torino,Inter,H
+I1,1819,I1,2019-01-28,Empoli,Genoa,A
+I1,1819,I1,2019-02-02,Empoli,Chievo,D
+I1,1819,I1,2019-02-02,Juventus,Parma,D
+I1,1819,I1,2019-02-02,Napoli,Sampdoria,H
+I1,1819,I1,2019-02-03,Genoa,Sassuolo,D
+I1,1819,I1,2019-02-03,Inter,Bologna,A
+I1,1819,I1,2019-02-03,Roma,Milan,D
+I1,1819,I1,2019-02-03,Spal,Torino,D
+I1,1819,I1,2019-02-03,Udinese,Fiorentina,D
+I1,1819,I1,2019-02-04,Cagliari,Atalanta,A
+I1,1819,I1,2019-02-04,Frosinone,Lazio,A
+I1,1819,I1,2019-02-07,Lazio,Empoli,H
+I1,1819,I1,2019-02-08,Chievo,Roma,A
+I1,1819,I1,2019-02-09,Fiorentina,Napoli,D
+I1,1819,I1,2019-02-09,Parma,Inter,A
+I1,1819,I1,2019-02-10,Atalanta,Spal,H
+I1,1819,I1,2019-02-10,Bologna,Genoa,D
+I1,1819,I1,2019-02-10,Milan,Cagliari,H
+I1,1819,I1,2019-02-10,Sampdoria,Frosinone,A
+I1,1819,I1,2019-02-10,Sassuolo,Juventus,A
+I1,1819,I1,2019-02-10,Torino,Udinese,H
+I1,1819,I1,2019-02-15,Juventus,Frosinone,H
+I1,1819,I1,2019-02-16,Atalanta,Milan,A
+I1,1819,I1,2019-02-16,Cagliari,Parma,H
+I1,1819,I1,2019-02-17,Empoli,Sassuolo,H
+I1,1819,I1,2019-02-17,Genoa,Lazio,H
+I1,1819,I1,2019-02-17,Inter,Sampdoria,H
+I1,1819,I1,2019-02-17,Napoli,Torino,D
+I1,1819,I1,2019-02-17,Spal,Fiorentina,A
+I1,1819,I1,2019-02-17,Udinese,Chievo,H
+I1,1819,I1,2019-02-18,Roma,Bologna,H
+I1,1819,I1,2019-02-22,Milan,Empoli,H
+I1,1819,I1,2019-02-23,Frosinone,Roma,A
+I1,1819,I1,2019-02-23,Torino,Atalanta,H
+I1,1819,I1,2019-02-24,Bologna,Juventus,A
+I1,1819,I1,2019-02-24,Chievo,Genoa,D
+I1,1819,I1,2019-02-24,Fiorentina,Inter,D
+I1,1819,I1,2019-02-24,Parma,Napoli,A
+I1,1819,I1,2019-02-24,Sampdoria,Cagliari,H
+I1,1819,I1,2019-02-24,Sassuolo,Spal,D
+I1,1819,I1,2019-03-01,Cagliari,Inter,H
+I1,1819,I1,2019-03-02,Empoli,Parma,D
+I1,1819,I1,2019-03-02,Lazio,Roma,H
+I1,1819,I1,2019-03-02,Milan,Sassuolo,H
+I1,1819,I1,2019-03-03,Atalanta,Fiorentina,H
+I1,1819,I1,2019-03-03,Genoa,Frosinone,D
+I1,1819,I1,2019-03-03,Napoli,Juventus,A
+I1,1819,I1,2019-03-03,Spal,Sampdoria,A
+I1,1819,I1,2019-03-03,Torino,Chievo,H
+I1,1819,I1,2019-03-03,Udinese,Bologna,H
+SP1,1819,SP1,2018-08-17,Betis,Levante,A
+SP1,1819,SP1,2018-08-17,Girona,Valladolid,D
+SP1,1819,SP1,2018-08-18,Barcelona,Alaves,H
+SP1,1819,SP1,2018-08-18,Celta,Espanol,D
+SP1,1819,SP1,2018-08-18,Villarreal,Sociedad,A
+SP1,1819,SP1,2018-08-19,Eibar,Huesca,A
+SP1,1819,SP1,2018-08-19,Real Madrid,Getafe,H
+SP1,1819,SP1,2018-08-19,Vallecano,Sevilla,A
+SP1,1819,SP1,2018-08-20,Ath Bilbao,Leganes,H
+SP1,1819,SP1,2018-08-20,Valencia,Ath Madrid,D
+SP1,1819,SP1,2018-08-24,Getafe,Eibar,H
+SP1,1819,SP1,2018-08-24,Leganes,Sociedad,D
+SP1,1819,SP1,2018-08-25,Alaves,Betis,D
+SP1,1819,SP1,2018-08-25,Ath Madrid,Vallecano,H
+SP1,1819,SP1,2018-08-25,Valladolid,Barcelona,A
+SP1,1819,SP1,2018-08-26,Espanol,Valencia,H
+SP1,1819,SP1,2018-08-26,Girona,Real Madrid,A
+SP1,1819,SP1,2018-08-26,Sevilla,Villarreal,D
+SP1,1819,SP1,2018-08-27,Ath Bilbao,Huesca,D
+SP1,1819,SP1,2018-08-27,Levante,Celta,A
+SP1,1819,SP1,2018-08-31,Eibar,Sociedad,H
+SP1,1819,SP1,2018-08-31,Getafe,Valladolid,D
+SP1,1819,SP1,2018-08-31,Villarreal,Girona,A
+SP1,1819,SP1,2018-09-01,Celta,Ath Madrid,H
+SP1,1819,SP1,2018-09-01,Real Madrid,Leganes,H
+SP1,1819,SP1,2018-09-02,Alaves,Espanol,H
+SP1,1819,SP1,2018-09-02,Barcelona,Huesca,H
+SP1,1819,SP1,2018-09-02,Betis,Sevilla,H
+SP1,1819,SP1,2018-09-02,Levante,Valencia,D
+SP1,1819,SP1,2018-09-14,Huesca,Vallecano,A
+SP1,1819,SP1,2018-09-15,Ath Bilbao,Real Madrid,D
+SP1,1819,SP1,2018-09-15,Ath Madrid,Eibar,D
+SP1,1819,SP1,2018-09-15,Sociedad,Barcelona,A
+SP1,1819,SP1,2018-09-15,Valencia,Betis,D
+SP1,1819,SP1,2018-09-16,Espanol,Levante,H
+SP1,1819,SP1,2018-09-16,Leganes,Villarreal,A
+SP1,1819,SP1,2018-09-16,Sevilla,Getafe,A
+SP1,1819,SP1,2018-09-16,Valladolid,Alaves,A
+SP1,1819,SP1,2018-09-17,Girona,Celta,H
+SP1,1819,SP1,2018-09-21,Huesca,Sociedad,A
+SP1,1819,SP1,2018-09-22,Celta,Valladolid,D
+SP1,1819,SP1,2018-09-22,Eibar,Leganes,H
+SP1,1819,SP1,2018-09-22,Getafe,Ath Madrid,A
+SP1,1819,SP1,2018-09-22,Real Madrid,Espanol,H
+SP1,1819,SP1,2018-09-22,Vallecano,Alaves,A
+SP1,1819,SP1,2018-09-23,Barcelona,Girona,D
+SP1,1819,SP1,2018-09-23,Betis,Ath Bilbao,D
+SP1,1819,SP1,2018-09-23,Levante,Sevilla,A
+SP1,1819,SP1,2018-09-23,Villarreal,Valencia,D
+SP1,1819,SP1,2018-09-25,Ath Madrid,Huesca,H
+SP1,1819,SP1,2018-09-25,Espanol,Eibar,H
+SP1,1819,SP1,2018-09-25,Sociedad,Vallecano,D
+SP1,1819,SP1,2018-09-26,Ath Bilbao,Villarreal,A
+SP1,1819,SP1,2018-09-26,Leganes,Barcelona,H
+SP1,1819,SP1,2018-09-26,Sevilla,Real Madrid,H
+SP1,1819,SP1,2018-09-26,Valencia,Celta,D
+SP1,1819,SP1,2018-09-27,Alaves,Getafe,D
+SP1,1819,SP1,2018-09-27,Girona,Betis,A
+SP1,1819,SP1,2018-09-27,Valladolid,Levante,H
+SP1,1819,SP1,2018-09-28,Vallecano,Espanol,D
+SP1,1819,SP1,2018-09-29,Barcelona,Ath Bilbao,D
+SP1,1819,SP1,2018-09-29,Eibar,Sevilla,A
+SP1,1819,SP1,2018-09-29,Real Madrid,Ath Madrid,D
+SP1,1819,SP1,2018-09-29,Sociedad,Valencia,A
+SP1,1819,SP1,2018-09-30,Betis,Leganes,H
+SP1,1819,SP1,2018-09-30,Huesca,Girona,D
+SP1,1819,SP1,2018-09-30,Levante,Alaves,H
+SP1,1819,SP1,2018-09-30,Villarreal,Valladolid,A
+SP1,1819,SP1,2018-10-01,Celta,Getafe,D
+SP1,1819,SP1,2018-10-05,Ath Bilbao,Sociedad,A
+SP1,1819,SP1,2018-10-06,Alaves,Real Madrid,H
+SP1,1819,SP1,2018-10-06,Getafe,Levante,A
+SP1,1819,SP1,2018-10-06,Girona,Eibar,A
+SP1,1819,SP1,2018-10-06,Leganes,Vallecano,H
+SP1,1819,SP1,2018-10-07,Ath Madrid,Betis,H
+SP1,1819,SP1,2018-10-07,Espanol,Villarreal,H
+SP1,1819,SP1,2018-10-07,Sevilla,Celta,H
+SP1,1819,SP1,2018-10-07,Valencia,Barcelona,D
+SP1,1819,SP1,2018-10-07,Valladolid,Huesca,H
+SP1,1819,SP1,2018-10-19,Celta,Alaves,A
+SP1,1819,SP1,2018-10-20,Barcelona,Sevilla,H
+SP1,1819,SP1,2018-10-20,Real Madrid,Levante,A
+SP1,1819,SP1,2018-10-20,Valencia,Leganes,D
+SP1,1819,SP1,2018-10-20,Villarreal,Ath Madrid,D
+SP1,1819,SP1,2018-10-21,Betis,Valladolid,A
+SP1,1819,SP1,2018-10-21,Eibar,Ath Bilbao,D
+SP1,1819,SP1,2018-10-21,Huesca,Espanol,A
+SP1,1819,SP1,2018-10-21,Vallecano,Getafe,A
+SP1,1819,SP1,2018-10-22,Sociedad,Girona,D
+SP1,1819,SP1,2018-10-24,Vallecano,Ath Bilbao,D
+SP1,1819,SP1,2018-10-26,Valladolid,Espanol,D
+SP1,1819,SP1,2018-10-27,Ath Bilbao,Valencia,D
+SP1,1819,SP1,2018-10-27,Ath Madrid,Sociedad,H
+SP1,1819,SP1,2018-10-27,Celta,Eibar,H
+SP1,1819,SP1,2018-10-27,Girona,Vallecano,H
+SP1,1819,SP1,2018-10-27,Levante,Leganes,H
+SP1,1819,SP1,2018-10-28,Alaves,Villarreal,H
+SP1,1819,SP1,2018-10-28,Barcelona,Real Madrid,H
+SP1,1819,SP1,2018-10-28,Getafe,Betis,H
+SP1,1819,SP1,2018-10-28,Sevilla,Huesca,H
+SP1,1819,SP1,2018-11-03,Leganes,Ath Madrid,D
+SP1,1819,SP1,2018-11-03,Real Madrid,Valladolid,H
+SP1,1819,SP1,2018-11-03,Valencia,Girona,A
+SP1,1819,SP1,2018-11-03,Vallecano,Barcelona,A
+SP1,1819,SP1,2018-11-04,Betis,Celta,D
+SP1,1819,SP1,2018-11-04,Eibar,Alaves,H
+SP1,1819,SP1,2018-11-04,Huesca,Getafe,D
+SP1,1819,SP1,2018-11-04,Sociedad,Sevilla,D
+SP1,1819,SP1,2018-11-04,Villarreal,Levante,D
+SP1,1819,SP1,2018-11-05,Espanol,Ath Bilbao,H
+SP1,1819,SP1,2018-11-09,Levante,Sociedad,A
+SP1,1819,SP1,2018-11-10,Ath Madrid,Ath Bilbao,H
+SP1,1819,SP1,2018-11-10,Getafe,Valencia,A
+SP1,1819,SP1,2018-11-10,Girona,Leganes,D
+SP1,1819,SP1,2018-11-10,Valladolid,Eibar,D
+SP1,1819,SP1,2018-11-11,Alaves,Huesca,H
+SP1,1819,SP1,2018-11-11,Barcelona,Betis,A
+SP1,1819,SP1,2018-11-11,Celta,Real Madrid,A
+SP1,1819,SP1,2018-11-11,Sevilla,Espanol,H
+SP1,1819,SP1,2018-11-11,Vallecano,Villarreal,D
+SP1,1819,SP1,2018-11-23,Leganes,Alaves,H
+SP1,1819,SP1,2018-11-24,Ath Madrid,Barcelona,D
+SP1,1819,SP1,2018-11-24,Eibar,Real Madrid,H
+SP1,1819,SP1,2018-11-24,Huesca,Levante,D
+SP1,1819,SP1,2018-11-24,Valencia,Vallecano,H
+SP1,1819,SP1,2018-11-25,Ath Bilbao,Getafe,D
+SP1,1819,SP1,2018-11-25,Espanol,Girona,A
+SP1,1819,SP1,2018-11-25,Sevilla,Valladolid,H
+SP1,1819,SP1,2018-11-25,Villarreal,Betis,H
+SP1,1819,SP1,2018-11-26,Sociedad,Celta,H
+SP1,1819,SP1,2018-11-30,Vallecano,Eibar,H
+SP1,1819,SP1,2018-12-01,Celta,Huesca,H
+SP1,1819,SP1,2018-12-01,Getafe,Espanol,H
+SP1,1819,SP1,2018-12-01,Real Madrid,Valencia,H
+SP1,1819,SP1,2018-12-01,Valladolid,Leganes,A
+SP1,1819,SP1,2018-12-02,Alaves,Sevilla,D
+SP1,1819,SP1,2018-12-02,Barcelona,Villarreal,H
+SP1,1819,SP1,2018-12-02,Betis,Sociedad,H
+SP1,1819,SP1,2018-12-02,Girona,Ath Madrid,D
+SP1,1819,SP1,2018-12-03,Levante,Ath Bilbao,H
+SP1,1819,SP1,2018-12-07,Leganes,Getafe,D
+SP1,1819,SP1,2018-12-08,Ath Madrid,Alaves,H
+SP1,1819,SP1,2018-12-08,Espanol,Barcelona,A
+SP1,1819,SP1,2018-12-08,Valencia,Sevilla,D
+SP1,1819,SP1,2018-12-08,Villarreal,Celta,A
+SP1,1819,SP1,2018-12-09,Betis,Vallecano,H
+SP1,1819,SP1,2018-12-09,Eibar,Levante,D
+SP1,1819,SP1,2018-12-09,Huesca,Real Madrid,A
+SP1,1819,SP1,2018-12-09,Sociedad,Valladolid,A
+SP1,1819,SP1,2018-12-10,Ath Bilbao,Girona,H
+SP1,1819,SP1,2018-12-14,Celta,Leganes,D
+SP1,1819,SP1,2018-12-15,Eibar,Valencia,D
+SP1,1819,SP1,2018-12-15,Getafe,Sociedad,H
+SP1,1819,SP1,2018-12-15,Real Madrid,Vallecano,H
+SP1,1819,SP1,2018-12-15,Valladolid,Ath Madrid,A
+SP1,1819,SP1,2018-12-16,Espanol,Betis,A
+SP1,1819,SP1,2018-12-16,Huesca,Villarreal,D
+SP1,1819,SP1,2018-12-16,Levante,Barcelona,A
+SP1,1819,SP1,2018-12-16,Sevilla,Girona,H
+SP1,1819,SP1,2018-12-17,Alaves,Ath Bilbao,D
+SP1,1819,SP1,2018-12-21,Girona,Getafe,D
+SP1,1819,SP1,2018-12-21,Sociedad,Alaves,A
+SP1,1819,SP1,2018-12-22,Ath Bilbao,Valladolid,D
+SP1,1819,SP1,2018-12-22,Ath Madrid,Espanol,H
+SP1,1819,SP1,2018-12-22,Barcelona,Celta,H
+SP1,1819,SP1,2018-12-22,Betis,Eibar,D
+SP1,1819,SP1,2018-12-23,Leganes,Sevilla,D
+SP1,1819,SP1,2018-12-23,Valencia,Huesca,H
+SP1,1819,SP1,2018-12-23,Vallecano,Levante,H
+SP1,1819,SP1,2019-01-03,Villarreal,Real Madrid,D
+SP1,1819,SP1,2019-01-04,Espanol,Leganes,H
+SP1,1819,SP1,2019-01-04,Levante,Girona,D
+SP1,1819,SP1,2019-01-05,Alaves,Valencia,H
+SP1,1819,SP1,2019-01-05,Huesca,Betis,H
+SP1,1819,SP1,2019-01-05,Valladolid,Vallecano,A
+SP1,1819,SP1,2019-01-06,Eibar,Villarreal,D
+SP1,1819,SP1,2019-01-06,Getafe,Barcelona,A
+SP1,1819,SP1,2019-01-06,Real Madrid,Sociedad,A
+SP1,1819,SP1,2019-01-06,Sevilla,Ath Madrid,D
+SP1,1819,SP1,2019-01-07,Celta,Ath Bilbao,A
+SP1,1819,SP1,2019-01-11,Vallecano,Celta,H
+SP1,1819,SP1,2019-01-12,Girona,Alaves,D
+SP1,1819,SP1,2019-01-12,Leganes,Huesca,H
+SP1,1819,SP1,2019-01-12,Valencia,Valladolid,D
+SP1,1819,SP1,2019-01-12,Villarreal,Getafe,A
+SP1,1819,SP1,2019-01-13,Ath Bilbao,Sevilla,H
+SP1,1819,SP1,2019-01-13,Ath Madrid,Levante,H
+SP1,1819,SP1,2019-01-13,Barcelona,Eibar,H
+SP1,1819,SP1,2019-01-13,Betis,Real Madrid,A
+SP1,1819,SP1,2019-01-14,Sociedad,Espanol,H
+SP1,1819,SP1,2019-01-18,Getafe,Alaves,H
+SP1,1819,SP1,2019-01-19,Celta,Valencia,A
+SP1,1819,SP1,2019-01-19,Huesca,Ath Madrid,A
+SP1,1819,SP1,2019-01-19,Real Madrid,Sevilla,H
+SP1,1819,SP1,2019-01-20,Barcelona,Leganes,H
+SP1,1819,SP1,2019-01-20,Betis,Girona,H
+SP1,1819,SP1,2019-01-20,Levante,Valladolid,H
+SP1,1819,SP1,2019-01-20,Vallecano,Sociedad,D
+SP1,1819,SP1,2019-01-20,Villarreal,Ath Bilbao,D
+SP1,1819,SP1,2019-01-21,Eibar,Espanol,H
+SP1,1819,SP1,2019-01-26,Ath Madrid,Getafe,H
+SP1,1819,SP1,2019-01-26,Leganes,Eibar,D
+SP1,1819,SP1,2019-01-26,Sevilla,Levante,H
+SP1,1819,SP1,2019-01-26,Valencia,Villarreal,H
+SP1,1819,SP1,2019-01-27,Ath Bilbao,Betis,H
+SP1,1819,SP1,2019-01-27,Espanol,Real Madrid,A
+SP1,1819,SP1,2019-01-27,Girona,Barcelona,A
+SP1,1819,SP1,2019-01-27,Sociedad,Huesca,D
+SP1,1819,SP1,2019-01-27,Valladolid,Celta,H
+SP1,1819,SP1,2019-01-28,Alaves,Vallecano,A
+SP1,1819,SP1,2019-02-01,Huesca,Valladolid,H
+SP1,1819,SP1,2019-02-02,Barcelona,Valencia,D
+SP1,1819,SP1,2019-02-02,Celta,Sevilla,H
+SP1,1819,SP1,2019-02-02,Levante,Getafe,D
+SP1,1819,SP1,2019-02-02,Sociedad,Ath Bilbao,H
+SP1,1819,SP1,2019-02-03,Betis,Ath Madrid,H
+SP1,1819,SP1,2019-02-03,Eibar,Girona,H
+SP1,1819,SP1,2019-02-03,Real Madrid,Alaves,H
+SP1,1819,SP1,2019-02-03,Villarreal,Espanol,D
+SP1,1819,SP1,2019-02-04,Vallecano,Leganes,A
+SP1,1819,SP1,2019-02-08,Valladolid,Villarreal,D
+SP1,1819,SP1,2019-02-09,Ath Madrid,Real Madrid,A
+SP1,1819,SP1,2019-02-09,Espanol,Vallecano,H
+SP1,1819,SP1,2019-02-09,Getafe,Celta,H
+SP1,1819,SP1,2019-02-09,Girona,Huesca,A
+SP1,1819,SP1,2019-02-10,Ath Bilbao,Barcelona,D
+SP1,1819,SP1,2019-02-10,Leganes,Betis,H
+SP1,1819,SP1,2019-02-10,Sevilla,Eibar,D
+SP1,1819,SP1,2019-02-10,Valencia,Sociedad,D
+SP1,1819,SP1,2019-02-11,Alaves,Levante,H
+SP1,1819,SP1,2019-02-15,Eibar,Getafe,D
+SP1,1819,SP1,2019-02-16,Barcelona,Valladolid,H
+SP1,1819,SP1,2019-02-16,Celta,Levante,A
+SP1,1819,SP1,2019-02-16,Sociedad,Leganes,H
+SP1,1819,SP1,2019-02-16,Vallecano,Ath Madrid,A
+SP1,1819,SP1,2019-02-17,Betis,Alaves,D
+SP1,1819,SP1,2019-02-17,Real Madrid,Girona,A
+SP1,1819,SP1,2019-02-17,Valencia,Espanol,D
+SP1,1819,SP1,2019-02-17,Villarreal,Sevilla,H
+SP1,1819,SP1,2019-02-18,Huesca,Ath Bilbao,A
+SP1,1819,SP1,2019-02-22,Espanol,Huesca,D
+SP1,1819,SP1,2019-02-23,Alaves,Celta,D
+SP1,1819,SP1,2019-02-23,Ath Bilbao,Eibar,H
+SP1,1819,SP1,2019-02-23,Getafe,Vallecano,H
+SP1,1819,SP1,2019-02-23,Sevilla,Barcelona,A
+SP1,1819,SP1,2019-02-24,Ath Madrid,Villarreal,H
+SP1,1819,SP1,2019-02-24,Leganes,Valencia,D
+SP1,1819,SP1,2019-02-24,Levante,Real Madrid,A
+SP1,1819,SP1,2019-02-24,Valladolid,Betis,A
+SP1,1819,SP1,2019-02-25,Girona,Sociedad,D
+SP1,1819,SP1,2019-03-01,Vallecano,Girona,A
+SP1,1819,SP1,2019-03-02,Espanol,Valladolid,H
+SP1,1819,SP1,2019-03-02,Huesca,Sevilla,H
+SP1,1819,SP1,2019-03-02,Real Madrid,Barcelona,A
+SP1,1819,SP1,2019-03-02,Villarreal,Alaves,A
+SP1,1819,SP1,2019-03-03,Betis,Getafe,A
+SP1,1819,SP1,2019-03-03,Eibar,Celta,H
+SP1,1819,SP1,2019-03-03,Sociedad,Ath Madrid,A
+SP1,1819,SP1,2019-03-03,Valencia,Ath Bilbao,H
+SP1,1819,SP1,2019-03-04,Leganes,Levante,H
+F1,1819,F1,2018-08-10,Marseille,Toulouse,H
+F1,1819,F1,2018-08-11,Angers,Nimes,A
+F1,1819,F1,2018-08-11,Lille,Rennes,H
+F1,1819,F1,2018-08-11,Montpellier,Dijon,A
+F1,1819,F1,2018-08-11,Nantes,Monaco,A
+F1,1819,F1,2018-08-11,Nice,Reims,A
+F1,1819,F1,2018-08-11,St Etienne,Guingamp,H
+F1,1819,F1,2018-08-12,Bordeaux,Strasbourg,A
+F1,1819,F1,2018-08-12,Lyon,Amiens,H
+F1,1819,F1,2018-08-12,Paris SG,Caen,H
+F1,1819,F1,2018-08-17,Reims,Lyon,H
+F1,1819,F1,2018-08-18,Amiens,Montpellier,A
+F1,1819,F1,2018-08-18,Caen,Nice,D
+F1,1819,F1,2018-08-18,Dijon,Nantes,H
+F1,1819,F1,2018-08-18,Guingamp,Paris SG,A
+F1,1819,F1,2018-08-18,Monaco,Lille,D
+F1,1819,F1,2018-08-18,Rennes,Angers,H
+F1,1819,F1,2018-08-19,Nimes,Marseille,H
+F1,1819,F1,2018-08-19,Strasbourg,St Etienne,D
+F1,1819,F1,2018-08-19,Toulouse,Bordeaux,H
+F1,1819,F1,2018-08-24,Lyon,Strasbourg,H
+F1,1819,F1,2018-08-25,Amiens,Reims,H
+F1,1819,F1,2018-08-25,Montpellier,St Etienne,D
+F1,1819,F1,2018-08-25,Nantes,Caen,D
+F1,1819,F1,2018-08-25,Nice,Dijon,A
+F1,1819,F1,2018-08-25,Paris SG,Angers,H
+F1,1819,F1,2018-08-25,Toulouse,Nimes,H
+F1,1819,F1,2018-08-26,Bordeaux,Monaco,H
+F1,1819,F1,2018-08-26,Lille,Guingamp,H
+F1,1819,F1,2018-08-26,Marseille,Rennes,D
+F1,1819,F1,2018-08-31,Lyon,Nice,A
+F1,1819,F1,2018-09-01,Angers,Lille,H
+F1,1819,F1,2018-09-01,Dijon,Caen,A
+F1,1819,F1,2018-09-01,Guingamp,Toulouse,A
+F1,1819,F1,2018-09-01,Nimes,Paris SG,A
+F1,1819,F1,2018-09-01,Reims,Montpellier,A
+F1,1819,F1,2018-09-01,Strasbourg,Nantes,A
+F1,1819,F1,2018-09-02,Monaco,Marseille,A
+F1,1819,F1,2018-09-02,Rennes,Bordeaux,H
+F1,1819,F1,2018-09-02,St Etienne,Amiens,D
+F1,1819,F1,2018-09-14,Nice,Rennes,H
+F1,1819,F1,2018-09-14,Paris SG,St Etienne,H
+F1,1819,F1,2018-09-15,Amiens,Lille,A
+F1,1819,F1,2018-09-15,Caen,Lyon,D
+F1,1819,F1,2018-09-15,Dijon,Angers,A
+F1,1819,F1,2018-09-15,Montpellier,Strasbourg,D
+F1,1819,F1,2018-09-15,Toulouse,Monaco,D
+F1,1819,F1,2018-09-16,Bordeaux,Nimes,D
+F1,1819,F1,2018-09-16,Marseille,Guingamp,H
+F1,1819,F1,2018-09-16,Nantes,Reims,D
+F1,1819,F1,2018-09-21,Monaco,Nimes,D
+F1,1819,F1,2018-09-22,Angers,Toulouse,D
+F1,1819,F1,2018-09-22,Lille,Nantes,H
+F1,1819,F1,2018-09-22,Montpellier,Nice,H
+F1,1819,F1,2018-09-22,Reims,Dijon,D
+F1,1819,F1,2018-09-22,St Etienne,Caen,H
+F1,1819,F1,2018-09-22,Strasbourg,Amiens,H
+F1,1819,F1,2018-09-23,Guingamp,Bordeaux,A
+F1,1819,F1,2018-09-23,Lyon,Marseille,H
+F1,1819,F1,2018-09-23,Rennes,Paris SG,A
+F1,1819,F1,2018-09-25,Monaco,Angers,A
+F1,1819,F1,2018-09-25,Nantes,Nice,A
+F1,1819,F1,2018-09-25,Toulouse,St Etienne,A
+F1,1819,F1,2018-09-26,Amiens,Rennes,H
+F1,1819,F1,2018-09-26,Bordeaux,Lille,H
+F1,1819,F1,2018-09-26,Caen,Montpellier,D
+F1,1819,F1,2018-09-26,Dijon,Lyon,A
+F1,1819,F1,2018-09-26,Marseille,Strasbourg,H
+F1,1819,F1,2018-09-26,Nimes,Guingamp,D
+F1,1819,F1,2018-09-26,Paris SG,Reims,H
+F1,1819,F1,2018-09-28,St Etienne,Monaco,H
+F1,1819,F1,2018-09-29,Angers,Guingamp,A
+F1,1819,F1,2018-09-29,Caen,Amiens,H
+F1,1819,F1,2018-09-29,Lyon,Nantes,D
+F1,1819,F1,2018-09-29,Nice,Paris SG,A
+F1,1819,F1,2018-09-29,Reims,Bordeaux,D
+F1,1819,F1,2018-09-29,Strasbourg,Dijon,H
+F1,1819,F1,2018-09-30,Lille,Marseille,H
+F1,1819,F1,2018-09-30,Montpellier,Nimes,H
+F1,1819,F1,2018-09-30,Rennes,Toulouse,D
+F1,1819,F1,2018-10-05,Toulouse,Nice,D
+F1,1819,F1,2018-10-06,Amiens,Dijon,H
+F1,1819,F1,2018-10-06,Angers,Strasbourg,D
+F1,1819,F1,2018-10-06,Guingamp,Montpellier,D
+F1,1819,F1,2018-10-06,Lille,St Etienne,H
+F1,1819,F1,2018-10-06,Nimes,Reims,D
+F1,1819,F1,2018-10-07,Bordeaux,Nantes,H
+F1,1819,F1,2018-10-07,Marseille,Caen,H
+F1,1819,F1,2018-10-07,Monaco,Rennes,A
+F1,1819,F1,2018-10-07,Paris SG,Lyon,H
+F1,1819,F1,2018-10-19,Lyon,Nimes,H
+F1,1819,F1,2018-10-20,Caen,Guingamp,D
+F1,1819,F1,2018-10-20,Dijon,Lille,A
+F1,1819,F1,2018-10-20,Nantes,Toulouse,H
+F1,1819,F1,2018-10-20,Paris SG,Amiens,H
+F1,1819,F1,2018-10-20,Reims,Angers,D
+F1,1819,F1,2018-10-20,Strasbourg,Monaco,H
+F1,1819,F1,2018-10-21,Montpellier,Bordeaux,H
+F1,1819,F1,2018-10-21,Nice,Marseille,A
+F1,1819,F1,2018-10-21,St Etienne,Rennes,D
+F1,1819,F1,2018-10-26,Nimes,St Etienne,D
+F1,1819,F1,2018-10-27,Amiens,Nantes,A
+F1,1819,F1,2018-10-27,Angers,Lyon,A
+F1,1819,F1,2018-10-27,Guingamp,Strasbourg,D
+F1,1819,F1,2018-10-27,Lille,Caen,H
+F1,1819,F1,2018-10-27,Monaco,Dijon,D
+F1,1819,F1,2018-10-27,Toulouse,Montpellier,A
+F1,1819,F1,2018-10-28,Bordeaux,Nice,A
+F1,1819,F1,2018-10-28,Marseille,Paris SG,A
+F1,1819,F1,2018-10-28,Rennes,Reims,A
+F1,1819,F1,2018-11-02,Paris SG,Lille,H
+F1,1819,F1,2018-11-03,Caen,Rennes,A
+F1,1819,F1,2018-11-03,Dijon,Nimes,A
+F1,1819,F1,2018-11-03,Lyon,Bordeaux,D
+F1,1819,F1,2018-11-03,Nice,Amiens,H
+F1,1819,F1,2018-11-03,Reims,Monaco,H
+F1,1819,F1,2018-11-03,Strasbourg,Toulouse,D
+F1,1819,F1,2018-11-04,Montpellier,Marseille,H
+F1,1819,F1,2018-11-04,Nantes,Guingamp,H
+F1,1819,F1,2018-11-04,St Etienne,Angers,H
+F1,1819,F1,2018-11-09,Lille,Strasbourg,D
+F1,1819,F1,2018-11-10,Angers,Montpellier,H
+F1,1819,F1,2018-11-10,Guingamp,Lyon,A
+F1,1819,F1,2018-11-10,Nimes,Nice,A
+F1,1819,F1,2018-11-10,St Etienne,Reims,H
+F1,1819,F1,2018-11-10,Toulouse,Amiens,A
+F1,1819,F1,2018-11-11,Bordeaux,Caen,D
+F1,1819,F1,2018-11-11,Marseille,Dijon,H
+F1,1819,F1,2018-11-11,Monaco,Paris SG,A
+F1,1819,F1,2018-11-11,Rennes,Nantes,D
+F1,1819,F1,2018-11-23,Lyon,St Etienne,H
+F1,1819,F1,2018-11-24,Caen,Monaco,A
+F1,1819,F1,2018-11-24,Dijon,Bordeaux,D
+F1,1819,F1,2018-11-24,Nantes,Angers,D
+F1,1819,F1,2018-11-24,Paris SG,Toulouse,H
+F1,1819,F1,2018-11-24,Reims,Guingamp,H
+F1,1819,F1,2018-11-24,Strasbourg,Nimes,A
+F1,1819,F1,2018-11-25,Amiens,Marseille,A
+F1,1819,F1,2018-11-25,Montpellier,Rennes,D
+F1,1819,F1,2018-11-25,Nice,Lille,H
+F1,1819,F1,2018-11-30,St Etienne,Nantes,H
+F1,1819,F1,2018-12-01,Angers,Caen,D
+F1,1819,F1,2018-12-01,Guingamp,Nice,D
+F1,1819,F1,2018-12-01,Lille,Lyon,D
+F1,1819,F1,2018-12-01,Monaco,Montpellier,A
+F1,1819,F1,2018-12-01,Nimes,Amiens,H
+F1,1819,F1,2018-12-02,Bordeaux,Paris SG,D
+F1,1819,F1,2018-12-02,Marseille,Reims,D
+F1,1819,F1,2018-12-02,Rennes,Strasbourg,A
+F1,1819,F1,2018-12-02,Toulouse,Dijon,D
+F1,1819,F1,2018-12-04,Amiens,Monaco,A
+F1,1819,F1,2018-12-04,Montpellier,Lille,A
+F1,1819,F1,2018-12-04,Nice,Angers,D
+F1,1819,F1,2018-12-05,Bordeaux,St Etienne,H
+F1,1819,F1,2018-12-05,Caen,Nimes,A
+F1,1819,F1,2018-12-05,Dijon,Guingamp,H
+F1,1819,F1,2018-12-05,Lyon,Rennes,A
+F1,1819,F1,2018-12-05,Nantes,Marseille,H
+F1,1819,F1,2018-12-05,Reims,Toulouse,A
+F1,1819,F1,2018-12-05,Strasbourg,Paris SG,D
+F1,1819,F1,2018-12-08,Guingamp,Amiens,A
+F1,1819,F1,2018-12-08,Rennes,Dijon,H
+F1,1819,F1,2018-12-09,Lille,Reims,D
+F1,1819,F1,2018-12-09,Strasbourg,Caen,D
+F1,1819,F1,2018-12-15,Reims,Strasbourg,H
+F1,1819,F1,2018-12-16,Lyon,Monaco,H
+F1,1819,F1,2018-12-16,Nice,St Etienne,D
+F1,1819,F1,2018-12-16,Nimes,Lille,A
+F1,1819,F1,2018-12-18,Caen,Toulouse,H
+F1,1819,F1,2018-12-22,Angers,Marseille,D
+F1,1819,F1,2018-12-22,Lille,Toulouse,A
+F1,1819,F1,2018-12-22,Monaco,Guingamp,A
+F1,1819,F1,2018-12-22,Montpellier,Lyon,D
+F1,1819,F1,2018-12-22,Paris SG,Nantes,H
+F1,1819,F1,2018-12-22,Reims,Caen,D
+F1,1819,F1,2018-12-22,Rennes,Nimes,H
+F1,1819,F1,2018-12-22,St Etienne,Dijon,H
+F1,1819,F1,2018-12-22,Strasbourg,Nice,H
+F1,1819,F1,2018-12-23,Bordeaux,Amiens,D
+F1,1819,F1,2019-01-08,Amiens,Angers,D
+F1,1819,F1,2019-01-08,Nantes,Montpellier,H
+F1,1819,F1,2019-01-11,Caen,Lille,A
+F1,1819,F1,2019-01-11,Lyon,Reims,D
+F1,1819,F1,2019-01-12,Amiens,Paris SG,A
+F1,1819,F1,2019-01-12,Guingamp,St Etienne,A
+F1,1819,F1,2019-01-12,Nice,Bordeaux,H
+F1,1819,F1,2019-01-13,Dijon,Montpellier,D
+F1,1819,F1,2019-01-13,Marseille,Monaco,D
+F1,1819,F1,2019-01-13,Nantes,Rennes,A
+F1,1819,F1,2019-01-13,Toulouse,Strasbourg,A
+F1,1819,F1,2019-01-15,Angers,Bordeaux,A
+F1,1819,F1,2019-01-16,Guingamp,Rennes,H
+F1,1819,F1,2019-01-16,Monaco,Nice,D
+F1,1819,F1,2019-01-16,Nimes,Nantes,H
+F1,1819,F1,2019-01-16,St Etienne,Marseille,H
+F1,1819,F1,2019-01-16,Toulouse,Lyon,D
+F1,1819,F1,2019-01-18,Lille,Amiens,H
+F1,1819,F1,2019-01-19,Monaco,Strasbourg,A
+F1,1819,F1,2019-01-19,Nimes,Toulouse,A
+F1,1819,F1,2019-01-19,Paris SG,Guingamp,H
+F1,1819,F1,2019-01-19,Reims,Nice,D
+F1,1819,F1,2019-01-20,Angers,Nantes,H
+F1,1819,F1,2019-01-20,Bordeaux,Dijon,H
+F1,1819,F1,2019-01-20,Caen,Marseille,A
+F1,1819,F1,2019-01-20,Rennes,Montpellier,D
+F1,1819,F1,2019-01-20,St Etienne,Lyon,A
+F1,1819,F1,2019-01-23,Nimes,Angers,H
+F1,1819,F1,2019-01-25,Marseille,Lille,A
+F1,1819,F1,2019-01-26,Dijon,Monaco,H
+F1,1819,F1,2019-01-26,Guingamp,Reims,A
+F1,1819,F1,2019-01-26,Nice,Nimes,H
+F1,1819,F1,2019-01-26,Strasbourg,Bordeaux,H
+F1,1819,F1,2019-01-27,Amiens,Lyon,A
+F1,1819,F1,2019-01-27,Montpellier,Caen,H
+F1,1819,F1,2019-01-27,Paris SG,Rennes,H
+F1,1819,F1,2019-01-27,Toulouse,Angers,D
+F1,1819,F1,2019-01-30,Nantes,St Etienne,D
+F1,1819,F1,2019-02-01,Lille,Nice,H
+F1,1819,F1,2019-02-02,Angers,Dijon,H
+F1,1819,F1,2019-02-02,Monaco,Toulouse,H
+F1,1819,F1,2019-02-02,Reims,Marseille,H
+F1,1819,F1,2019-02-02,Rennes,Amiens,H
+F1,1819,F1,2019-02-03,Lyon,Paris SG,H
+F1,1819,F1,2019-02-03,Nimes,Montpellier,D
+F1,1819,F1,2019-02-05,Marseille,Bordeaux,H
+F1,1819,F1,2019-02-08,Dijon,Marseille,A
+F1,1819,F1,2019-02-09,Amiens,Caen,H
+F1,1819,F1,2019-02-09,Paris SG,Bordeaux,H
+F1,1819,F1,2019-02-09,Strasbourg,Angers,A
+F1,1819,F1,2019-02-10,Guingamp,Lille,A
+F1,1819,F1,2019-02-10,Montpellier,Monaco,D
+F1,1819,F1,2019-02-10,Nantes,Nimes,A
+F1,1819,F1,2019-02-10,Nice,Lyon,H
+F1,1819,F1,2019-02-10,Rennes,St Etienne,H
+F1,1819,F1,2019-02-10,Toulouse,Reims,D
+F1,1819,F1,2019-02-13,Caen,Nantes,A
+F1,1819,F1,2019-02-13,St Etienne,Strasbourg,H
+F1,1819,F1,2019-02-15,Lyon,Guingamp,H
+F1,1819,F1,2019-02-15,Nimes,Dijon,H
+F1,1819,F1,2019-02-16,Angers,Nice,H
+F1,1819,F1,2019-02-16,Marseille,Amiens,H
+F1,1819,F1,2019-02-16,Monaco,Nantes,H
+F1,1819,F1,2019-02-17,Bordeaux,Toulouse,H
+F1,1819,F1,2019-02-17,Caen,Strasbourg,D
+F1,1819,F1,2019-02-17,Lille,Montpellier,D
+F1,1819,F1,2019-02-17,Reims,Rennes,H
+F1,1819,F1,2019-02-17,St Etienne,Paris SG,A
+F1,1819,F1,2019-02-20,Bordeaux,Guingamp,D
+F1,1819,F1,2019-02-20,Paris SG,Montpellier,H
+F1,1819,F1,2019-02-22,Dijon,St Etienne,A
+F1,1819,F1,2019-02-22,Strasbourg,Lille,D
+F1,1819,F1,2019-02-23,Amiens,Nice,H
+F1,1819,F1,2019-02-23,Guingamp,Angers,H
+F1,1819,F1,2019-02-23,Paris SG,Nimes,H
+F1,1819,F1,2019-02-24,Monaco,Lyon,H
+F1,1819,F1,2019-02-24,Montpellier,Reims,A
+F1,1819,F1,2019-02-24,Nantes,Bordeaux,H
+F1,1819,F1,2019-02-24,Rennes,Marseille,D
+F1,1819,F1,2019-02-24,Toulouse,Caen,D
+F1,1819,F1,2019-03-02,Angers,Monaco,D
+F1,1819,F1,2019-03-02,Caen,Paris SG,A
+F1,1819,F1,2019-03-02,Reims,Amiens,D
+F1,1819,F1,2019-03-03,Guingamp,Nantes,D
+F1,1819,F1,2019-03-03,Lille,Dijon,H
+F1,1819,F1,2019-03-03,Lyon,Toulouse,H
+F1,1819,F1,2019-03-03,Marseille,St Etienne,H
+F1,1819,F1,2019-03-03,Nice,Strasbourg,H
