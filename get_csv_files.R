@@ -126,7 +126,7 @@ for (i in seq_along(csv_urls$url)){
   csv_temp <- read.csv(csv_urls$url[i])
   
   # convert to tibble
-  csv_temp <- as.tibble(csv_temp)
+  csv_temp <- as_tibble(csv_temp)
   
   # write csv
   write_csv(csv_temp, csv_urls$file_name[i])
